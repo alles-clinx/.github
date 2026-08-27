@@ -1,0 +1,72 @@
+<div align="center">
+
+# Alle’s ClinX
+
+**Science. Systems. Certainty.**
+
+Institutional hygiene systems, cleaning chemistry, compliance resources, and operational tools for professional facilities across India.
+
+[Website](https://allesclinx.com/) · [Products](https://allesclinx.com/store/) · [Document Center](https://allesclinx.com/support/media-documents/) · [Insights](https://allesclinx.com/insights/) · [Support](https://allesclinx.com/support/)
+
+</div>
+
+## Better hygiene is a system
+
+Alle’s ClinX develops procurement-grade cleaning chemicals and practical digital tools for healthcare, education, hospitality, and industrial facilities. We connect formulation, correct dilution, safety documentation, usage guidance, and operational visibility so teams can clean consistently and procure with confidence.
+
+## What we work on
+
+- **Institutional cleaning chemistry** — purpose-built products for demanding Indian operating environments.
+- **Safety and technical documentation** — accessible SDS, TDS, usage guidance, and product references.
+- **Nova** — an AI-assisted hygiene guidance experience for product, dilution, and operational questions.
+- **Metricon** — chemistry, procurement, dosage, cost, and supplier-decision calculators.
+- **Compliance-ready operations** — clearer procedures, traceable information, and repeatable facility workflows.
+- **Responsible packaging** — systems designed to reduce waste and improve container recovery.
+
+## Explore Alle’s ClinX
+
+| Resource | What you’ll find |
+| --- | --- |
+| [Product Store](https://allesclinx.com/store/) | Institutional cleaning and hygiene chemicals |
+| [Document Center](https://allesclinx.com/support/media-documents/) | Safety Data Sheets, Technical Data Sheets, user guides, and company documents |
+| [Nova](https://allesclinx.com/nova/) | AI-assisted institutional hygiene guidance |
+| [Metricon](https://allesclinx.com/metricon/) | Chemistry, dosage, procurement, and cost calculators |
+| [Insights](https://allesclinx.com/insights/) | Practical writing on hygiene, chemistry, compliance, and facility operations |
+| [Support Centre](https://allesclinx.com/support/) | Ordering, dilution, QR-code, product, and documentation help |
+| [Contact](https://allesclinx.com/support/contact/) | Product support, procurement enquiries, and institutional pilots |
+
+## Our principles
+
+1. **Evidence before claims.** Technical information should be testable, traceable, and clearly communicated.
+2. **Safety before convenience.** Instructions, compatibility limits, PPE, and storage guidance belong close to the product.
+3. **Simple systems scale.** Good hygiene depends on repeatable processes, not guesswork.
+4. **Built for India.** Products and tools should reflect local water conditions, procurement realities, climate, and facility workflows.
+5. **Useful documentation.** Technical resources should help operators, procurement teams, auditors, and safety professionals act confidently.
+
+## Public roadmap
+
+We are building toward more useful public resources, including:
+
+- machine-readable product specifications;
+- open chemistry and dilution calculation utilities;
+- facility hygiene checklists and implementation templates;
+- versioned SDS and TDS references;
+- product-data and documentation integrations where safe and appropriate.
+
+Public repositories will be documented with clear setup instructions, contribution guidance, versioning, and security reporting information.
+
+## Contributing and support
+
+As public projects are released, each repository will explain how to report issues and propose improvements. For product usage or safety questions, use the official support channels instead of a public GitHub issue.
+
+- Product care: [care@allesclinx.com](mailto:care@allesclinx.com)
+- Procurement: [procurement@allesclinx.com](mailto:procurement@allesclinx.com)
+- Website: [allesclinx.com](https://allesclinx.com/)
+
+## Safety notice
+
+Information published here supports professional decision-making but does not replace the current product label, Safety Data Sheet, Technical Data Sheet, applicable regulation, or an institution’s approved operating procedure. Never mix chemical products unless the official documentation explicitly permits it.
+
+---
+
+**Alle’s ClinX** is a brand of Champaran Innovatives Private Limited, India.
