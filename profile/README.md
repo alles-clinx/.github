@@ -6,7 +6,7 @@
 
 Institutional hygiene systems, cleaning chemistry, compliance resources, and operational tools for professional facilities across India.
 
-[Website](https://allesclinx.com/) · [Products](https://allesclinx.com/store/) · [Document Center](https://allesclinx.com/support/media-documents/) · [Insights](https://allesclinx.com/insights/) · [Support](https://allesclinx.com/support/)
+[Website](https://allesclinx.com/) · [Products](https://allesclinx.com/shop/) · [Document Center](https://allesclinx.com/support/media-documents/) · [SDS Archive](https://github.com/alles-clinx/.github/tree/main/sds) · [Insights](https://allesclinx.com/insights/) · [Support](https://allesclinx.com/support/)
 
 </div>
 
@@ -27,8 +27,9 @@ Alle’s ClinX develops procurement-grade cleaning chemicals and practical digit
 
 | Resource | What you’ll find |
 | --- | --- |
-| [Product Store](https://allesclinx.com/store/) | Institutional cleaning and hygiene chemicals |
+| [Shop](https://allesclinx.com/shop/) | Institutional cleaning and hygiene chemicals |
 | [Document Center](https://allesclinx.com/support/media-documents/) | Safety Data Sheets, Technical Data Sheets, user guides, and company documents |
+| [Public SDS Archive](https://github.com/alles-clinx/.github/tree/main/sds) | Versioned public Safety Data Sheets / MSDS documents |
 | [Nova](https://allesclinx.com/nova/) | AI-assisted institutional hygiene guidance |
 | [Metricon](https://allesclinx.com/metricon/) | Chemistry, dosage, procurement, and cost calculators |
 | [Insights](https://allesclinx.com/insights/) | Practical writing on hygiene, chemistry, compliance, and facility operations |
