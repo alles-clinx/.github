@@ -1,0 +1,78 @@
+name: Import document library
+
+on:
+  push:
+    paths:
+      - 'incoming/*.zip'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-documents:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Extract uploaded document archives
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+
+          mkdir -p usage-guides sops resources
+
+          usage_archives=(incoming/*Usage_Guides*.zip)
+          sop_archives=(incoming/*SOPs*.zip)
+          resource_archives=(incoming/*Free_Hygiene_Resources*.zip)
+
+          for archive in "${usage_archives[@]}"; do
+            unzip -oq "$archive" -d usage-guides
+          done
+
+          for archive in "${sop_archives[@]}"; do
+            unzip -oq "$archive" -d sops
+          done
+
+          for archive in "${resource_archives[@]}"; do
+            unzip -oq "$archive" -d resources
+          done
+
+          find usage-guides sops resources -type d -name '__MACOSX' -prune -exec rm -rf {} + 2>/dev/null || true
+          find usage-guides sops resources -type f -name '.DS_Store' -delete 2>/dev/null || true
+
+          rm -f incoming/*.zip
+
+      - name: Verify expected library counts
+        shell: bash
+        run: |
+          set -euo pipefail
+          usage_count=$(find usage-guides -type f -iname '*.pdf' | wc -l | tr -d ' ')
+          sop_count=$(find sops -type f -iname '*.pdf' | wc -l | tr -d ' ')
+          resource_count=$(find resources -type f -iname '*.pdf' | wc -l | tr -d ' ')
+
+          echo "Usage Guides: ${usage_count}"
+          echo "SOPs: ${sop_count}"
+          echo "Resource PDFs: ${resource_count}"
+
+          test "${usage_count}" -eq 36
+          test "${sop_count}" -eq 36
+          test "${resource_count}" -eq 51
+
+      - name: Commit extracted PDFs
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "Alle's ClinX Documentation Bot"
+          git config user.email "care@allesclinx.com"
+          git add usage-guides sops resources incoming
+
+          if git diff --cached --quiet; then
+            echo "No document changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Add SOP, usage guide and hygiene resource libraries [skip ci]"
+          git push
