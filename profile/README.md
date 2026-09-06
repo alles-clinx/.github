@@ -6,7 +6,7 @@
 
 Institutional hygiene systems, cleaning chemistry, compliance resources, and operational tools for professional facilities across India.
 
-[Website](https://allesclinx.com/) · [Products](https://allesclinx.com/shop/) · [Document Center](https://allesclinx.com/support/media-documents/) · [SDS Archive](https://github.com/alles-clinx/.github/tree/main/sds) · [Insights](https://allesclinx.com/insights/) · [Support](https://allesclinx.com/support/)
+[Website](https://allesclinx.com/) · [Products](https://allesclinx.com/shop/) · [Document Center](https://allesclinx.com/support/media-documents/) · [Full GitHub Library](https://github.com/alles-clinx/.github/blob/main/DOCUMENTS.md) · [Insights](https://allesclinx.com/insights/) · [Support](https://allesclinx.com/support/)
 
 </div>
 
@@ -14,10 +14,25 @@ Institutional hygiene systems, cleaning chemistry, compliance resources, and ope
 
 Alle’s ClinX develops procurement-grade cleaning chemicals and practical digital tools for healthcare, education, hospitality, and industrial facilities. We connect formulation, correct dilution, safety documentation, usage guidance, and operational visibility so teams can clean consistently and procure with confidence.
 
+## Public technical library
+
+The Alle’s ClinX GitHub library currently contains **159 public PDFs** across four collections:
+
+| Collection | Public documents |
+| --- | ---: |
+| [Safety Data Sheets / MSDS](https://github.com/alles-clinx/.github/tree/main/sds) | 36 |
+| [Product SOPs](https://github.com/alles-clinx/.github/tree/main/sops) | 36 |
+| [Product Usage Guides](https://github.com/alles-clinx/.github/tree/main/usage-guides) | 36 |
+| [Free Facility Hygiene Resources](https://github.com/alles-clinx/.github/tree/main/resources) | 51 |
+
+The resource collection comprises **50 practical operational PDFs plus one master resource-library index**. The website remains the primary discovery and product-context layer; GitHub provides the public, version-controlled technical mirror.
+
+[Browse the complete document index →](https://github.com/alles-clinx/.github/blob/main/DOCUMENTS.md)
+
 ## What we work on
 
 - **Institutional cleaning chemistry** — purpose-built products for demanding Indian operating environments.
-- **Safety and technical documentation** — accessible SDS, TDS, usage guidance, and product references.
+- **Safety and technical documentation** — accessible SDS, SOPs, usage guidance, TDS references, and product documents.
 - **Nova** — an AI-assisted hygiene guidance experience for product, dilution, and operational questions.
 - **Metricon** — chemistry, procurement, dosage, cost, and supplier-decision calculators.
 - **Compliance-ready operations** — clearer procedures, traceable information, and repeatable facility workflows.
@@ -28,8 +43,11 @@ Alle’s ClinX develops procurement-grade cleaning chemicals and practical digit
 | Resource | What you’ll find |
 | --- | --- |
 | [Shop](https://allesclinx.com/shop/) | Institutional cleaning and hygiene chemicals |
-| [Document Center](https://allesclinx.com/support/media-documents/) | Safety Data Sheets, Technical Data Sheets, user guides, and company documents |
-| [Public SDS Archive](https://github.com/alles-clinx/.github/tree/main/sds) | Versioned public Safety Data Sheets / MSDS documents |
+| [Document Center](https://allesclinx.com/support/media-documents/) | Safety Data Sheets, Technical Data Sheets, usage guidance, and company documents |
+| [Public SDS Archive](https://github.com/alles-clinx/.github/tree/main/sds) | 36 versioned Safety Data Sheets / MSDS documents |
+| [Product SOP Library](https://github.com/alles-clinx/.github/tree/main/sops) | 36 product Standard Operating Procedures |
+| [Product Usage Guide Library](https://github.com/alles-clinx/.github/tree/main/usage-guides) | 36 professional product Usage Guides |
+| [Free Operational Resources](https://github.com/alles-clinx/.github/tree/main/resources) | 50 checklists, logs, templates and facility tools plus the master index |
 | [Nova](https://allesclinx.com/nova/) | AI-assisted institutional hygiene guidance |
 | [Metricon](https://allesclinx.com/metricon/) | Chemistry, dosage, procurement, and cost calculators |
 | [Insights](https://allesclinx.com/insights/) | Practical writing on hygiene, chemistry, compliance, and facility operations |
@@ -50,7 +68,7 @@ We are building toward more useful public resources, including:
 
 - machine-readable product specifications;
 - open chemistry and dilution calculation utilities;
-- facility hygiene checklists and implementation templates;
+- product-specific Learn pages connecting shop, SDS, SOP, Usage Guide and related templates;
 - versioned SDS and TDS references;
 - product-data and documentation integrations where safe and appropriate.
 
