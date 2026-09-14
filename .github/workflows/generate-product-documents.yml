@@ -6,6 +6,7 @@ on:
     paths:
       - 'document-source/products.csv'
       - 'scripts/generate_product_documents.py'
+      - 'scripts/generate_detailed_usage_guides.py'
       - '.github/workflows/generate-product-documents.yml'
   workflow_dispatch:
 
@@ -28,8 +29,11 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install reportlab
 
-      - name: Generate TDS, Usage Guide and SOP PDFs
+      - name: Generate TDS and SOP PDFs
         run: python scripts/generate_product_documents.py
+
+      - name: Generate detailed Usage Guide PDFs
+        run: python scripts/generate_detailed_usage_guides.py
 
       - name: Verify document counts
         shell: bash
@@ -50,5 +54,5 @@ jobs:
             echo "No generated document changes to commit."
             exit 0
           fi
-          git commit -m "Publish final TDS, usage guide and SOP libraries [skip ci]"
+          git commit -m "Publish final TDS, detailed usage guide and SOP libraries [skip ci]"
           git push
