@@ -1,0 +1,1350 @@
+{
+  "updated": "2026-09-19",
+  "total_documents": 192,
+  "documents": [
+    {
+      "type": "Facility Resource",
+      "path": "resources/00-alles-clinx-facility-hygiene-resource-library-index.pdf",
+      "filename": "00-alles-clinx-facility-hygiene-resource-library-index.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/00-alles-clinx-facility-hygiene-resource-library-index.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/00-alles-clinx-facility-hygiene-resource-library-index.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/01-core-cleaning-operations/01-alles-clinx-daily-cleaning-checklist.pdf",
+      "filename": "01-alles-clinx-daily-cleaning-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/01-core-cleaning-operations/01-alles-clinx-daily-cleaning-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/01-core-cleaning-operations/01-alles-clinx-daily-cleaning-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/01-core-cleaning-operations/02-alles-clinx-area-cleaning-schedule.pdf",
+      "filename": "02-alles-clinx-area-cleaning-schedule.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/01-core-cleaning-operations/02-alles-clinx-area-cleaning-schedule.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/01-core-cleaning-operations/02-alles-clinx-area-cleaning-schedule.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/01-core-cleaning-operations/03-alles-clinx-cleaning-frequency-matrix.pdf",
+      "filename": "03-alles-clinx-cleaning-frequency-matrix.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/01-core-cleaning-operations/03-alles-clinx-cleaning-frequency-matrix.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/01-core-cleaning-operations/03-alles-clinx-cleaning-frequency-matrix.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/01-core-cleaning-operations/04-alles-clinx-high-touch-surface-checklist.pdf",
+      "filename": "04-alles-clinx-high-touch-surface-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/01-core-cleaning-operations/04-alles-clinx-high-touch-surface-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/01-core-cleaning-operations/04-alles-clinx-high-touch-surface-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/01-core-cleaning-operations/05-alles-clinx-washroom-inspection-checklist.pdf",
+      "filename": "05-alles-clinx-washroom-inspection-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/01-core-cleaning-operations/05-alles-clinx-washroom-inspection-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/01-core-cleaning-operations/05-alles-clinx-washroom-inspection-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/01-core-cleaning-operations/06-alles-clinx-deep-cleaning-checklist.pdf",
+      "filename": "06-alles-clinx-deep-cleaning-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/01-core-cleaning-operations/06-alles-clinx-deep-cleaning-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/01-core-cleaning-operations/06-alles-clinx-deep-cleaning-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/01-core-cleaning-operations/07-alles-clinx-opening-hygiene-checklist.pdf",
+      "filename": "07-alles-clinx-opening-hygiene-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/01-core-cleaning-operations/07-alles-clinx-opening-hygiene-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/01-core-cleaning-operations/07-alles-clinx-opening-hygiene-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/01-core-cleaning-operations/08-alles-clinx-closing-hygiene-checklist.pdf",
+      "filename": "08-alles-clinx-closing-hygiene-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/01-core-cleaning-operations/08-alles-clinx-closing-hygiene-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/01-core-cleaning-operations/08-alles-clinx-closing-hygiene-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/01-core-cleaning-operations/09-alles-clinx-housekeeping-shift-handover-sheet.pdf",
+      "filename": "09-alles-clinx-housekeeping-shift-handover-sheet.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/01-core-cleaning-operations/09-alles-clinx-housekeeping-shift-handover-sheet.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/01-core-cleaning-operations/09-alles-clinx-housekeeping-shift-handover-sheet.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/01-core-cleaning-operations/10-alles-clinx-weekly-monthly-periodic-cleaning-log.pdf",
+      "filename": "10-alles-clinx-weekly-monthly-periodic-cleaning-log.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/01-core-cleaning-operations/10-alles-clinx-weekly-monthly-periodic-cleaning-log.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/01-core-cleaning-operations/10-alles-clinx-weekly-monthly-periodic-cleaning-log.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/02-chemical-management-safety/11-alles-clinx-chemical-dilution-log.pdf",
+      "filename": "11-alles-clinx-chemical-dilution-log.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/02-chemical-management-safety/11-alles-clinx-chemical-dilution-log.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/02-chemical-management-safety/11-alles-clinx-chemical-dilution-log.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/02-chemical-management-safety/12-alles-clinx-dilution-reference-chart.pdf",
+      "filename": "12-alles-clinx-dilution-reference-chart.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/02-chemical-management-safety/12-alles-clinx-dilution-reference-chart.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/02-chemical-management-safety/12-alles-clinx-dilution-reference-chart.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/02-chemical-management-safety/13-alles-clinx-chemical-storage-inspection-checklist.pdf",
+      "filename": "13-alles-clinx-chemical-storage-inspection-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/02-chemical-management-safety/13-alles-clinx-chemical-storage-inspection-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/02-chemical-management-safety/13-alles-clinx-chemical-storage-inspection-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/02-chemical-management-safety/14-alles-clinx-chemical-stock-register.pdf",
+      "filename": "14-alles-clinx-chemical-stock-register.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/02-chemical-management-safety/14-alles-clinx-chemical-stock-register.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/02-chemical-management-safety/14-alles-clinx-chemical-stock-register.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/02-chemical-management-safety/15-alles-clinx-sds-register-and-availability-checklist.pdf",
+      "filename": "15-alles-clinx-sds-register-and-availability-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/02-chemical-management-safety/15-alles-clinx-sds-register-and-availability-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/02-chemical-management-safety/15-alles-clinx-sds-register-and-availability-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/02-chemical-management-safety/16-alles-clinx-workplace-chemical-label-checklist.pdf",
+      "filename": "16-alles-clinx-workplace-chemical-label-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/02-chemical-management-safety/16-alles-clinx-workplace-chemical-label-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/02-chemical-management-safety/16-alles-clinx-workplace-chemical-label-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/02-chemical-management-safety/17-alles-clinx-ppe-selection-and-compliance-checklist.pdf",
+      "filename": "17-alles-clinx-ppe-selection-and-compliance-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/02-chemical-management-safety/17-alles-clinx-ppe-selection-and-compliance-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/02-chemical-management-safety/17-alles-clinx-ppe-selection-and-compliance-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/02-chemical-management-safety/18-alles-clinx-chemical-spill-response-checklist.pdf",
+      "filename": "18-alles-clinx-chemical-spill-response-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/02-chemical-management-safety/18-alles-clinx-chemical-spill-response-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/02-chemical-management-safety/18-alles-clinx-chemical-spill-response-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/02-chemical-management-safety/19-alles-clinx-chemical-exposure-incident-report.pdf",
+      "filename": "19-alles-clinx-chemical-exposure-incident-report.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/02-chemical-management-safety/19-alles-clinx-chemical-exposure-incident-report.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/02-chemical-management-safety/19-alles-clinx-chemical-exposure-incident-report.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/02-chemical-management-safety/20-alles-clinx-product-and-surface-compatibility-checklist.pdf",
+      "filename": "20-alles-clinx-product-and-surface-compatibility-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/02-chemical-management-safety/20-alles-clinx-product-and-surface-compatibility-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/02-chemical-management-safety/20-alles-clinx-product-and-surface-compatibility-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/03-equipment-housekeeping-control/21-alles-clinx-cleaning-equipment-inspection-checklist.pdf",
+      "filename": "21-alles-clinx-cleaning-equipment-inspection-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/03-equipment-housekeeping-control/21-alles-clinx-cleaning-equipment-inspection-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/03-equipment-housekeeping-control/21-alles-clinx-cleaning-equipment-inspection-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/03-equipment-housekeeping-control/22-alles-clinx-cleaning-equipment-maintenance-log.pdf",
+      "filename": "22-alles-clinx-cleaning-equipment-maintenance-log.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/03-equipment-housekeeping-control/22-alles-clinx-cleaning-equipment-maintenance-log.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/03-equipment-housekeeping-control/22-alles-clinx-cleaning-equipment-maintenance-log.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/03-equipment-housekeeping-control/23-alles-clinx-mop-and-cleaning-cloth-reprocessing-log.pdf",
+      "filename": "23-alles-clinx-mop-and-cleaning-cloth-reprocessing-log.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/03-equipment-housekeeping-control/23-alles-clinx-mop-and-cleaning-cloth-reprocessing-log.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/03-equipment-housekeeping-control/23-alles-clinx-mop-and-cleaning-cloth-reprocessing-log.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/03-equipment-housekeeping-control/24-alles-clinx-cleaning-cart-preparation-checklist.pdf",
+      "filename": "24-alles-clinx-cleaning-cart-preparation-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/03-equipment-housekeeping-control/24-alles-clinx-cleaning-cart-preparation-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/03-equipment-housekeeping-control/24-alles-clinx-cleaning-cart-preparation-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/03-equipment-housekeeping-control/25-alles-clinx-housekeeping-supply-closet-checklist.pdf",
+      "filename": "25-alles-clinx-housekeeping-supply-closet-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/03-equipment-housekeeping-control/25-alles-clinx-housekeeping-supply-closet-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/03-equipment-housekeeping-control/25-alles-clinx-housekeeping-supply-closet-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/04-training-competency/26-alles-clinx-new-housekeeping-staff-induction-checklist.pdf",
+      "filename": "26-alles-clinx-new-housekeeping-staff-induction-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/04-training-competency/26-alles-clinx-new-housekeeping-staff-induction-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/04-training-competency/26-alles-clinx-new-housekeeping-staff-induction-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/04-training-competency/27-alles-clinx-staff-training-attendance-record.pdf",
+      "filename": "27-alles-clinx-staff-training-attendance-record.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/04-training-competency/27-alles-clinx-staff-training-attendance-record.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/04-training-competency/27-alles-clinx-staff-training-attendance-record.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/04-training-competency/28-alles-clinx-cleaning-competency-assessment.pdf",
+      "filename": "28-alles-clinx-cleaning-competency-assessment.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/04-training-competency/28-alles-clinx-cleaning-competency-assessment.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/04-training-competency/28-alles-clinx-cleaning-competency-assessment.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/04-training-competency/29-alles-clinx-chemical-handling-competency-assessment.pdf",
+      "filename": "29-alles-clinx-chemical-handling-competency-assessment.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/04-training-competency/29-alles-clinx-chemical-handling-competency-assessment.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/04-training-competency/29-alles-clinx-chemical-handling-competency-assessment.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/04-training-competency/30-alles-clinx-supervisor-practical-observation-checklist.pdf",
+      "filename": "30-alles-clinx-supervisor-practical-observation-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/04-training-competency/30-alles-clinx-supervisor-practical-observation-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/04-training-competency/30-alles-clinx-supervisor-practical-observation-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/04-training-competency/31-alles-clinx-refresher-training-tracker.pdf",
+      "filename": "31-alles-clinx-refresher-training-tracker.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/04-training-competency/31-alles-clinx-refresher-training-tracker.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/04-training-competency/31-alles-clinx-refresher-training-tracker.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/05-audit-continuous-improvement/32-alles-clinx-supervisor-hygiene-inspection.pdf",
+      "filename": "32-alles-clinx-supervisor-hygiene-inspection.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/05-audit-continuous-improvement/32-alles-clinx-supervisor-hygiene-inspection.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/05-audit-continuous-improvement/32-alles-clinx-supervisor-hygiene-inspection.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/05-audit-continuous-improvement/33-alles-clinx-internal-facility-hygiene-audit.pdf",
+      "filename": "33-alles-clinx-internal-facility-hygiene-audit.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/05-audit-continuous-improvement/33-alles-clinx-internal-facility-hygiene-audit.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/05-audit-continuous-improvement/33-alles-clinx-internal-facility-hygiene-audit.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/05-audit-continuous-improvement/34-alles-clinx-pre-audit-hygiene-readiness-checklist.pdf",
+      "filename": "34-alles-clinx-pre-audit-hygiene-readiness-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/05-audit-continuous-improvement/34-alles-clinx-pre-audit-hygiene-readiness-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/05-audit-continuous-improvement/34-alles-clinx-pre-audit-hygiene-readiness-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/05-audit-continuous-improvement/35-alles-clinx-hygiene-non-conformance-report.pdf",
+      "filename": "35-alles-clinx-hygiene-non-conformance-report.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/05-audit-continuous-improvement/35-alles-clinx-hygiene-non-conformance-report.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/05-audit-continuous-improvement/35-alles-clinx-hygiene-non-conformance-report.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/05-audit-continuous-improvement/36-alles-clinx-corrective-and-preventive-action-capa.pdf",
+      "filename": "36-alles-clinx-corrective-and-preventive-action-capa.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/05-audit-continuous-improvement/36-alles-clinx-corrective-and-preventive-action-capa.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/05-audit-continuous-improvement/36-alles-clinx-corrective-and-preventive-action-capa.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/05-audit-continuous-improvement/37-alles-clinx-hygiene-improvement-action-plan.pdf",
+      "filename": "37-alles-clinx-hygiene-improvement-action-plan.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/05-audit-continuous-improvement/37-alles-clinx-hygiene-improvement-action-plan.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/05-audit-continuous-improvement/37-alles-clinx-hygiene-improvement-action-plan.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/05-audit-continuous-improvement/38-alles-clinx-monthly-hygiene-kpi-review.pdf",
+      "filename": "38-alles-clinx-monthly-hygiene-kpi-review.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/05-audit-continuous-improvement/38-alles-clinx-monthly-hygiene-kpi-review.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/05-audit-continuous-improvement/38-alles-clinx-monthly-hygiene-kpi-review.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/06-consumption-procurement/39-alles-clinx-chemical-reorder-planning-sheet.pdf",
+      "filename": "39-alles-clinx-chemical-reorder-planning-sheet.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/06-consumption-procurement/39-alles-clinx-chemical-reorder-planning-sheet.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/06-consumption-procurement/39-alles-clinx-chemical-reorder-planning-sheet.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/06-consumption-procurement/40-alles-clinx-monthly-chemical-consumption-tracker.pdf",
+      "filename": "40-alles-clinx-monthly-chemical-consumption-tracker.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/06-consumption-procurement/40-alles-clinx-monthly-chemical-consumption-tracker.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/06-consumption-procurement/40-alles-clinx-monthly-chemical-consumption-tracker.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/06-consumption-procurement/41-alles-clinx-chemical-cost-per-use-worksheet.pdf",
+      "filename": "41-alles-clinx-chemical-cost-per-use-worksheet.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/06-consumption-procurement/41-alles-clinx-chemical-cost-per-use-worksheet.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/06-consumption-procurement/41-alles-clinx-chemical-cost-per-use-worksheet.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/06-consumption-procurement/42-alles-clinx-cleaning-chemical-supplier-comparison-sheet.pdf",
+      "filename": "42-alles-clinx-cleaning-chemical-supplier-comparison-sheet.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/06-consumption-procurement/42-alles-clinx-cleaning-chemical-supplier-comparison-sheet.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/06-consumption-procurement/42-alles-clinx-cleaning-chemical-supplier-comparison-sheet.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/07-sector-specific-resources/43-alles-clinx-hospital-housekeeping-checklist.pdf",
+      "filename": "43-alles-clinx-hospital-housekeeping-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/07-sector-specific-resources/43-alles-clinx-hospital-housekeeping-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/07-sector-specific-resources/43-alles-clinx-hospital-housekeeping-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/07-sector-specific-resources/44-alles-clinx-hospital-terminal-cleaning-checklist.pdf",
+      "filename": "44-alles-clinx-hospital-terminal-cleaning-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/07-sector-specific-resources/44-alles-clinx-hospital-terminal-cleaning-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/07-sector-specific-resources/44-alles-clinx-hospital-terminal-cleaning-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/07-sector-specific-resources/45-alles-clinx-high-risk-isolation-area-cleaning-checklist.pdf",
+      "filename": "45-alles-clinx-high-risk-isolation-area-cleaning-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/07-sector-specific-resources/45-alles-clinx-high-risk-isolation-area-cleaning-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/07-sector-specific-resources/45-alles-clinx-high-risk-isolation-area-cleaning-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/07-sector-specific-resources/46-alles-clinx-laundry-hygiene-checklist.pdf",
+      "filename": "46-alles-clinx-laundry-hygiene-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/07-sector-specific-resources/46-alles-clinx-laundry-hygiene-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/07-sector-specific-resources/46-alles-clinx-laundry-hygiene-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/07-sector-specific-resources/47-alles-clinx-kitchen-and-dietary-services-sanitation-checklist.pdf",
+      "filename": "47-alles-clinx-kitchen-and-dietary-services-sanitation-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/07-sector-specific-resources/47-alles-clinx-kitchen-and-dietary-services-sanitation-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/07-sector-specific-resources/47-alles-clinx-kitchen-and-dietary-services-sanitation-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/07-sector-specific-resources/48-alles-clinx-hotel-guest-room-turnover-checklist.pdf",
+      "filename": "48-alles-clinx-hotel-guest-room-turnover-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/07-sector-specific-resources/48-alles-clinx-hotel-guest-room-turnover-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/07-sector-specific-resources/48-alles-clinx-hotel-guest-room-turnover-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/07-sector-specific-resources/49-alles-clinx-school-classroom-and-washroom-hygiene-checklist.pdf",
+      "filename": "49-alles-clinx-school-classroom-and-washroom-hygiene-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/07-sector-specific-resources/49-alles-clinx-school-classroom-and-washroom-hygiene-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/07-sector-specific-resources/49-alles-clinx-school-classroom-and-washroom-hygiene-checklist.pdf"
+    },
+    {
+      "type": "Facility Resource",
+      "path": "resources/07-sector-specific-resources/50-alles-clinx-office-and-common-area-hygiene-checklist.pdf",
+      "filename": "50-alles-clinx-office-and-common-area-hygiene-checklist.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/resources/07-sector-specific-resources/50-alles-clinx-office-and-common-area-hygiene-checklist.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/resources/07-sector-specific-resources/50-alles-clinx-office-and-common-area-hygiene-checklist.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/air-freshener-juliet-rose-msds-alles-clinx.pdf",
+      "filename": "air-freshener-juliet-rose-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/air-freshener-juliet-rose-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/air-freshener-juliet-rose-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/air-freshener-lemongrass-msds-alles-clinx.pdf",
+      "filename": "air-freshener-lemongrass-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/air-freshener-lemongrass-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/air-freshener-lemongrass-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/anionic-surfactant-concentrate-alkaline-msds-alles-clinx.pdf",
+      "filename": "anionic-surfactant-concentrate-alkaline-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/anionic-surfactant-concentrate-alkaline-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/anionic-surfactant-concentrate-alkaline-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/antiseptic-handwash-chg-clinical-msds-alles-clinx.pdf",
+      "filename": "antiseptic-handwash-chg-clinical-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/antiseptic-handwash-chg-clinical-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/antiseptic-handwash-chg-clinical-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/bathroom-tile-cleaner-lime-msds-alles-clinx.pdf",
+      "filename": "bathroom-tile-cleaner-lime-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/bathroom-tile-cleaner-lime-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/bathroom-tile-cleaner-lime-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/calcite-limescale-remover-acidic-msds-alles-clinx.pdf",
+      "filename": "calcite-limescale-remover-acidic-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/calcite-limescale-remover-acidic-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/calcite-limescale-remover-acidic-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/carbonised-grease-remover-caustic-gel-msds-alles-clinx.pdf",
+      "filename": "carbonised-grease-remover-caustic-gel-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/carbonised-grease-remover-caustic-gel-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/carbonised-grease-remover-caustic-gel-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/carpet-upholstery-shampoo-concentrate-low-foam-msds-alles-clinx.pdf",
+      "filename": "carpet-upholstery-shampoo-concentrate-low-foam-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/carpet-upholstery-shampoo-concentrate-low-foam-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/carpet-upholstery-shampoo-concentrate-low-foam-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/chimney-exhaust-degreaser-alkaline-msds-alles-clinx.pdf",
+      "filename": "chimney-exhaust-degreaser-alkaline-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/chimney-exhaust-degreaser-alkaline-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/chimney-exhaust-degreaser-alkaline-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/citric-bathroom-descaler-alkaline-msds-alles-clinx.pdf",
+      "filename": "citric-bathroom-descaler-alkaline-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/citric-bathroom-descaler-alkaline-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/citric-bathroom-descaler-alkaline-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/concrete-floor-degreaser-heavy-duty-alkaline-msds-alles-clinx.pdf",
+      "filename": "concrete-floor-degreaser-heavy-duty-alkaline-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/concrete-floor-degreaser-heavy-duty-alkaline-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/concrete-floor-degreaser-heavy-duty-alkaline-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/dish-concentrate-alkaline-msds-alles-clinx.pdf",
+      "filename": "dish-concentrate-alkaline-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/dish-concentrate-alkaline-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/dish-concentrate-alkaline-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/dishwash-concentrate-ph-neutral-msds-alles-clinx.pdf",
+      "filename": "dishwash-concentrate-ph-neutral-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/dishwash-concentrate-ph-neutral-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/dishwash-concentrate-ph-neutral-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/disinfectant-floor-cleaner-2-in-1-msds-alles-clinx.pdf",
+      "filename": "disinfectant-floor-cleaner-2-in-1-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/disinfectant-floor-cleaner-2-in-1-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/disinfectant-floor-cleaner-2-in-1-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/fabric-deodorizer-lavender-msds-alles-clinx.pdf",
+      "filename": "fabric-deodorizer-lavender-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/fabric-deodorizer-lavender-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/fabric-deodorizer-lavender-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/fabric-softener-concentrate-neutral-ph-msds-alles-clinx.pdf",
+      "filename": "fabric-softener-concentrate-neutral-ph-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/fabric-softener-concentrate-neutral-ph-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/fabric-softener-concentrate-neutral-ph-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/floor-cleaner-concentrate-citrus-msds-alles-clinx.pdf",
+      "filename": "floor-cleaner-concentrate-citrus-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/floor-cleaner-concentrate-citrus-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/floor-cleaner-concentrate-citrus-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/furniture-wood-polish-silicone-free-msds-alles-clinx.pdf",
+      "filename": "furniture-wood-polish-silicone-free-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/furniture-wood-polish-silicone-free-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/furniture-wood-polish-silicone-free-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/glass-cleaner-concentrate-streak-free-msds-alles-clinx.pdf",
+      "filename": "glass-cleaner-concentrate-streak-free-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/glass-cleaner-concentrate-streak-free-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/glass-cleaner-concentrate-streak-free-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/hand-sanitizer-gel-70-alcohol-msds-alles-clinx.pdf",
+      "filename": "hand-sanitizer-gel-70-alcohol-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/hand-sanitizer-gel-70-alcohol-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/hand-sanitizer-gel-70-alcohol-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/handwash-liquid-lavender-msds-alles-clinx.pdf",
+      "filename": "handwash-liquid-lavender-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/handwash-liquid-lavender-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/handwash-liquid-lavender-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/handwash-sandalwood-msds-alles-clinx.pdf",
+      "filename": "handwash-sandalwood-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/handwash-sandalwood-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/handwash-sandalwood-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/instrument-pre-soak-concentrate-multi-enzyme-msds-alles-clinx.pdf",
+      "filename": "instrument-pre-soak-concentrate-multi-enzyme-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/instrument-pre-soak-concentrate-multi-enzyme-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/instrument-pre-soak-concentrate-multi-enzyme-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/laundry-detergent-concentrate-enzyme-msds-alles-clinx.pdf",
+      "filename": "laundry-detergent-concentrate-enzyme-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/laundry-detergent-concentrate-enzyme-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/laundry-detergent-concentrate-enzyme-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/multisurface-cleaner-lime-msds-alles-clinx.pdf",
+      "filename": "multisurface-cleaner-lime-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/multisurface-cleaner-lime-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/multisurface-cleaner-lime-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/oxygen-bleach-concentrate-colour-safe-msds-alles-clinx.pdf",
+      "filename": "oxygen-bleach-concentrate-colour-safe-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/oxygen-bleach-concentrate-colour-safe-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/oxygen-bleach-concentrate-colour-safe-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/passivation-metal-descaler-mild-acid-msds-alles-clinx.pdf",
+      "filename": "passivation-metal-descaler-mild-acid-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/passivation-metal-descaler-mild-acid-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/passivation-metal-descaler-mild-acid-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/phenolic-disinfectant-concentrate-pine-msds-alles-clinx.pdf",
+      "filename": "phenolic-disinfectant-concentrate-pine-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/phenolic-disinfectant-concentrate-pine-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/phenolic-disinfectant-concentrate-pine-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/phenolic-floor-disinfectant-classic-msds-alles-clinx.pdf",
+      "filename": "phenolic-floor-disinfectant-classic-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/phenolic-floor-disinfectant-classic-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/phenolic-floor-disinfectant-classic-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/quaternary-disinfectant-concentrate-bkc-msds-alles-clinx.pdf",
+      "filename": "quaternary-disinfectant-concentrate-bkc-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/quaternary-disinfectant-concentrate-bkc-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/quaternary-disinfectant-concentrate-bkc-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/sodium-hypochlorite-10-bleach-concentrate-msds-alles-clinx.pdf",
+      "filename": "sodium-hypochlorite-10-bleach-concentrate-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/sodium-hypochlorite-10-bleach-concentrate-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/sodium-hypochlorite-10-bleach-concentrate-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/stainless-steel-chrome-polish-streak-free-msds-alles-clinx.pdf",
+      "filename": "stainless-steel-chrome-polish-streak-free-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/stainless-steel-chrome-polish-streak-free-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/stainless-steel-chrome-polish-streak-free-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/stainless-steel-heavy-duty-cleaner-degreaser-msds-alles-clinx.pdf",
+      "filename": "stainless-steel-heavy-duty-cleaner-degreaser-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/stainless-steel-heavy-duty-cleaner-degreaser-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/stainless-steel-heavy-duty-cleaner-degreaser-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/surface-disinfectant-refill-lime-msds-alles-clinx.pdf",
+      "filename": "surface-disinfectant-refill-lime-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/surface-disinfectant-refill-lime-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/surface-disinfectant-refill-lime-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/toilet-bowl-cleaner-acid-gel-msds-alles-clinx.pdf",
+      "filename": "toilet-bowl-cleaner-acid-gel-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/toilet-bowl-cleaner-acid-gel-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/toilet-bowl-cleaner-acid-gel-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SDS/MSDS",
+      "path": "sds/wool-delicate-fabric-wash-neutral-ph-msds-alles-clinx.pdf",
+      "filename": "wool-delicate-fabric-wash-neutral-ph-msds-alles-clinx.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sds/wool-delicate-fabric-wash-neutral-ph-msds-alles-clinx.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sds/wool-delicate-fabric-wash-neutral-ph-msds-alles-clinx.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/air-freshener-sop-acx-1226-var.pdf",
+      "filename": "air-freshener-sop-acx-1226-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/air-freshener-sop-acx-1226-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/air-freshener-sop-acx-1226-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/anionic-surfactant-concentrate-alkaline-sop-acx-2539-var.pdf",
+      "filename": "anionic-surfactant-concentrate-alkaline-sop-acx-2539-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/anionic-surfactant-concentrate-alkaline-sop-acx-2539-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/anionic-surfactant-concentrate-alkaline-sop-acx-2539-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/antiseptic-handwash-chg-clinical-sop-acx-2221-var.pdf",
+      "filename": "antiseptic-handwash-chg-clinical-sop-acx-2221-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/antiseptic-handwash-chg-clinical-sop-acx-2221-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/antiseptic-handwash-chg-clinical-sop-acx-2221-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/bathroom-and-tile-cleaner-lime-sop-acx-1243-var.pdf",
+      "filename": "bathroom-and-tile-cleaner-lime-sop-acx-1243-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/bathroom-and-tile-cleaner-lime-sop-acx-1243-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/bathroom-and-tile-cleaner-lime-sop-acx-1243-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/calcite-and-limescale-remover-acidic-sop-acx-1221-var.pdf",
+      "filename": "calcite-and-limescale-remover-acidic-sop-acx-1221-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/calcite-and-limescale-remover-acidic-sop-acx-1221-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/calcite-and-limescale-remover-acidic-sop-acx-1221-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/carbonised-grease-remover-caustic-gel-sop-acx-2538-var.pdf",
+      "filename": "carbonised-grease-remover-caustic-gel-sop-acx-2538-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/carbonised-grease-remover-caustic-gel-sop-acx-2538-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/carbonised-grease-remover-caustic-gel-sop-acx-2538-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/carpet-and-upholstery-shampoo-concentrate-low-foam-sop-acx-carpetsh-var.pdf",
+      "filename": "carpet-and-upholstery-shampoo-concentrate-low-foam-sop-acx-carpetsh-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/carpet-and-upholstery-shampoo-concentrate-low-foam-sop-acx-carpetsh-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/carpet-and-upholstery-shampoo-concentrate-low-foam-sop-acx-carpetsh-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/chimney-and-exhaust-degreaser-alkaline-sop-acx-1234-var.pdf",
+      "filename": "chimney-and-exhaust-degreaser-alkaline-sop-acx-1234-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/chimney-and-exhaust-degreaser-alkaline-sop-acx-1234-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/chimney-and-exhaust-degreaser-alkaline-sop-acx-1234-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/citric-bathroom-descaler-alkaline-sop-acx-1235-var.pdf",
+      "filename": "citric-bathroom-descaler-alkaline-sop-acx-1235-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/citric-bathroom-descaler-alkaline-sop-acx-1235-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/citric-bathroom-descaler-alkaline-sop-acx-1235-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/concrete-floor-degreaser-heavy-duty-alkaline-sop-acx-concdeg-var.pdf",
+      "filename": "concrete-floor-degreaser-heavy-duty-alkaline-sop-acx-concdeg-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/concrete-floor-degreaser-heavy-duty-alkaline-sop-acx-concdeg-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/concrete-floor-degreaser-heavy-duty-alkaline-sop-acx-concdeg-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/dish-concentrate-alkaline-sop-acx-1222-var.pdf",
+      "filename": "dish-concentrate-alkaline-sop-acx-1222-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/dish-concentrate-alkaline-sop-acx-1222-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/dish-concentrate-alkaline-sop-acx-1222-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/dishwash-concentrate-ph-neutral-sop-acx-phdish-var.pdf",
+      "filename": "dishwash-concentrate-ph-neutral-sop-acx-phdish-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/dishwash-concentrate-ph-neutral-sop-acx-phdish-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/dishwash-concentrate-ph-neutral-sop-acx-phdish-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/disinfectant-floor-cleaner-2-in-1-sop-acx-dfc2in1-var.pdf",
+      "filename": "disinfectant-floor-cleaner-2-in-1-sop-acx-dfc2in1-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/disinfectant-floor-cleaner-2-in-1-sop-acx-dfc2in1-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/disinfectant-floor-cleaner-2-in-1-sop-acx-dfc2in1-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/fabric-deodorizer-lavender-sop-acx-1231-var.pdf",
+      "filename": "fabric-deodorizer-lavender-sop-acx-1231-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/fabric-deodorizer-lavender-sop-acx-1231-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/fabric-deodorizer-lavender-sop-acx-1231-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/fabric-softener-concentrate-neutral-ph-sop-acx-1228-var.pdf",
+      "filename": "fabric-softener-concentrate-neutral-ph-sop-acx-1228-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/fabric-softener-concentrate-neutral-ph-sop-acx-1228-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/fabric-softener-concentrate-neutral-ph-sop-acx-1228-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/floor-cleaner-concentrate-citrus-sop-acx-1238-var.pdf",
+      "filename": "floor-cleaner-concentrate-citrus-sop-acx-1238-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/floor-cleaner-concentrate-citrus-sop-acx-1238-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/floor-cleaner-concentrate-citrus-sop-acx-1238-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/furniture-and-wood-polish-silicone-free-sop-acx-woodpol-var.pdf",
+      "filename": "furniture-and-wood-polish-silicone-free-sop-acx-woodpol-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/furniture-and-wood-polish-silicone-free-sop-acx-woodpol-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/furniture-and-wood-polish-silicone-free-sop-acx-woodpol-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/glass-cleaner-concentrate-streak-free-sop-acx-1225-var.pdf",
+      "filename": "glass-cleaner-concentrate-streak-free-sop-acx-1225-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/glass-cleaner-concentrate-streak-free-sop-acx-1225-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/glass-cleaner-concentrate-streak-free-sop-acx-1225-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/hand-sanitizer-gel-70-alcohol-sop-acx-sangel70-var.pdf",
+      "filename": "hand-sanitizer-gel-70-alcohol-sop-acx-sangel70-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/hand-sanitizer-gel-70-alcohol-sop-acx-sangel70-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/hand-sanitizer-gel-70-alcohol-sop-acx-sangel70-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/handwash-liquid-lavender-sop-acx-1223-var.pdf",
+      "filename": "handwash-liquid-lavender-sop-acx-1223-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/handwash-liquid-lavender-sop-acx-1223-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/handwash-liquid-lavender-sop-acx-1223-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/handwash-sandalwood-sop-acx-1242-var.pdf",
+      "filename": "handwash-sandalwood-sop-acx-1242-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/handwash-sandalwood-sop-acx-1242-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/handwash-sandalwood-sop-acx-1242-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/instrument-pre-soak-concentrate-multi-enzyme-sop-acx-enzpresoak-var.pdf",
+      "filename": "instrument-pre-soak-concentrate-multi-enzyme-sop-acx-enzpresoak-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/instrument-pre-soak-concentrate-multi-enzyme-sop-acx-enzpresoak-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/instrument-pre-soak-concentrate-multi-enzyme-sop-acx-enzpresoak-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/laundry-detergent-concentrate-enzyme-sop-acx-1227-var.pdf",
+      "filename": "laundry-detergent-concentrate-enzyme-sop-acx-1227-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/laundry-detergent-concentrate-enzyme-sop-acx-1227-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/laundry-detergent-concentrate-enzyme-sop-acx-1227-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/multisurface-cleaner-lime-sop-acx-1224-var.pdf",
+      "filename": "multisurface-cleaner-lime-sop-acx-1224-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/multisurface-cleaner-lime-sop-acx-1224-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/multisurface-cleaner-lime-sop-acx-1224-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/oxygen-bleach-concentrate-colour-safe-sop-acx-1229-var.pdf",
+      "filename": "oxygen-bleach-concentrate-colour-safe-sop-acx-1229-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/oxygen-bleach-concentrate-colour-safe-sop-acx-1229-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/oxygen-bleach-concentrate-colour-safe-sop-acx-1229-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/passivation-metal-descaler-mild-acid-sop-acx-1232-var.pdf",
+      "filename": "passivation-metal-descaler-mild-acid-sop-acx-1232-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/passivation-metal-descaler-mild-acid-sop-acx-1232-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/passivation-metal-descaler-mild-acid-sop-acx-1232-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/phenolic-disinfectant-concentrate-pine-sop-acx-1219-var.pdf",
+      "filename": "phenolic-disinfectant-concentrate-pine-sop-acx-1219-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/phenolic-disinfectant-concentrate-pine-sop-acx-1219-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/phenolic-disinfectant-concentrate-pine-sop-acx-1219-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/phenolic-floor-disinfectant-classic-sop-acx-1236-var.pdf",
+      "filename": "phenolic-floor-disinfectant-classic-sop-acx-1236-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/phenolic-floor-disinfectant-classic-sop-acx-1236-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/phenolic-floor-disinfectant-classic-sop-acx-1236-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/quaternary-disinfectant-concentrate-bkc-sop-acx-1220-var.pdf",
+      "filename": "quaternary-disinfectant-concentrate-bkc-sop-acx-1220-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/quaternary-disinfectant-concentrate-bkc-sop-acx-1220-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/quaternary-disinfectant-concentrate-bkc-sop-acx-1220-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/sodium-hypochlorite-10-bleach-concentrate-sop-acx-naocl10-var.pdf",
+      "filename": "sodium-hypochlorite-10-bleach-concentrate-sop-acx-naocl10-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/sodium-hypochlorite-10-bleach-concentrate-sop-acx-naocl10-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/sodium-hypochlorite-10-bleach-concentrate-sop-acx-naocl10-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/stainless-steel-and-chrome-polish-streak-free-sop-acx-sspolish-var.pdf",
+      "filename": "stainless-steel-and-chrome-polish-streak-free-sop-acx-sspolish-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/stainless-steel-and-chrome-polish-streak-free-sop-acx-sspolish-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/stainless-steel-and-chrome-polish-streak-free-sop-acx-sspolish-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/stainless-steel-heavy-duty-cleaner-and-degreaser-sop-acx-sshdclean-var.pdf",
+      "filename": "stainless-steel-heavy-duty-cleaner-and-degreaser-sop-acx-sshdclean-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/stainless-steel-heavy-duty-cleaner-and-degreaser-sop-acx-sshdclean-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/stainless-steel-heavy-duty-cleaner-and-degreaser-sop-acx-sshdclean-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/surface-disinfectant-refill-lime-sop-acx-1252-var.pdf",
+      "filename": "surface-disinfectant-refill-lime-sop-acx-1252-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/surface-disinfectant-refill-lime-sop-acx-1252-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/surface-disinfectant-refill-lime-sop-acx-1252-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/toilet-bowl-cleaner-acid-gel-sop-acx-1239-var.pdf",
+      "filename": "toilet-bowl-cleaner-acid-gel-sop-acx-1239-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/toilet-bowl-cleaner-acid-gel-sop-acx-1239-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/toilet-bowl-cleaner-acid-gel-sop-acx-1239-var.pdf"
+    },
+    {
+      "type": "SOP",
+      "path": "sops/wool-and-delicate-fabric-wash-neutral-ph-sop-acx-1230-var.pdf",
+      "filename": "wool-and-delicate-fabric-wash-neutral-ph-sop-acx-1230-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/sops/wool-and-delicate-fabric-wash-neutral-ph-sop-acx-1230-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/sops/wool-and-delicate-fabric-wash-neutral-ph-sop-acx-1230-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/air-freshener-tds-acx-1226-var.pdf",
+      "filename": "air-freshener-tds-acx-1226-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/air-freshener-tds-acx-1226-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/air-freshener-tds-acx-1226-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/anionic-surfactant-concentrate-alkaline-tds-acx-2539-var.pdf",
+      "filename": "anionic-surfactant-concentrate-alkaline-tds-acx-2539-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/anionic-surfactant-concentrate-alkaline-tds-acx-2539-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/anionic-surfactant-concentrate-alkaline-tds-acx-2539-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/antiseptic-handwash-chg-clinical-tds-acx-2221-var.pdf",
+      "filename": "antiseptic-handwash-chg-clinical-tds-acx-2221-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/antiseptic-handwash-chg-clinical-tds-acx-2221-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/antiseptic-handwash-chg-clinical-tds-acx-2221-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/bathroom-and-tile-cleaner-lime-tds-acx-1243-var.pdf",
+      "filename": "bathroom-and-tile-cleaner-lime-tds-acx-1243-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/bathroom-and-tile-cleaner-lime-tds-acx-1243-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/bathroom-and-tile-cleaner-lime-tds-acx-1243-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/calcite-and-limescale-remover-acidic-tds-acx-1221-var.pdf",
+      "filename": "calcite-and-limescale-remover-acidic-tds-acx-1221-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/calcite-and-limescale-remover-acidic-tds-acx-1221-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/calcite-and-limescale-remover-acidic-tds-acx-1221-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/carbonised-grease-remover-caustic-gel-tds-acx-2538-var.pdf",
+      "filename": "carbonised-grease-remover-caustic-gel-tds-acx-2538-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/carbonised-grease-remover-caustic-gel-tds-acx-2538-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/carbonised-grease-remover-caustic-gel-tds-acx-2538-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/carpet-and-upholstery-shampoo-concentrate-low-foam-tds-acx-carpetsh-var.pdf",
+      "filename": "carpet-and-upholstery-shampoo-concentrate-low-foam-tds-acx-carpetsh-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/carpet-and-upholstery-shampoo-concentrate-low-foam-tds-acx-carpetsh-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/carpet-and-upholstery-shampoo-concentrate-low-foam-tds-acx-carpetsh-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/chimney-and-exhaust-degreaser-alkaline-tds-acx-1234-var.pdf",
+      "filename": "chimney-and-exhaust-degreaser-alkaline-tds-acx-1234-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/chimney-and-exhaust-degreaser-alkaline-tds-acx-1234-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/chimney-and-exhaust-degreaser-alkaline-tds-acx-1234-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/citric-bathroom-descaler-alkaline-tds-acx-1235-var.pdf",
+      "filename": "citric-bathroom-descaler-alkaline-tds-acx-1235-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/citric-bathroom-descaler-alkaline-tds-acx-1235-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/citric-bathroom-descaler-alkaline-tds-acx-1235-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/concrete-floor-degreaser-heavy-duty-alkaline-tds-acx-concdeg-var.pdf",
+      "filename": "concrete-floor-degreaser-heavy-duty-alkaline-tds-acx-concdeg-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/concrete-floor-degreaser-heavy-duty-alkaline-tds-acx-concdeg-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/concrete-floor-degreaser-heavy-duty-alkaline-tds-acx-concdeg-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/dish-concentrate-alkaline-tds-acx-1222-var.pdf",
+      "filename": "dish-concentrate-alkaline-tds-acx-1222-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/dish-concentrate-alkaline-tds-acx-1222-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/dish-concentrate-alkaline-tds-acx-1222-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/dishwash-concentrate-ph-neutral-tds-acx-phdish-var.pdf",
+      "filename": "dishwash-concentrate-ph-neutral-tds-acx-phdish-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/dishwash-concentrate-ph-neutral-tds-acx-phdish-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/dishwash-concentrate-ph-neutral-tds-acx-phdish-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/disinfectant-floor-cleaner-2-in-1-tds-acx-dfc2in1-var.pdf",
+      "filename": "disinfectant-floor-cleaner-2-in-1-tds-acx-dfc2in1-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/disinfectant-floor-cleaner-2-in-1-tds-acx-dfc2in1-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/disinfectant-floor-cleaner-2-in-1-tds-acx-dfc2in1-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/fabric-deodorizer-lavender-tds-acx-1231-var.pdf",
+      "filename": "fabric-deodorizer-lavender-tds-acx-1231-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/fabric-deodorizer-lavender-tds-acx-1231-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/fabric-deodorizer-lavender-tds-acx-1231-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/fabric-softener-concentrate-neutral-ph-tds-acx-1228-var.pdf",
+      "filename": "fabric-softener-concentrate-neutral-ph-tds-acx-1228-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/fabric-softener-concentrate-neutral-ph-tds-acx-1228-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/fabric-softener-concentrate-neutral-ph-tds-acx-1228-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/floor-cleaner-concentrate-citrus-tds-acx-1238-var.pdf",
+      "filename": "floor-cleaner-concentrate-citrus-tds-acx-1238-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/floor-cleaner-concentrate-citrus-tds-acx-1238-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/floor-cleaner-concentrate-citrus-tds-acx-1238-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/furniture-and-wood-polish-silicone-free-tds-acx-woodpol-var.pdf",
+      "filename": "furniture-and-wood-polish-silicone-free-tds-acx-woodpol-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/furniture-and-wood-polish-silicone-free-tds-acx-woodpol-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/furniture-and-wood-polish-silicone-free-tds-acx-woodpol-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/glass-cleaner-concentrate-streak-free-tds-acx-1225-var.pdf",
+      "filename": "glass-cleaner-concentrate-streak-free-tds-acx-1225-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/glass-cleaner-concentrate-streak-free-tds-acx-1225-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/glass-cleaner-concentrate-streak-free-tds-acx-1225-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/hand-sanitizer-gel-70-alcohol-tds-acx-sangel70-var.pdf",
+      "filename": "hand-sanitizer-gel-70-alcohol-tds-acx-sangel70-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/hand-sanitizer-gel-70-alcohol-tds-acx-sangel70-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/hand-sanitizer-gel-70-alcohol-tds-acx-sangel70-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/handwash-liquid-lavender-tds-acx-1223-var.pdf",
+      "filename": "handwash-liquid-lavender-tds-acx-1223-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/handwash-liquid-lavender-tds-acx-1223-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/handwash-liquid-lavender-tds-acx-1223-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/handwash-sandalwood-tds-acx-1242-var.pdf",
+      "filename": "handwash-sandalwood-tds-acx-1242-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/handwash-sandalwood-tds-acx-1242-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/handwash-sandalwood-tds-acx-1242-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/instrument-pre-soak-concentrate-multi-enzyme-tds-acx-enzpresoak-var.pdf",
+      "filename": "instrument-pre-soak-concentrate-multi-enzyme-tds-acx-enzpresoak-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/instrument-pre-soak-concentrate-multi-enzyme-tds-acx-enzpresoak-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/instrument-pre-soak-concentrate-multi-enzyme-tds-acx-enzpresoak-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/laundry-detergent-concentrate-enzyme-tds-acx-1227-var.pdf",
+      "filename": "laundry-detergent-concentrate-enzyme-tds-acx-1227-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/laundry-detergent-concentrate-enzyme-tds-acx-1227-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/laundry-detergent-concentrate-enzyme-tds-acx-1227-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/multisurface-cleaner-lime-tds-acx-1224-var.pdf",
+      "filename": "multisurface-cleaner-lime-tds-acx-1224-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/multisurface-cleaner-lime-tds-acx-1224-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/multisurface-cleaner-lime-tds-acx-1224-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/oxygen-bleach-concentrate-colour-safe-tds-acx-1229-var.pdf",
+      "filename": "oxygen-bleach-concentrate-colour-safe-tds-acx-1229-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/oxygen-bleach-concentrate-colour-safe-tds-acx-1229-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/oxygen-bleach-concentrate-colour-safe-tds-acx-1229-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/passivation-metal-descaler-mild-acid-tds-acx-1232-var.pdf",
+      "filename": "passivation-metal-descaler-mild-acid-tds-acx-1232-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/passivation-metal-descaler-mild-acid-tds-acx-1232-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/passivation-metal-descaler-mild-acid-tds-acx-1232-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/phenolic-disinfectant-concentrate-pine-tds-acx-1219-var.pdf",
+      "filename": "phenolic-disinfectant-concentrate-pine-tds-acx-1219-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/phenolic-disinfectant-concentrate-pine-tds-acx-1219-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/phenolic-disinfectant-concentrate-pine-tds-acx-1219-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/phenolic-floor-disinfectant-classic-tds-acx-1236-var.pdf",
+      "filename": "phenolic-floor-disinfectant-classic-tds-acx-1236-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/phenolic-floor-disinfectant-classic-tds-acx-1236-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/phenolic-floor-disinfectant-classic-tds-acx-1236-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/quaternary-disinfectant-concentrate-bkc-tds-acx-1220-var.pdf",
+      "filename": "quaternary-disinfectant-concentrate-bkc-tds-acx-1220-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/quaternary-disinfectant-concentrate-bkc-tds-acx-1220-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/quaternary-disinfectant-concentrate-bkc-tds-acx-1220-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/sodium-hypochlorite-10-bleach-concentrate-tds-acx-naocl10-var.pdf",
+      "filename": "sodium-hypochlorite-10-bleach-concentrate-tds-acx-naocl10-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/sodium-hypochlorite-10-bleach-concentrate-tds-acx-naocl10-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/sodium-hypochlorite-10-bleach-concentrate-tds-acx-naocl10-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/stainless-steel-and-chrome-polish-streak-free-tds-acx-sspolish-var.pdf",
+      "filename": "stainless-steel-and-chrome-polish-streak-free-tds-acx-sspolish-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/stainless-steel-and-chrome-polish-streak-free-tds-acx-sspolish-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/stainless-steel-and-chrome-polish-streak-free-tds-acx-sspolish-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/stainless-steel-heavy-duty-cleaner-and-degreaser-tds-acx-sshdclean-var.pdf",
+      "filename": "stainless-steel-heavy-duty-cleaner-and-degreaser-tds-acx-sshdclean-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/stainless-steel-heavy-duty-cleaner-and-degreaser-tds-acx-sshdclean-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/stainless-steel-heavy-duty-cleaner-and-degreaser-tds-acx-sshdclean-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/surface-disinfectant-refill-lime-tds-acx-1252-var.pdf",
+      "filename": "surface-disinfectant-refill-lime-tds-acx-1252-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/surface-disinfectant-refill-lime-tds-acx-1252-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/surface-disinfectant-refill-lime-tds-acx-1252-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/toilet-bowl-cleaner-acid-gel-tds-acx-1239-var.pdf",
+      "filename": "toilet-bowl-cleaner-acid-gel-tds-acx-1239-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/toilet-bowl-cleaner-acid-gel-tds-acx-1239-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/toilet-bowl-cleaner-acid-gel-tds-acx-1239-var.pdf"
+    },
+    {
+      "type": "TDS",
+      "path": "tds/wool-and-delicate-fabric-wash-neutral-ph-tds-acx-1230-var.pdf",
+      "filename": "wool-and-delicate-fabric-wash-neutral-ph-tds-acx-1230-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/tds/wool-and-delicate-fabric-wash-neutral-ph-tds-acx-1230-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/tds/wool-and-delicate-fabric-wash-neutral-ph-tds-acx-1230-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/air-freshener-usage-guide-acx-1226-var.pdf",
+      "filename": "air-freshener-usage-guide-acx-1226-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/air-freshener-usage-guide-acx-1226-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/air-freshener-usage-guide-acx-1226-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/anionic-surfactant-concentrate-alkaline-usage-guide-acx-2539-var.pdf",
+      "filename": "anionic-surfactant-concentrate-alkaline-usage-guide-acx-2539-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/anionic-surfactant-concentrate-alkaline-usage-guide-acx-2539-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/anionic-surfactant-concentrate-alkaline-usage-guide-acx-2539-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/antiseptic-handwash-chg-clinical-usage-guide-acx-2221-var.pdf",
+      "filename": "antiseptic-handwash-chg-clinical-usage-guide-acx-2221-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/antiseptic-handwash-chg-clinical-usage-guide-acx-2221-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/antiseptic-handwash-chg-clinical-usage-guide-acx-2221-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/bathroom-and-tile-cleaner-lime-usage-guide-acx-1243-var.pdf",
+      "filename": "bathroom-and-tile-cleaner-lime-usage-guide-acx-1243-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/bathroom-and-tile-cleaner-lime-usage-guide-acx-1243-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/bathroom-and-tile-cleaner-lime-usage-guide-acx-1243-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/calcite-and-limescale-remover-acidic-usage-guide-acx-1221-var.pdf",
+      "filename": "calcite-and-limescale-remover-acidic-usage-guide-acx-1221-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/calcite-and-limescale-remover-acidic-usage-guide-acx-1221-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/calcite-and-limescale-remover-acidic-usage-guide-acx-1221-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/carbonised-grease-remover-caustic-gel-usage-guide-acx-2538-var.pdf",
+      "filename": "carbonised-grease-remover-caustic-gel-usage-guide-acx-2538-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/carbonised-grease-remover-caustic-gel-usage-guide-acx-2538-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/carbonised-grease-remover-caustic-gel-usage-guide-acx-2538-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/carpet-and-upholstery-shampoo-concentrate-low-foam-usage-guide-acx-carpetsh-var.pdf",
+      "filename": "carpet-and-upholstery-shampoo-concentrate-low-foam-usage-guide-acx-carpetsh-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/carpet-and-upholstery-shampoo-concentrate-low-foam-usage-guide-acx-carpetsh-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/carpet-and-upholstery-shampoo-concentrate-low-foam-usage-guide-acx-carpetsh-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/chimney-and-exhaust-degreaser-alkaline-usage-guide-acx-1234-var.pdf",
+      "filename": "chimney-and-exhaust-degreaser-alkaline-usage-guide-acx-1234-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/chimney-and-exhaust-degreaser-alkaline-usage-guide-acx-1234-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/chimney-and-exhaust-degreaser-alkaline-usage-guide-acx-1234-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/citric-bathroom-descaler-alkaline-usage-guide-acx-1235-var.pdf",
+      "filename": "citric-bathroom-descaler-alkaline-usage-guide-acx-1235-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/citric-bathroom-descaler-alkaline-usage-guide-acx-1235-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/citric-bathroom-descaler-alkaline-usage-guide-acx-1235-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/concrete-floor-degreaser-heavy-duty-alkaline-usage-guide-acx-concdeg-var.pdf",
+      "filename": "concrete-floor-degreaser-heavy-duty-alkaline-usage-guide-acx-concdeg-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/concrete-floor-degreaser-heavy-duty-alkaline-usage-guide-acx-concdeg-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/concrete-floor-degreaser-heavy-duty-alkaline-usage-guide-acx-concdeg-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/dish-concentrate-alkaline-usage-guide-acx-1222-var.pdf",
+      "filename": "dish-concentrate-alkaline-usage-guide-acx-1222-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/dish-concentrate-alkaline-usage-guide-acx-1222-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/dish-concentrate-alkaline-usage-guide-acx-1222-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/dishwash-concentrate-ph-neutral-usage-guide-acx-phdish-var.pdf",
+      "filename": "dishwash-concentrate-ph-neutral-usage-guide-acx-phdish-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/dishwash-concentrate-ph-neutral-usage-guide-acx-phdish-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/dishwash-concentrate-ph-neutral-usage-guide-acx-phdish-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/disinfectant-floor-cleaner-2-in-1-usage-guide-acx-dfc2in1-var.pdf",
+      "filename": "disinfectant-floor-cleaner-2-in-1-usage-guide-acx-dfc2in1-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/disinfectant-floor-cleaner-2-in-1-usage-guide-acx-dfc2in1-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/disinfectant-floor-cleaner-2-in-1-usage-guide-acx-dfc2in1-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/fabric-deodorizer-lavender-usage-guide-acx-1231-var.pdf",
+      "filename": "fabric-deodorizer-lavender-usage-guide-acx-1231-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/fabric-deodorizer-lavender-usage-guide-acx-1231-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/fabric-deodorizer-lavender-usage-guide-acx-1231-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/fabric-softener-concentrate-neutral-ph-usage-guide-acx-1228-var.pdf",
+      "filename": "fabric-softener-concentrate-neutral-ph-usage-guide-acx-1228-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/fabric-softener-concentrate-neutral-ph-usage-guide-acx-1228-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/fabric-softener-concentrate-neutral-ph-usage-guide-acx-1228-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/floor-cleaner-concentrate-citrus-usage-guide-acx-1238-var.pdf",
+      "filename": "floor-cleaner-concentrate-citrus-usage-guide-acx-1238-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/floor-cleaner-concentrate-citrus-usage-guide-acx-1238-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/floor-cleaner-concentrate-citrus-usage-guide-acx-1238-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/furniture-and-wood-polish-silicone-free-usage-guide-acx-woodpol-var.pdf",
+      "filename": "furniture-and-wood-polish-silicone-free-usage-guide-acx-woodpol-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/furniture-and-wood-polish-silicone-free-usage-guide-acx-woodpol-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/furniture-and-wood-polish-silicone-free-usage-guide-acx-woodpol-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/glass-cleaner-concentrate-streak-free-usage-guide-acx-1225-var.pdf",
+      "filename": "glass-cleaner-concentrate-streak-free-usage-guide-acx-1225-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/glass-cleaner-concentrate-streak-free-usage-guide-acx-1225-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/glass-cleaner-concentrate-streak-free-usage-guide-acx-1225-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/hand-sanitizer-gel-70-alcohol-usage-guide-acx-sangel70-var.pdf",
+      "filename": "hand-sanitizer-gel-70-alcohol-usage-guide-acx-sangel70-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/hand-sanitizer-gel-70-alcohol-usage-guide-acx-sangel70-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/hand-sanitizer-gel-70-alcohol-usage-guide-acx-sangel70-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/handwash-liquid-lavender-usage-guide-acx-1223-var.pdf",
+      "filename": "handwash-liquid-lavender-usage-guide-acx-1223-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/handwash-liquid-lavender-usage-guide-acx-1223-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/handwash-liquid-lavender-usage-guide-acx-1223-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/handwash-sandalwood-usage-guide-acx-1242-var.pdf",
+      "filename": "handwash-sandalwood-usage-guide-acx-1242-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/handwash-sandalwood-usage-guide-acx-1242-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/handwash-sandalwood-usage-guide-acx-1242-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/instrument-pre-soak-concentrate-multi-enzyme-usage-guide-acx-enzpresoak-var.pdf",
+      "filename": "instrument-pre-soak-concentrate-multi-enzyme-usage-guide-acx-enzpresoak-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/instrument-pre-soak-concentrate-multi-enzyme-usage-guide-acx-enzpresoak-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/instrument-pre-soak-concentrate-multi-enzyme-usage-guide-acx-enzpresoak-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/laundry-detergent-concentrate-enzyme-usage-guide-acx-1227-var.pdf",
+      "filename": "laundry-detergent-concentrate-enzyme-usage-guide-acx-1227-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/laundry-detergent-concentrate-enzyme-usage-guide-acx-1227-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/laundry-detergent-concentrate-enzyme-usage-guide-acx-1227-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/multisurface-cleaner-lime-usage-guide-acx-1224-var.pdf",
+      "filename": "multisurface-cleaner-lime-usage-guide-acx-1224-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/multisurface-cleaner-lime-usage-guide-acx-1224-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/multisurface-cleaner-lime-usage-guide-acx-1224-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/oxygen-bleach-concentrate-colour-safe-usage-guide-acx-1229-var.pdf",
+      "filename": "oxygen-bleach-concentrate-colour-safe-usage-guide-acx-1229-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/oxygen-bleach-concentrate-colour-safe-usage-guide-acx-1229-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/oxygen-bleach-concentrate-colour-safe-usage-guide-acx-1229-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/passivation-metal-descaler-mild-acid-usage-guide-acx-1232-var.pdf",
+      "filename": "passivation-metal-descaler-mild-acid-usage-guide-acx-1232-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/passivation-metal-descaler-mild-acid-usage-guide-acx-1232-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/passivation-metal-descaler-mild-acid-usage-guide-acx-1232-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/phenolic-disinfectant-concentrate-pine-usage-guide-acx-1219-var.pdf",
+      "filename": "phenolic-disinfectant-concentrate-pine-usage-guide-acx-1219-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/phenolic-disinfectant-concentrate-pine-usage-guide-acx-1219-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/phenolic-disinfectant-concentrate-pine-usage-guide-acx-1219-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/phenolic-floor-disinfectant-classic-usage-guide-acx-1236-var.pdf",
+      "filename": "phenolic-floor-disinfectant-classic-usage-guide-acx-1236-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/phenolic-floor-disinfectant-classic-usage-guide-acx-1236-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/phenolic-floor-disinfectant-classic-usage-guide-acx-1236-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/quaternary-disinfectant-concentrate-bkc-usage-guide-acx-1220-var.pdf",
+      "filename": "quaternary-disinfectant-concentrate-bkc-usage-guide-acx-1220-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/quaternary-disinfectant-concentrate-bkc-usage-guide-acx-1220-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/quaternary-disinfectant-concentrate-bkc-usage-guide-acx-1220-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/sodium-hypochlorite-10-bleach-concentrate-usage-guide-acx-naocl10-var.pdf",
+      "filename": "sodium-hypochlorite-10-bleach-concentrate-usage-guide-acx-naocl10-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/sodium-hypochlorite-10-bleach-concentrate-usage-guide-acx-naocl10-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/sodium-hypochlorite-10-bleach-concentrate-usage-guide-acx-naocl10-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/stainless-steel-and-chrome-polish-streak-free-usage-guide-acx-sspolish-var.pdf",
+      "filename": "stainless-steel-and-chrome-polish-streak-free-usage-guide-acx-sspolish-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/stainless-steel-and-chrome-polish-streak-free-usage-guide-acx-sspolish-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/stainless-steel-and-chrome-polish-streak-free-usage-guide-acx-sspolish-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/stainless-steel-heavy-duty-cleaner-and-degreaser-usage-guide-acx-sshdclean-var.pdf",
+      "filename": "stainless-steel-heavy-duty-cleaner-and-degreaser-usage-guide-acx-sshdclean-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/stainless-steel-heavy-duty-cleaner-and-degreaser-usage-guide-acx-sshdclean-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/stainless-steel-heavy-duty-cleaner-and-degreaser-usage-guide-acx-sshdclean-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/surface-disinfectant-refill-lime-usage-guide-acx-1252-var.pdf",
+      "filename": "surface-disinfectant-refill-lime-usage-guide-acx-1252-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/surface-disinfectant-refill-lime-usage-guide-acx-1252-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/surface-disinfectant-refill-lime-usage-guide-acx-1252-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/toilet-bowl-cleaner-acid-gel-usage-guide-acx-1239-var.pdf",
+      "filename": "toilet-bowl-cleaner-acid-gel-usage-guide-acx-1239-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/toilet-bowl-cleaner-acid-gel-usage-guide-acx-1239-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/toilet-bowl-cleaner-acid-gel-usage-guide-acx-1239-var.pdf"
+    },
+    {
+      "type": "Usage Guide",
+      "path": "usage-guides/wool-and-delicate-fabric-wash-neutral-ph-usage-guide-acx-1230-var.pdf",
+      "filename": "wool-and-delicate-fabric-wash-neutral-ph-usage-guide-acx-1230-var.pdf",
+      "github_url": "https://github.com/alles-clinx/.github/blob/main/usage-guides/wool-and-delicate-fabric-wash-neutral-ph-usage-guide-acx-1230-var.pdf",
+      "raw_url": "https://raw.githubusercontent.com/alles-clinx/.github/main/usage-guides/wool-and-delicate-fabric-wash-neutral-ph-usage-guide-acx-1230-var.pdf"
+    }
+  ]
+}
