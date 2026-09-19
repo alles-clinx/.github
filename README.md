@@ -29,6 +29,15 @@ Browse the [complete document index](./DOCUMENTS.md).
 - [Alle's ClinX Plus](https://allesclinx.com/plus/) — recurring institutional supply and facility planning.
 - [Supply Planner](https://allesclinx.com/plus/supply-planner/) · [Hygiene Passport](https://allesclinx.com/plus/hygiene-passport/) · [Facility Tools](https://allesclinx.com/plus/facility-tools/)
 
+## Public data and governance
+
+- [Machine-readable product and document data](./data/)
+- [Security policy](./SECURITY.md)
+- [Support policy](./SUPPORT.md)
+- [Contributing](./CONTRIBUTING.md)
+- [Public data policy](./PUBLIC-DATA.md)
+- [Changelog](./CHANGELOG.md)
+
 ## Corporate identity
 
 - **Brand:** Alle's ClinX
