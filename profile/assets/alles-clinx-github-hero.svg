@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Alle's ClinX</title>
+  <desc id="desc">Institutional hygiene systems for professional facilities in India.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3e6ae1"/>
+      <stop offset="1" stop-color="#6f8ff0"/>
+    </linearGradient>
+    <style>
+      .main { font: 600 62px -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Arial,sans-serif; fill:#111827; letter-spacing:-1.8px; }
+      .sub { font: 400 24px -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Arial,sans-serif; fill:#4b5563; }
+      .meta { font: 500 17px -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Arial,sans-serif; fill:#6b7280; letter-spacing:.15px; }
+      @media (prefers-color-scheme: dark) {
+        .main { fill:#f6f8fa; }
+        .sub { fill:#c9d1d9; }
+        .meta { fill:#8b949e; }
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1200" height="320" fill="none"/>
+  <rect x="84" y="66" width="74" height="7" rx="3.5" fill="url(#line)"/>
+  <text x="84" y="146" class="main">Alle's ClinX</text>
+  <text x="84" y="196" class="sub">Institutional hygiene systems for professional facilities.</text>
+  <text x="84" y="244" class="meta">Professional chemistry · technical documentation · AI-assisted tools · recurring supply</text>
+  <text x="1116" y="244" text-anchor="end" class="meta">India</text>
+  <line x1="84" y1="271" x2="1116" y2="271" stroke="#d1d5db" stroke-width="1"/>
+</svg>
