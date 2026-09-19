@@ -1,0 +1,461 @@
+{
+  "updated": "2026-09-19",
+  "source": "Alle's ClinX public technical repository",
+  "products": [
+    {
+      "sku": "ACX-1226-VAR",
+      "name": "Air Freshener",
+      "ph": "6.0–7.0 (near-neutral)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "500 ml ready-to-use trigger spray",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/air-freshener-tds-acx-1226-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/air-freshener-sop-acx-1226-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/air-freshener-usage-guide-acx-1226-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-2539-VAR",
+      "name": "Anionic Surfactant Concentrate - Alkaline",
+      "ph": "10.0–12.0 (alkaline)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres / Bulk on request",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/anionic-surfactant-concentrate-alkaline-tds-acx-2539-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/anionic-surfactant-concentrate-alkaline-sop-acx-2539-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/anionic-surfactant-concentrate-alkaline-usage-guide-acx-2539-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-2221-VAR",
+      "name": "Antiseptic Handwash - CHG Clinical",
+      "ph": "5.5–7.0",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/antiseptic-handwash-chg-clinical-tds-acx-2221-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/antiseptic-handwash-chg-clinical-sop-acx-2221-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/antiseptic-handwash-chg-clinical-usage-guide-acx-2221-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1243-VAR",
+      "name": "Bathroom & Tile Cleaner - Lime",
+      "ph": "9–10 (alkaline)",
+      "shelf_life": "24 months from manufacture date, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/bathroom-and-tile-cleaner-lime-tds-acx-1243-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/bathroom-and-tile-cleaner-lime-sop-acx-1243-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/bathroom-and-tile-cleaner-lime-usage-guide-acx-1243-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1221-VAR",
+      "name": "Calcite & Limescale Remover - Acidic",
+      "ph": "1.5–2.0 (strongly acidic)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/calcite-and-limescale-remover-acidic-tds-acx-1221-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/calcite-and-limescale-remover-acidic-sop-acx-1221-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/calcite-and-limescale-remover-acidic-usage-guide-acx-1221-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-2538-VAR",
+      "name": "Carbonised Grease Remover - Caustic Gel",
+      "ph": "12.0–13.0 (strongly alkaline)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/carbonised-grease-remover-caustic-gel-tds-acx-2538-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/carbonised-grease-remover-caustic-gel-sop-acx-2538-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/carbonised-grease-remover-caustic-gel-usage-guide-acx-2538-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-CARPETSH-VAR",
+      "name": "Carpet & Upholstery Shampoo Concentrate - Low-Foam",
+      "ph": "7.0–8.5 (mild alkaline)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres / Bulk on request",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/carpet-and-upholstery-shampoo-concentrate-low-foam-tds-acx-carpetsh-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/carpet-and-upholstery-shampoo-concentrate-low-foam-sop-acx-carpetsh-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/carpet-and-upholstery-shampoo-concentrate-low-foam-usage-guide-acx-carpetsh-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1234-VAR",
+      "name": "Chimney & Exhaust Degreaser - Alkaline",
+      "ph": "11.0–12.0 (strongly alkaline)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres concentrate",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/chimney-and-exhaust-degreaser-alkaline-tds-acx-1234-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/chimney-and-exhaust-degreaser-alkaline-sop-acx-1234-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/chimney-and-exhaust-degreaser-alkaline-usage-guide-acx-1234-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1235-VAR",
+      "name": "Citric Bathroom Descaler - Alkaline",
+      "ph": "10.0–11.0 (alkaline)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/citric-bathroom-descaler-alkaline-tds-acx-1235-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/citric-bathroom-descaler-alkaline-sop-acx-1235-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/citric-bathroom-descaler-alkaline-usage-guide-acx-1235-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-CONCDEG-VAR",
+      "name": "Concrete Floor Degreaser - Heavy-Duty Alkaline",
+      "ph": "11.0–13.0 (alkaline)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres / Bulk on request",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/concrete-floor-degreaser-heavy-duty-alkaline-tds-acx-concdeg-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/concrete-floor-degreaser-heavy-duty-alkaline-sop-acx-concdeg-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/concrete-floor-degreaser-heavy-duty-alkaline-usage-guide-acx-concdeg-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1222-VAR",
+      "name": "Dish Concentrate - Alkaline",
+      "ph": "9.0–11.0 (alkaline)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres concentrate",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/dish-concentrate-alkaline-tds-acx-1222-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/dish-concentrate-alkaline-sop-acx-1222-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/dish-concentrate-alkaline-usage-guide-acx-1222-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-PHDISH-VAR",
+      "name": "Dishwash Concentrate - pH Neutral",
+      "ph": "6.5–7.5 (neutral)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres / Bulk on request",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/dishwash-concentrate-ph-neutral-tds-acx-phdish-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/dishwash-concentrate-ph-neutral-sop-acx-phdish-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/dishwash-concentrate-ph-neutral-usage-guide-acx-phdish-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-DFC2IN1-VAR",
+      "name": "Disinfectant Floor Cleaner - 2-in-1",
+      "ph": "7.0–9.0",
+      "shelf_life": null,
+      "pack_size": "5 L · 20 L",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/disinfectant-floor-cleaner-2-in-1-tds-acx-dfc2in1-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/disinfectant-floor-cleaner-2-in-1-sop-acx-dfc2in1-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/disinfectant-floor-cleaner-2-in-1-usage-guide-acx-dfc2in1-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1231-VAR",
+      "name": "Fabric Deodorizer - Lavender",
+      "ph": "Neutral",
+      "shelf_life": "18 months from date of manufacture, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/fabric-deodorizer-lavender-tds-acx-1231-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/fabric-deodorizer-lavender-sop-acx-1231-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/fabric-deodorizer-lavender-usage-guide-acx-1231-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1228-VAR",
+      "name": "Fabric Softener Concentrate - Neutral pH",
+      "ph": "6.5–7.5 (neutral)",
+      "shelf_life": "18 months from date of manufacture, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/fabric-softener-concentrate-neutral-ph-tds-acx-1228-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/fabric-softener-concentrate-neutral-ph-sop-acx-1228-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/fabric-softener-concentrate-neutral-ph-usage-guide-acx-1228-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1238-VAR",
+      "name": "Floor Cleaner Concentrate - Citrus",
+      "ph": "Neutral",
+      "shelf_life": "24 months from manufacture date, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/floor-cleaner-concentrate-citrus-tds-acx-1238-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/floor-cleaner-concentrate-citrus-sop-acx-1238-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/floor-cleaner-concentrate-citrus-usage-guide-acx-1238-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-WOODPOL-VAR",
+      "name": "Furniture & Wood Polish - Silicone-Free",
+      "ph": "Neutral",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres (refill for trigger spray bottles)",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/furniture-and-wood-polish-silicone-free-tds-acx-woodpol-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/furniture-and-wood-polish-silicone-free-sop-acx-woodpol-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/furniture-and-wood-polish-silicone-free-usage-guide-acx-woodpol-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1225-VAR",
+      "name": "Glass Cleaner Concentrate - Streak-Free",
+      "ph": "6.5–7.5 (neutral)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres concentrate",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/glass-cleaner-concentrate-streak-free-tds-acx-1225-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/glass-cleaner-concentrate-streak-free-sop-acx-1225-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/glass-cleaner-concentrate-streak-free-usage-guide-acx-1225-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-SANGEL70-VAR",
+      "name": "Hand Sanitizer Gel - 70% Alcohol",
+      "ph": "5.5–7.0",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres (refill for pump/dispenser bottles)",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/hand-sanitizer-gel-70-alcohol-tds-acx-sangel70-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/hand-sanitizer-gel-70-alcohol-sop-acx-sangel70-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/hand-sanitizer-gel-70-alcohol-usage-guide-acx-sangel70-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1223-VAR",
+      "name": "Handwash Liquid - Lavender",
+      "ph": "6.5–7.5 (neutral — skin-compatible)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/handwash-liquid-lavender-tds-acx-1223-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/handwash-liquid-lavender-sop-acx-1223-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/handwash-liquid-lavender-usage-guide-acx-1223-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1242-VAR",
+      "name": "Handwash - Sandalwood",
+      "ph": "6.5–7.5 (neutral)",
+      "shelf_life": "24 months from manufacture date, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/handwash-sandalwood-tds-acx-1242-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/handwash-sandalwood-sop-acx-1242-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/handwash-sandalwood-usage-guide-acx-1242-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-ENZPRESOAK-VAR",
+      "name": "Instrument Pre-Soak Concentrate - Multi-Enzyme",
+      "ph": "6.5–7.5 (neutral)",
+      "shelf_life": "18 months from date of manufacture, unopened",
+      "pack_size": "5 Litres / Bulk on request",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/instrument-pre-soak-concentrate-multi-enzyme-tds-acx-enzpresoak-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/instrument-pre-soak-concentrate-multi-enzyme-sop-acx-enzpresoak-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/instrument-pre-soak-concentrate-multi-enzyme-usage-guide-acx-enzpresoak-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1227-VAR",
+      "name": "Laundry Detergent Concentrate - Enzyme",
+      "ph": "9.0–11.0 (alkaline)",
+      "shelf_life": "18 months from date of manufacture, unopened",
+      "pack_size": "5 Litres concentrate",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/laundry-detergent-concentrate-enzyme-tds-acx-1227-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/laundry-detergent-concentrate-enzyme-sop-acx-1227-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/laundry-detergent-concentrate-enzyme-usage-guide-acx-1227-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1224-VAR",
+      "name": "Multisurface Cleaner - Lime",
+      "ph": "6.5–7.5 (neutral)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres concentrate",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/multisurface-cleaner-lime-tds-acx-1224-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/multisurface-cleaner-lime-sop-acx-1224-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/multisurface-cleaner-lime-usage-guide-acx-1224-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1229-VAR",
+      "name": "Oxygen Bleach Concentrate - Colour-Safe",
+      "ph": "10.0–11.0 (alkaline activation)",
+      "shelf_life": "18 months from date of manufacture, in sealed container",
+      "pack_size": "5 Litres (by volume) / 5 kg (by weight)",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/oxygen-bleach-concentrate-colour-safe-tds-acx-1229-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/oxygen-bleach-concentrate-colour-safe-sop-acx-1229-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/oxygen-bleach-concentrate-colour-safe-usage-guide-acx-1229-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1232-VAR",
+      "name": "Passivation Metal Descaler - Mild Acid",
+      "ph": "Mild acidic (3.5–5.5)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres concentrate",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/passivation-metal-descaler-mild-acid-tds-acx-1232-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/passivation-metal-descaler-mild-acid-sop-acx-1232-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/passivation-metal-descaler-mild-acid-usage-guide-acx-1232-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1219-VAR",
+      "name": "Phenolic Disinfectant Concentrate - Pine",
+      "ph": "8.0–10.0 (alkaline)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres concentrate",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/phenolic-disinfectant-concentrate-pine-tds-acx-1219-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/phenolic-disinfectant-concentrate-pine-sop-acx-1219-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/phenolic-disinfectant-concentrate-pine-usage-guide-acx-1219-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1236-VAR",
+      "name": "Phenolic Floor Disinfectant - Classic",
+      "ph": "Neutral",
+      "shelf_life": "24 months from manufacture date, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/phenolic-floor-disinfectant-classic-tds-acx-1236-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/phenolic-floor-disinfectant-classic-sop-acx-1236-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/phenolic-floor-disinfectant-classic-usage-guide-acx-1236-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1220-VAR",
+      "name": "Quaternary Disinfectant Concentrate - BKC",
+      "ph": "8.0–10.0 (near-neutral to mildly alkaline)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres concentrate",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/quaternary-disinfectant-concentrate-bkc-tds-acx-1220-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/quaternary-disinfectant-concentrate-bkc-sop-acx-1220-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/quaternary-disinfectant-concentrate-bkc-usage-guide-acx-1220-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-NAOCL10-VAR",
+      "name": "Sodium Hypochlorite 10% - Bleach Concentrate",
+      "ph": "11.0–13.0 (alkaline, stabilised)",
+      "shelf_life": "12 months from date of manufacture, unopened, stored below 25°C",
+      "pack_size": "5 Litres / Bulk on request",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/sodium-hypochlorite-10-bleach-concentrate-tds-acx-naocl10-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/sodium-hypochlorite-10-bleach-concentrate-sop-acx-naocl10-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/sodium-hypochlorite-10-bleach-concentrate-usage-guide-acx-naocl10-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-SSPOLISH-VAR",
+      "name": "Stainless Steel & Chrome Polish - Streak-Free",
+      "ph": "Neutral",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres (refill for trigger spray bottles)",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/stainless-steel-and-chrome-polish-streak-free-tds-acx-sspolish-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/stainless-steel-and-chrome-polish-streak-free-sop-acx-sspolish-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/stainless-steel-and-chrome-polish-streak-free-usage-guide-acx-sspolish-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-SSHDCLEAN-VAR",
+      "name": "Stainless Steel Heavy-Duty Cleaner & Degreaser",
+      "ph": "10.5–12.0 (alkaline)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres / Bulk on request",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/stainless-steel-heavy-duty-cleaner-and-degreaser-tds-acx-sshdclean-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/stainless-steel-heavy-duty-cleaner-and-degreaser-sop-acx-sshdclean-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/stainless-steel-heavy-duty-cleaner-and-degreaser-usage-guide-acx-sshdclean-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1252-VAR",
+      "name": "Surface Disinfectant Refill - Lime",
+      "ph": "Neutral",
+      "shelf_life": "24 months from manufacture date, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/surface-disinfectant-refill-lime-tds-acx-1252-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/surface-disinfectant-refill-lime-sop-acx-1252-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/surface-disinfectant-refill-lime-usage-guide-acx-1252-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1239-VAR",
+      "name": "Toilet Bowl Cleaner - Acid Gel",
+      "ph": "2.5–3.0",
+      "shelf_life": "24 months from manufacture date, unopened",
+      "pack_size": "5 Litres",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/toilet-bowl-cleaner-acid-gel-tds-acx-1239-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/toilet-bowl-cleaner-acid-gel-sop-acx-1239-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/toilet-bowl-cleaner-acid-gel-usage-guide-acx-1239-var.pdf"
+      }
+    },
+    {
+      "sku": "ACX-1230-VAR",
+      "name": "Wool & Delicate Fabric Wash - Neutral pH",
+      "ph": "6.5–7.0 (near-neutral)",
+      "shelf_life": "24 months from date of manufacture, unopened",
+      "pack_size": "5 Litres concentrate",
+      "documents": {
+        "sds": null,
+        "tds": "https://github.com/alles-clinx/.github/blob/main/tds/wool-and-delicate-fabric-wash-neutral-ph-tds-acx-1230-var.pdf",
+        "sop": "https://github.com/alles-clinx/.github/blob/main/sops/wool-and-delicate-fabric-wash-neutral-ph-sop-acx-1230-var.pdf",
+        "usage_guide": "https://github.com/alles-clinx/.github/blob/main/usage-guides/wool-and-delicate-fabric-wash-neutral-ph-usage-guide-acx-1230-var.pdf"
+      }
+    }
+  ]
+}
