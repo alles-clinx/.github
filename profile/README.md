@@ -154,6 +154,15 @@ For structured entity information, see the [official entity reference](https://g
 | [Insights](https://allesclinx.com/insights/) | Institutional hygiene, chemistry and procurement writing |
 | [Support](https://allesclinx.com/support/) | Product, ordering and documentation support |
 
+## Public data and governance
+
+- [Public data catalogue](https://github.com/alles-clinx/.github/tree/main/data) — machine-readable product and document metadata.
+- [Security policy](https://github.com/alles-clinx/.github/blob/main/SECURITY.md) — responsible disclosure and security reporting.
+- [Support policy](https://github.com/alles-clinx/.github/blob/main/SUPPORT.md) — official support and procurement routes.
+- [Contributing](https://github.com/alles-clinx/.github/blob/main/CONTRIBUTING.md) — rules for public corrections and contributions.
+- [Public data policy](https://github.com/alles-clinx/.github/blob/main/PUBLIC-DATA.md) — publication boundary for public versus confidential information.
+- [Changelog](https://github.com/alles-clinx/.github/blob/main/CHANGELOG.md) — material changes to the public information layer.
+
 ## Operating principles
 
 **Evidence before claims.** Technical information should be traceable and clearly communicated.
