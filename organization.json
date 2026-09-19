@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://allesclinx.com/#champaran-innovatives",
+      "name": "Champaran Innovatives Private Limited",
+      "url": "https://allesclinx.com/",
+      "brand": {
+        "@id": "https://allesclinx.com/#alles-clinx"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "LSEG PermID",
+          "value": "6000375462"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "LSEG ORG ID",
+          "value": "128194246"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "S&P Capital IQ company ID",
+          "value": "2018713108"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "S&P Global company profile ID",
+          "value": "150390290"
+        }
+      ],
+      "sameAs": [
+        "https://github.com/alles-clinx",
+        "https://www.capitaliq.com/CIQDotNet/company.aspx?companyId=2018713108",
+        "https://www.capitaliq.spglobal.com/apisv3/spg-webplatform-core/company/profile?id=150390290"
+      ]
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://allesclinx.com/#alles-clinx",
+      "name": "Alle's ClinX",
+      "alternateName": "Alle’s ClinX",
+      "url": "https://allesclinx.com/",
+      "description": "B2B institutional hygiene systems, professional cleaning chemicals, technical documentation and facility tools for healthcare, education, hospitality and industrial facilities in India.",
+      "sameAs": [
+        "https://github.com/alles-clinx"
+      ]
+    }
+  ]
+}
