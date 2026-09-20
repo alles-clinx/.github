@@ -24,25 +24,63 @@ jobs:
 
           mkdir -p tds usage-guides sops resources
 
-          tds_archives=(incoming/*TDS*.zip)
-          usage_archives=(incoming/*Usage_Guides*.zip)
-          sop_archives=(incoming/*SOPs*.zip)
-          resource_archives=(incoming/*Free_Hygiene_Resources*.zip)
+          tds_reset=0
+          usage_reset=0
+          sop_reset=0
+          resource_reset=0
 
-          for archive in "${tds_archives[@]}"; do
-            unzip -oq "$archive" -d tds
-          done
+          extract_flat_pdfs() {
+            archive="$1"
+            target="$2"
+            unzip -Z1 "$archive" | while IFS= read -r entry; do
+              case "$entry" in
+                */) continue ;;
+                *.pdf|*.PDF)
+                  out="$target/$(basename "$entry")"
+                  unzip -p "$archive" "$entry" > "$out"
+                  ;;
+              esac
+            done
+          }
 
-          for archive in "${usage_archives[@]}"; do
-            unzip -oq "$archive" -d usage-guides
-          done
+          shopt -s nullglob
+          for archive in incoming/*.zip; do
+            name="$(basename "$archive" | tr '[:upper:]_' '[:lower:]-')"
 
-          for archive in "${sop_archives[@]}"; do
-            unzip -oq "$archive" -d sops
-          done
-
-          for archive in "${resource_archives[@]}"; do
-            unzip -oq "$archive" -d resources
+            case "$name" in
+              *technical-data-sheet*|*tds*)
+                if [ "$tds_reset" -eq 0 ]; then
+                  find tds -maxdepth 1 -type f -iname '*.pdf' -delete
+                  tds_reset=1
+                fi
+                extract_flat_pdfs "$archive" tds
+                ;;
+              *usage-guide*)
+                if [ "$usage_reset" -eq 0 ]; then
+                  find usage-guides -maxdepth 1 -type f -iname '*.pdf' -delete
+                  usage_reset=1
+                fi
+                extract_flat_pdfs "$archive" usage-guides
+                ;;
+              *sop*)
+                if [ "$sop_reset" -eq 0 ]; then
+                  find sops -maxdepth 1 -type f -iname '*.pdf' -delete
+                  sop_reset=1
+                fi
+                extract_flat_pdfs "$archive" sops
+                ;;
+              *free-hygiene-resource*|*hygiene-resource*)
+                if [ "$resource_reset" -eq 0 ]; then
+                  find resources -type f -iname '*.pdf' -delete
+                  resource_reset=1
+                fi
+                unzip -oq "$archive" -d resources
+                ;;
+              *)
+                echo "Unrecognized archive name: $archive"
+                exit 1
+                ;;
+            esac
           done
 
           find tds usage-guides sops resources -type d -name '__MACOSX' -prune -exec rm -rf {} + 2>/dev/null || true
