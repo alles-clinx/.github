@@ -2,6 +2,16 @@
 
 This changelog records material changes to the public Alle's ClinX GitHub information layer. Individual controlled product documents may maintain their own revision information.
 
+## 2026-09-21
+
+### Updated
+
+- replaced legacy TDS, Usage Guide and SOP PDFs with the current approved 35-product document sets;
+- rebuilt document-index, manifest and product-data links to the current canonical PDF filenames;
+- retired the legacy PDF generator that could overwrite the approved document library;
+- removed temporary document-upload payload files;
+- updated import documentation so future approved ZIP imports replace prior category PDFs cleanly.
+
 ## 2026-09-19
 
 ### Added
