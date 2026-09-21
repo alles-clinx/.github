@@ -14,7 +14,7 @@ The customer-facing tools come first. Repository maintenance automation is liste
 | --- | --- | --- |
 | [Nova](https://allesclinx.com/about-nova/) | Available | AI assistant for Alle's ClinX product, documentation and policy questions |
 | [Metricon](https://allesclinx.com/metricon/) | Available | Browser-based procurement, application, chemistry and risk calculators |
-| CheckMate | Coming soon | Compliance and document-review tooling |
+| [CheckMate](https://allesclinx.com/checkmate/) | Available | Product identity, document consistency, procurement evidence and delivery verification |
 | Lens | Coming soon | Analytics and pattern-insight tooling |
 | Atlas | Coming soon | Mapping, tracking and regional-risk tooling |
 
