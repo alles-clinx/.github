@@ -7,6 +7,9 @@ This directory provides a curated machine-readable view of public Alle's ClinX p
 - [products.json](./products.json) — public product metadata with links to available SDS, TDS, SOP and Usage Guides.
 - [products.csv](./products.csv) — tabular version of the curated product dataset.
 - [document-index.json](./document-index.json) — machine-readable index of public PDFs mirrored in this repository.
+- [release-manifest.json](./release-manifest.json) — SHA-256, size, page count and metadata for every public PDF.
+- [document-register.csv](./document-register.csv) — controlled-document register for the current public library.
+- [legacy-filename-map.csv](./legacy-filename-map.csv) — migration map from retired product-document filenames to current canonical filenames.
 
 ## Publication boundary
 
