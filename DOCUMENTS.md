@@ -16,6 +16,18 @@ The official Alle's ClinX technical and operational library is maintained as a p
 
 The website remains the primary discovery and canonical product-context layer. GitHub provides the public technical mirror and version history.
 
+## Integrity verification
+
+Every public PDF is covered by the repository integrity system:
+
+- `checksums.sha256` publishes SHA-256 digests for authenticity checks.
+- `data/release-manifest.json` records file hashes, sizes, page counts and metadata.
+- `data/document-register.csv` provides the current controlled-document register.
+- `data/legacy-filename-map.csv` maps retired product-document filenames to their canonical replacements.
+- `docs/status.md` reports the latest automated QA result.
+
+The automated QA workflow verifies document counts, path/index consistency, PDF readability, product-document naming, A4 geometry for product documents and current product links.
+
 ## Official Alle's ClinX links
 
 - Website: https://allesclinx.com/
