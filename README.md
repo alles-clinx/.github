@@ -39,6 +39,7 @@ The repository automatically validates document counts, index coverage, canonica
 - [Metricon](https://allesclinx.com/metricon/) — chemistry, dilution, dosage, cost and supplier-decision calculators.
 - [Alle's ClinX Plus](https://allesclinx.com/plus/) — recurring institutional supply and facility planning.
 - [Supply Planner](https://allesclinx.com/plus/supply-planner/) · [Hygiene Passport](https://allesclinx.com/plus/hygiene-passport/) · [Facility Tools](https://allesclinx.com/plus/facility-tools/)
+- [Complete tools & systems index](./TOOLS.md) — public tools first, repository automation second.
 
 ## Public data and governance
 
