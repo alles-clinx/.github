@@ -1,0 +1,78 @@
+name: Document library QA
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tds/**'
+      - 'usage-guides/**'
+      - 'sops/**'
+      - 'sds/**'
+      - 'resources/**'
+      - 'data/products.json'
+      - 'data/products.csv'
+      - 'data/document-index.json'
+      - 'document-source/generated-manifest.csv'
+      - 'schema/**'
+      - 'scripts/validate_document_library.py'
+      - '.github/workflows/document-library-qa.yml'
+  pull_request:
+    paths:
+      - 'tds/**'
+      - 'usage-guides/**'
+      - 'sops/**'
+      - 'sds/**'
+      - 'resources/**'
+      - 'data/products.json'
+      - 'data/products.csv'
+      - 'data/document-index.json'
+      - 'document-source/generated-manifest.csv'
+      - 'schema/**'
+      - 'scripts/validate_document_library.py'
+      - '.github/workflows/document-library-qa.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install validation dependencies
+        run: python -m pip install --upgrade pypdf jsonschema
+
+      - name: Validate library and generate integrity metadata
+        run: python scripts/validate_document_library.py --write-generated
+
+      - name: Require generated metadata to be current in pull requests
+        if: github.event_name == 'pull_request'
+        run: |
+          git diff --exit-code --             checksums.sha256             data/release-manifest.json             data/document-register.csv             data/legacy-filename-map.csv             docs/status.md
+
+      - name: Publish refreshed integrity metadata on main
+        if: github.event_name != 'pull_request'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "Alle's ClinX Documentation Bot"
+          git config user.email "care@allesclinx.com"
+          git add             checksums.sha256             data/release-manifest.json             data/document-register.csv             data/legacy-filename-map.csv             docs/status.md
+
+          if git diff --cached --quiet; then
+            echo "Integrity metadata is already current."
+            exit 0
+          fi
+
+          git commit -m "Refresh document integrity metadata [skip ci]"
+          git push

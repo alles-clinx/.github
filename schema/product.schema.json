@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/alles-clinx/.github/blob/main/schema/product.schema.json",
+  "title": "Alle's ClinX public product dataset",
+  "type": "object",
+  "required": ["updated", "source", "products"],
+  "properties": {
+    "updated": { "type": "string", "minLength": 1 },
+    "source": { "type": "string", "minLength": 1 },
+    "products": {
+      "type": "array",
+      "minItems": 35,
+      "maxItems": 35,
+      "items": {
+        "type": "object",
+        "required": ["sku", "name", "documents"],
+        "properties": {
+          "sku": { "type": "string", "pattern": "^ACX-[A-Z0-9]+-VAR$" },
+          "name": { "type": "string", "minLength": 1 },
+          "ph": { "type": ["string", "null"] },
+          "shelf_life": { "type": ["string", "null"] },
+          "pack_size": { "type": ["string", "null"] },
+          "documents": {
+            "type": "object",
+            "required": ["sds", "tds", "sop", "usage_guide"],
+            "properties": {
+              "sds": { "type": ["string", "null"] },
+              "tds": { "type": "string", "pattern": "^https://github\\.com/alles-clinx/\\.github/blob/main/tds/.+\\.pdf$" },
+              "sop": { "type": "string", "pattern": "^https://github\\.com/alles-clinx/\\.github/blob/main/sops/.+\\.pdf$" },
+              "usage_guide": { "type": "string", "pattern": "^https://github\\.com/alles-clinx/\\.github/blob/main/usage-guides/.+\\.pdf$" }
+            },
+            "additionalProperties": true
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}

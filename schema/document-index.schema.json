@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/alles-clinx/.github/blob/main/schema/document-index.schema.json",
+  "title": "Alle's ClinX public document index",
+  "type": "object",
+  "required": ["updated", "total_documents", "documents"],
+  "properties": {
+    "updated": { "type": "string", "minLength": 1 },
+    "total_documents": { "type": "integer", "minimum": 1 },
+    "documents": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "path", "filename", "github_url", "raw_url"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["Facility Resource", "SDS/MSDS", "SOP", "TDS", "Usage Guide"]
+          },
+          "path": { "type": "string", "pattern": "\\.pdf$" },
+          "filename": { "type": "string", "pattern": "\\.pdf$" },
+          "github_url": { "type": "string", "pattern": "^https://github\\.com/alles-clinx/\\.github/blob/main/.+\\.pdf$" },
+          "raw_url": { "type": "string", "pattern": "^https://raw\\.githubusercontent\\.com/alles-clinx/\\.github/main/.+\\.pdf$" }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}

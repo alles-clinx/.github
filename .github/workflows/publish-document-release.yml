@@ -1,0 +1,60 @@
+name: Publish controlled document release
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: 'Unique release tag, for example documents-2026.09.21'
+        required: true
+        type: string
+      release_name:
+        description: 'Release title'
+        required: true
+        default: "Alle's ClinX Controlled Document Library"
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install validation dependencies
+        run: python -m pip install --upgrade pypdf jsonschema
+
+      - name: Validate exact release contents
+        run: python scripts/validate_document_library.py --write-generated
+
+      - name: Build release archives
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p release
+          tag="${{ inputs.release_tag }}"
+          zip -j "release/alles-clinx-tds-${tag}.zip" tds/*.pdf
+          zip -j "release/alles-clinx-usage-guides-${tag}.zip" usage-guides/*.pdf
+          zip -j "release/alles-clinx-sops-${tag}.zip" sops/*.pdf
+          zip -j "release/alles-clinx-sds-${tag}.zip" sds/*.pdf
+          zip -r "release/alles-clinx-facility-resources-${tag}.zip" resources -i '*.pdf'
+          cp checksums.sha256 release/
+          cp data/release-manifest.json release/
+          cp data/document-register.csv release/
+
+      - name: Create GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh release create "${{ inputs.release_tag }}"             release/*             --target "${GITHUB_SHA}"             --title "${{ inputs.release_name }} — ${{ inputs.release_tag }}"             --notes "Controlled public document-library release. Validate downloaded PDFs against checksums.sha256 and release-manifest.json."
