@@ -21,6 +21,17 @@ Alle's ClinX develops professional cleaning chemistry and connects it with techn
 
 Browse the [complete document index](./DOCUMENTS.md).
 
+## Integrity and controlled releases
+
+- [Current library status](./docs/status.md)
+- [SHA-256 checksums](./checksums.sha256)
+- [Release manifest](./data/release-manifest.json)
+- [Controlled document register](./data/document-register.csv)
+- [Legacy filename map](./data/legacy-filename-map.csv)
+- [Document use and authenticity](./DOCUMENT-USAGE.md)
+
+The repository automatically validates document counts, index coverage, canonical filenames, PDF readability, A4 geometry for product documents, and product-document links. Controlled GitHub Releases can be created through the release workflow.
+
 ## Digital systems
 
 - [ClinXAi](https://allesclinx.com/clinxai/) — digital tools for procurement, chemistry and institutional operations.
