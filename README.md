@@ -37,6 +37,7 @@ The repository automatically validates document counts, index coverage, canonica
 - [ClinXAi](https://allesclinx.com/clinxai/) — digital tools for procurement, chemistry and institutional operations.
 - [Nova](https://allesclinx.com/about-nova/) — Alle's ClinX's proprietary AI assistant for product and documentation questions.
 - [Metricon](https://allesclinx.com/metricon/) — chemistry, dilution, dosage, cost and supplier-decision calculators.
+- [CheckMate](https://allesclinx.com/checkmate/) — evidence verification for product identity, document consistency, procurement review and delivery matching.
 - [Alle's ClinX Plus](https://allesclinx.com/plus/) — recurring institutional supply and facility planning.
 - [Supply Planner](https://allesclinx.com/plus/supply-planner/) · [Hygiene Passport](https://allesclinx.com/plus/hygiene-passport/) · [Facility Tools](https://allesclinx.com/plus/facility-tools/)
 - [Complete tools & systems index](./TOOLS.md) — public tools first, repository automation second.
