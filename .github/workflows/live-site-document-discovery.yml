@@ -1,0 +1,65 @@
+name: Live site document discovery
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/discover_live_site_documents.py'
+      - '.github/workflows/live-site-document-discovery.yml'
+  schedule:
+    - cron: '23 3 * * 1'
+  workflow_dispatch:
+    inputs:
+      max_pages:
+        description: 'Maximum same-domain HTML pages to inspect'
+        required: false
+        default: '250'
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install discovery dependencies
+        run: python -m pip install --upgrade requests beautifulsoup4
+
+      - name: Fetch live site and discover documents
+        env:
+          MAX_PAGES: ${{ inputs.max_pages || '250' }}
+        run: python scripts/discover_live_site_documents.py --max-pages "$MAX_PAGES"
+
+      - name: Add audit to workflow summary
+        shell: bash
+        run: cat docs/live-site-audit.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publish changed discovery reports
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "Alle's ClinX Documentation Bot"
+          git config user.email "care@allesclinx.com"
+
+          git add \
+            data/live-site-inventory.json \
+            data/live-site-document-candidates.csv \
+            data/site-repository-drift.csv \
+            docs/live-site-audit.md
+
+          if git diff --cached --quiet; then
+            echo "No live-site discovery changes."
+            exit 0
+          fi
+
+          git commit -m "Refresh live-site document discovery [skip ci]"
+          git push
