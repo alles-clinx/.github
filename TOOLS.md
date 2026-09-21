@@ -34,14 +34,16 @@ Metricon currently exposes calculators across procurement, finance, application,
 
 Open the current directory at [Metricon](https://allesclinx.com/metricon/) or the [site map](https://allesclinx.com/sitemap/).
 
-### Alle's ClinX Plus
+### Alle's ClinX Plus tools
 
-| Tool / system | Purpose |
-| --- | --- |
-| [Alle's ClinX Plus](https://allesclinx.com/plus/) | Recurring institutional supply and facility planning |
-| [Supply Planner](https://allesclinx.com/plus/supply-planner/) | Supply-cycle planning |
-| [Hygiene Passport](https://allesclinx.com/plus/hygiene-passport/) | Connected supply and document record |
-| [Facility Tools](https://allesclinx.com/plus/facility-tools/) | Facility-oriented planning and operational resources |
+PLUS+ combines recurring institutional supply with practical planning and record tools around each supply cycle.
+
+| Tool / system | Status | Purpose |
+| --- | --- | --- |
+| [Alle's ClinX Plus](https://allesclinx.com/plus/) | Available | Recurring institutional hygiene supply built around approved baskets, planned allocation and scheduled delivery |
+| [Supply Planner](https://allesclinx.com/plus/supply-planner/) | Available | Plan recurring product requirements, allocations and supply-cycle needs |
+| [Hygiene Passport](https://allesclinx.com/plus/hygiene-passport/) | Available | Keep relevant product documents, delivery records, batch references and approved guidance connected to the applicable site and supply cycle |
+| [Facility Tools](https://allesclinx.com/plus/facility-tools/) | Available | Facility-oriented planning, operational and hygiene-management tools |
 
 ## Repository automation
 
