@@ -42,3 +42,8 @@ Discovery is intentionally read-only. It never auto-imports a PDF from the websi
 Workflow: `.github/workflows/publish-document-release.yml`
 
 A manually initiated release first validates the library and then packages TDS, Usage Guides, SOPs, SDS/MSDS and facility resources with the integrity manifest and checksums.
+
+
+## Visibility model
+
+Repository automation remains public for transparency, but raw crawler output is intentionally not promoted from the main README. The public-facing catalogue lives in `TOOLS.md`; detailed audit output stays under `docs/` and `data/` for maintainers and technical reviewers.
