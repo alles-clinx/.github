@@ -1,0 +1,193 @@
+type,path,filename,site_visibility
+Facility Resource,resources/00-alles-clinx-facility-hygiene-resource-library-index.pdf,00-alles-clinx-facility-hygiene-resource-library-index.pdf,not-observed-by-crawler
+Facility Resource,resources/01-core-cleaning-operations/01-alles-clinx-daily-cleaning-checklist.pdf,01-alles-clinx-daily-cleaning-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/01-core-cleaning-operations/02-alles-clinx-area-cleaning-schedule.pdf,02-alles-clinx-area-cleaning-schedule.pdf,not-observed-by-crawler
+Facility Resource,resources/01-core-cleaning-operations/03-alles-clinx-cleaning-frequency-matrix.pdf,03-alles-clinx-cleaning-frequency-matrix.pdf,not-observed-by-crawler
+Facility Resource,resources/01-core-cleaning-operations/04-alles-clinx-high-touch-surface-checklist.pdf,04-alles-clinx-high-touch-surface-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/01-core-cleaning-operations/05-alles-clinx-washroom-inspection-checklist.pdf,05-alles-clinx-washroom-inspection-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/01-core-cleaning-operations/06-alles-clinx-deep-cleaning-checklist.pdf,06-alles-clinx-deep-cleaning-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/01-core-cleaning-operations/07-alles-clinx-opening-hygiene-checklist.pdf,07-alles-clinx-opening-hygiene-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/01-core-cleaning-operations/08-alles-clinx-closing-hygiene-checklist.pdf,08-alles-clinx-closing-hygiene-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/01-core-cleaning-operations/09-alles-clinx-housekeeping-shift-handover-sheet.pdf,09-alles-clinx-housekeeping-shift-handover-sheet.pdf,not-observed-by-crawler
+Facility Resource,resources/01-core-cleaning-operations/10-alles-clinx-weekly-monthly-periodic-cleaning-log.pdf,10-alles-clinx-weekly-monthly-periodic-cleaning-log.pdf,not-observed-by-crawler
+Facility Resource,resources/02-chemical-management-safety/11-alles-clinx-chemical-dilution-log.pdf,11-alles-clinx-chemical-dilution-log.pdf,not-observed-by-crawler
+Facility Resource,resources/02-chemical-management-safety/12-alles-clinx-dilution-reference-chart.pdf,12-alles-clinx-dilution-reference-chart.pdf,not-observed-by-crawler
+Facility Resource,resources/02-chemical-management-safety/13-alles-clinx-chemical-storage-inspection-checklist.pdf,13-alles-clinx-chemical-storage-inspection-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/02-chemical-management-safety/14-alles-clinx-chemical-stock-register.pdf,14-alles-clinx-chemical-stock-register.pdf,not-observed-by-crawler
+Facility Resource,resources/02-chemical-management-safety/15-alles-clinx-sds-register-and-availability-checklist.pdf,15-alles-clinx-sds-register-and-availability-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/02-chemical-management-safety/16-alles-clinx-workplace-chemical-label-checklist.pdf,16-alles-clinx-workplace-chemical-label-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/02-chemical-management-safety/17-alles-clinx-ppe-selection-and-compliance-checklist.pdf,17-alles-clinx-ppe-selection-and-compliance-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/02-chemical-management-safety/18-alles-clinx-chemical-spill-response-checklist.pdf,18-alles-clinx-chemical-spill-response-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/02-chemical-management-safety/19-alles-clinx-chemical-exposure-incident-report.pdf,19-alles-clinx-chemical-exposure-incident-report.pdf,not-observed-by-crawler
+Facility Resource,resources/02-chemical-management-safety/20-alles-clinx-product-and-surface-compatibility-checklist.pdf,20-alles-clinx-product-and-surface-compatibility-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/03-equipment-housekeeping-control/21-alles-clinx-cleaning-equipment-inspection-checklist.pdf,21-alles-clinx-cleaning-equipment-inspection-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/03-equipment-housekeeping-control/22-alles-clinx-cleaning-equipment-maintenance-log.pdf,22-alles-clinx-cleaning-equipment-maintenance-log.pdf,not-observed-by-crawler
+Facility Resource,resources/03-equipment-housekeeping-control/23-alles-clinx-mop-and-cleaning-cloth-reprocessing-log.pdf,23-alles-clinx-mop-and-cleaning-cloth-reprocessing-log.pdf,not-observed-by-crawler
+Facility Resource,resources/03-equipment-housekeeping-control/24-alles-clinx-cleaning-cart-preparation-checklist.pdf,24-alles-clinx-cleaning-cart-preparation-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/03-equipment-housekeeping-control/25-alles-clinx-housekeeping-supply-closet-checklist.pdf,25-alles-clinx-housekeeping-supply-closet-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/04-training-competency/26-alles-clinx-new-housekeeping-staff-induction-checklist.pdf,26-alles-clinx-new-housekeeping-staff-induction-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/04-training-competency/27-alles-clinx-staff-training-attendance-record.pdf,27-alles-clinx-staff-training-attendance-record.pdf,not-observed-by-crawler
+Facility Resource,resources/04-training-competency/28-alles-clinx-cleaning-competency-assessment.pdf,28-alles-clinx-cleaning-competency-assessment.pdf,not-observed-by-crawler
+Facility Resource,resources/04-training-competency/29-alles-clinx-chemical-handling-competency-assessment.pdf,29-alles-clinx-chemical-handling-competency-assessment.pdf,not-observed-by-crawler
+Facility Resource,resources/04-training-competency/30-alles-clinx-supervisor-practical-observation-checklist.pdf,30-alles-clinx-supervisor-practical-observation-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/04-training-competency/31-alles-clinx-refresher-training-tracker.pdf,31-alles-clinx-refresher-training-tracker.pdf,not-observed-by-crawler
+Facility Resource,resources/05-audit-continuous-improvement/32-alles-clinx-supervisor-hygiene-inspection.pdf,32-alles-clinx-supervisor-hygiene-inspection.pdf,not-observed-by-crawler
+Facility Resource,resources/05-audit-continuous-improvement/33-alles-clinx-internal-facility-hygiene-audit.pdf,33-alles-clinx-internal-facility-hygiene-audit.pdf,not-observed-by-crawler
+Facility Resource,resources/05-audit-continuous-improvement/34-alles-clinx-pre-audit-hygiene-readiness-checklist.pdf,34-alles-clinx-pre-audit-hygiene-readiness-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/05-audit-continuous-improvement/35-alles-clinx-hygiene-non-conformance-report.pdf,35-alles-clinx-hygiene-non-conformance-report.pdf,not-observed-by-crawler
+Facility Resource,resources/05-audit-continuous-improvement/36-alles-clinx-corrective-and-preventive-action-capa.pdf,36-alles-clinx-corrective-and-preventive-action-capa.pdf,not-observed-by-crawler
+Facility Resource,resources/05-audit-continuous-improvement/37-alles-clinx-hygiene-improvement-action-plan.pdf,37-alles-clinx-hygiene-improvement-action-plan.pdf,not-observed-by-crawler
+Facility Resource,resources/05-audit-continuous-improvement/38-alles-clinx-monthly-hygiene-kpi-review.pdf,38-alles-clinx-monthly-hygiene-kpi-review.pdf,not-observed-by-crawler
+Facility Resource,resources/06-consumption-procurement/39-alles-clinx-chemical-reorder-planning-sheet.pdf,39-alles-clinx-chemical-reorder-planning-sheet.pdf,not-observed-by-crawler
+Facility Resource,resources/06-consumption-procurement/40-alles-clinx-monthly-chemical-consumption-tracker.pdf,40-alles-clinx-monthly-chemical-consumption-tracker.pdf,not-observed-by-crawler
+Facility Resource,resources/06-consumption-procurement/41-alles-clinx-chemical-cost-per-use-worksheet.pdf,41-alles-clinx-chemical-cost-per-use-worksheet.pdf,not-observed-by-crawler
+Facility Resource,resources/06-consumption-procurement/42-alles-clinx-cleaning-chemical-supplier-comparison-sheet.pdf,42-alles-clinx-cleaning-chemical-supplier-comparison-sheet.pdf,not-observed-by-crawler
+Facility Resource,resources/07-sector-specific-resources/43-alles-clinx-hospital-housekeeping-checklist.pdf,43-alles-clinx-hospital-housekeeping-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/07-sector-specific-resources/44-alles-clinx-hospital-terminal-cleaning-checklist.pdf,44-alles-clinx-hospital-terminal-cleaning-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/07-sector-specific-resources/45-alles-clinx-high-risk-isolation-area-cleaning-checklist.pdf,45-alles-clinx-high-risk-isolation-area-cleaning-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/07-sector-specific-resources/46-alles-clinx-laundry-hygiene-checklist.pdf,46-alles-clinx-laundry-hygiene-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/07-sector-specific-resources/47-alles-clinx-kitchen-and-dietary-services-sanitation-checklist.pdf,47-alles-clinx-kitchen-and-dietary-services-sanitation-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/07-sector-specific-resources/48-alles-clinx-hotel-guest-room-turnover-checklist.pdf,48-alles-clinx-hotel-guest-room-turnover-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/07-sector-specific-resources/49-alles-clinx-school-classroom-and-washroom-hygiene-checklist.pdf,49-alles-clinx-school-classroom-and-washroom-hygiene-checklist.pdf,not-observed-by-crawler
+Facility Resource,resources/07-sector-specific-resources/50-alles-clinx-office-and-common-area-hygiene-checklist.pdf,50-alles-clinx-office-and-common-area-hygiene-checklist.pdf,not-observed-by-crawler
+SDS/MSDS,sds/air-freshener-juliet-rose-msds-alles-clinx.pdf,air-freshener-juliet-rose-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/air-freshener-lemongrass-msds-alles-clinx.pdf,air-freshener-lemongrass-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/anionic-surfactant-concentrate-alkaline-msds-alles-clinx.pdf,anionic-surfactant-concentrate-alkaline-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/antiseptic-handwash-chg-clinical-msds-alles-clinx.pdf,antiseptic-handwash-chg-clinical-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/bathroom-tile-cleaner-lime-msds-alles-clinx.pdf,bathroom-tile-cleaner-lime-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/calcite-limescale-remover-acidic-msds-alles-clinx.pdf,calcite-limescale-remover-acidic-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/carbonised-grease-remover-caustic-gel-msds-alles-clinx.pdf,carbonised-grease-remover-caustic-gel-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/carpet-upholstery-shampoo-concentrate-low-foam-msds-alles-clinx.pdf,carpet-upholstery-shampoo-concentrate-low-foam-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/chimney-exhaust-degreaser-alkaline-msds-alles-clinx.pdf,chimney-exhaust-degreaser-alkaline-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/citric-bathroom-descaler-alkaline-msds-alles-clinx.pdf,citric-bathroom-descaler-alkaline-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/concrete-floor-degreaser-heavy-duty-alkaline-msds-alles-clinx.pdf,concrete-floor-degreaser-heavy-duty-alkaline-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/dish-concentrate-alkaline-msds-alles-clinx.pdf,dish-concentrate-alkaline-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/dishwash-concentrate-ph-neutral-msds-alles-clinx.pdf,dishwash-concentrate-ph-neutral-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/disinfectant-floor-cleaner-2-in-1-msds-alles-clinx.pdf,disinfectant-floor-cleaner-2-in-1-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/fabric-deodorizer-lavender-msds-alles-clinx.pdf,fabric-deodorizer-lavender-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/fabric-softener-concentrate-neutral-ph-msds-alles-clinx.pdf,fabric-softener-concentrate-neutral-ph-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/floor-cleaner-concentrate-citrus-msds-alles-clinx.pdf,floor-cleaner-concentrate-citrus-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/furniture-wood-polish-silicone-free-msds-alles-clinx.pdf,furniture-wood-polish-silicone-free-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/glass-cleaner-concentrate-streak-free-msds-alles-clinx.pdf,glass-cleaner-concentrate-streak-free-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/hand-sanitizer-gel-70-alcohol-msds-alles-clinx.pdf,hand-sanitizer-gel-70-alcohol-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/handwash-liquid-lavender-msds-alles-clinx.pdf,handwash-liquid-lavender-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/handwash-sandalwood-msds-alles-clinx.pdf,handwash-sandalwood-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/instrument-pre-soak-concentrate-multi-enzyme-msds-alles-clinx.pdf,instrument-pre-soak-concentrate-multi-enzyme-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/laundry-detergent-concentrate-enzyme-msds-alles-clinx.pdf,laundry-detergent-concentrate-enzyme-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/multisurface-cleaner-lime-msds-alles-clinx.pdf,multisurface-cleaner-lime-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/oxygen-bleach-concentrate-colour-safe-msds-alles-clinx.pdf,oxygen-bleach-concentrate-colour-safe-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/passivation-metal-descaler-mild-acid-msds-alles-clinx.pdf,passivation-metal-descaler-mild-acid-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/phenolic-disinfectant-concentrate-pine-msds-alles-clinx.pdf,phenolic-disinfectant-concentrate-pine-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/phenolic-floor-disinfectant-classic-msds-alles-clinx.pdf,phenolic-floor-disinfectant-classic-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/quaternary-disinfectant-concentrate-bkc-msds-alles-clinx.pdf,quaternary-disinfectant-concentrate-bkc-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/sodium-hypochlorite-10-bleach-concentrate-msds-alles-clinx.pdf,sodium-hypochlorite-10-bleach-concentrate-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/stainless-steel-chrome-polish-streak-free-msds-alles-clinx.pdf,stainless-steel-chrome-polish-streak-free-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/stainless-steel-heavy-duty-cleaner-degreaser-msds-alles-clinx.pdf,stainless-steel-heavy-duty-cleaner-degreaser-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/surface-disinfectant-refill-lime-msds-alles-clinx.pdf,surface-disinfectant-refill-lime-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/toilet-bowl-cleaner-acid-gel-msds-alles-clinx.pdf,toilet-bowl-cleaner-acid-gel-msds-alles-clinx.pdf,not-observed-by-crawler
+SDS/MSDS,sds/wool-delicate-fabric-wash-neutral-ph-msds-alles-clinx.pdf,wool-delicate-fabric-wash-neutral-ph-msds-alles-clinx.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-air-freshener-standard-operating-procedure-acx-1226-var.pdf,alles-clinx-air-freshener-standard-operating-procedure-acx-1226-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-anionic-surfactant-concentrate-alkaline-standard-operating-procedure-acx-2539-var.pdf,alles-clinx-anionic-surfactant-concentrate-alkaline-standard-operating-procedure-acx-2539-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-antiseptic-handwash-chg-clinical-standard-operating-procedure-acx-2221-var.pdf,alles-clinx-antiseptic-handwash-chg-clinical-standard-operating-procedure-acx-2221-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-bathroom-and-tile-cleaner-lime-standard-operating-procedure-acx-1243-var.pdf,alles-clinx-bathroom-and-tile-cleaner-lime-standard-operating-procedure-acx-1243-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-calcite-and-limescale-remover-acidic-standard-operating-procedure-acx-1221-var.pdf,alles-clinx-calcite-and-limescale-remover-acidic-standard-operating-procedure-acx-1221-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-carbonised-grease-remover-caustic-gel-standard-operating-procedure-acx-2538-var.pdf,alles-clinx-carbonised-grease-remover-caustic-gel-standard-operating-procedure-acx-2538-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-carpet-and-upholstery-shampoo-concentrate-low-foam-standard-operating-procedure-acx-carpetsh-var.pdf,alles-clinx-carpet-and-upholstery-shampoo-concentrate-low-foam-standard-operating-procedure-acx-carpetsh-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-chimney-and-exhaust-degreaser-alkaline-standard-operating-procedure-acx-1234-var.pdf,alles-clinx-chimney-and-exhaust-degreaser-alkaline-standard-operating-procedure-acx-1234-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-citric-bathroom-descaler-alkaline-standard-operating-procedure-acx-1235-var.pdf,alles-clinx-citric-bathroom-descaler-alkaline-standard-operating-procedure-acx-1235-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-concrete-floor-degreaser-heavy-duty-alkaline-standard-operating-procedure-acx-concdeg-var.pdf,alles-clinx-concrete-floor-degreaser-heavy-duty-alkaline-standard-operating-procedure-acx-concdeg-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-dish-concentrate-alkaline-standard-operating-procedure-acx-1222-var.pdf,alles-clinx-dish-concentrate-alkaline-standard-operating-procedure-acx-1222-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-dishwash-concentrate-ph-neutral-standard-operating-procedure-acx-phdish-var.pdf,alles-clinx-dishwash-concentrate-ph-neutral-standard-operating-procedure-acx-phdish-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-disinfectant-floor-cleaner-2-in-1-standard-operating-procedure-acx-dfc2in1-var.pdf,alles-clinx-disinfectant-floor-cleaner-2-in-1-standard-operating-procedure-acx-dfc2in1-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-fabric-deodorizer-lavender-standard-operating-procedure-acx-1231-var.pdf,alles-clinx-fabric-deodorizer-lavender-standard-operating-procedure-acx-1231-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-fabric-softener-concentrate-neutral-ph-standard-operating-procedure-acx-1228-var.pdf,alles-clinx-fabric-softener-concentrate-neutral-ph-standard-operating-procedure-acx-1228-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-floor-cleaner-concentrate-citrus-standard-operating-procedure-acx-1238-var.pdf,alles-clinx-floor-cleaner-concentrate-citrus-standard-operating-procedure-acx-1238-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-furniture-and-wood-polish-silicone-free-standard-operating-procedure-acx-woodpol-var.pdf,alles-clinx-furniture-and-wood-polish-silicone-free-standard-operating-procedure-acx-woodpol-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-glass-cleaner-concentrate-streak-free-standard-operating-procedure-acx-1225-var.pdf,alles-clinx-glass-cleaner-concentrate-streak-free-standard-operating-procedure-acx-1225-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-hand-sanitizer-gel-70-percent-alcohol-standard-operating-procedure-acx-sangel70-var.pdf,alles-clinx-hand-sanitizer-gel-70-percent-alcohol-standard-operating-procedure-acx-sangel70-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-handwash-liquid-lavender-standard-operating-procedure-acx-1223-var.pdf,alles-clinx-handwash-liquid-lavender-standard-operating-procedure-acx-1223-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-handwash-sandalwood-standard-operating-procedure-acx-1242-var.pdf,alles-clinx-handwash-sandalwood-standard-operating-procedure-acx-1242-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-instrument-pre-soak-concentrate-multi-enzyme-standard-operating-procedure-acx-enzpresoak-var.pdf,alles-clinx-instrument-pre-soak-concentrate-multi-enzyme-standard-operating-procedure-acx-enzpresoak-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-laundry-detergent-concentrate-enzyme-standard-operating-procedure-acx-1227-var.pdf,alles-clinx-laundry-detergent-concentrate-enzyme-standard-operating-procedure-acx-1227-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-multisurface-cleaner-lime-standard-operating-procedure-acx-1224-var.pdf,alles-clinx-multisurface-cleaner-lime-standard-operating-procedure-acx-1224-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-oxygen-bleach-concentrate-colour-safe-standard-operating-procedure-acx-1229-var.pdf,alles-clinx-oxygen-bleach-concentrate-colour-safe-standard-operating-procedure-acx-1229-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-passivation-metal-descaler-mild-acid-standard-operating-procedure-acx-1232-var.pdf,alles-clinx-passivation-metal-descaler-mild-acid-standard-operating-procedure-acx-1232-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-phenolic-disinfectant-concentrate-pine-standard-operating-procedure-acx-1219-var.pdf,alles-clinx-phenolic-disinfectant-concentrate-pine-standard-operating-procedure-acx-1219-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-phenolic-floor-disinfectant-classic-standard-operating-procedure-acx-1236-var.pdf,alles-clinx-phenolic-floor-disinfectant-classic-standard-operating-procedure-acx-1236-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-quaternary-disinfectant-concentrate-bkc-standard-operating-procedure-acx-1220-var.pdf,alles-clinx-quaternary-disinfectant-concentrate-bkc-standard-operating-procedure-acx-1220-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-sodium-hypochlorite-10-percent-bleach-concentrate-standard-operating-procedure-acx-naocl10-var.pdf,alles-clinx-sodium-hypochlorite-10-percent-bleach-concentrate-standard-operating-procedure-acx-naocl10-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-stainless-steel-and-chrome-polish-streak-free-standard-operating-procedure-acx-sspolish-var.pdf,alles-clinx-stainless-steel-and-chrome-polish-streak-free-standard-operating-procedure-acx-sspolish-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-stainless-steel-heavy-duty-cleaner-and-degreaser-standard-operating-procedure-acx-sshdclean-var.pdf,alles-clinx-stainless-steel-heavy-duty-cleaner-and-degreaser-standard-operating-procedure-acx-sshdclean-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-surface-disinfectant-refill-lime-standard-operating-procedure-acx-1252-var.pdf,alles-clinx-surface-disinfectant-refill-lime-standard-operating-procedure-acx-1252-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-toilet-bowl-cleaner-acid-gel-standard-operating-procedure-acx-1239-var.pdf,alles-clinx-toilet-bowl-cleaner-acid-gel-standard-operating-procedure-acx-1239-var.pdf,not-observed-by-crawler
+SOP,sops/alles-clinx-wool-and-delicate-fabric-wash-neutral-ph-standard-operating-procedure-acx-1230-var.pdf,alles-clinx-wool-and-delicate-fabric-wash-neutral-ph-standard-operating-procedure-acx-1230-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-air-freshener-technical-data-sheet-acx-1226-var.pdf,alles-clinx-air-freshener-technical-data-sheet-acx-1226-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-anionic-surfactant-concentrate-alkaline-technical-data-sheet-acx-2539-var.pdf,alles-clinx-anionic-surfactant-concentrate-alkaline-technical-data-sheet-acx-2539-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-antiseptic-handwash-chg-clinical-technical-data-sheet-acx-2221-var.pdf,alles-clinx-antiseptic-handwash-chg-clinical-technical-data-sheet-acx-2221-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-bathroom-and-tile-cleaner-lime-technical-data-sheet-acx-1243-var.pdf,alles-clinx-bathroom-and-tile-cleaner-lime-technical-data-sheet-acx-1243-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-calcite-and-limescale-remover-acidic-technical-data-sheet-acx-1221-var.pdf,alles-clinx-calcite-and-limescale-remover-acidic-technical-data-sheet-acx-1221-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-carbonised-grease-remover-caustic-gel-technical-data-sheet-acx-2538-var.pdf,alles-clinx-carbonised-grease-remover-caustic-gel-technical-data-sheet-acx-2538-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-carpet-and-upholstery-shampoo-concentrate-low-foam-technical-data-sheet-acx-carpetsh-var.pdf,alles-clinx-carpet-and-upholstery-shampoo-concentrate-low-foam-technical-data-sheet-acx-carpetsh-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-chimney-and-exhaust-degreaser-alkaline-technical-data-sheet-acx-1234-var.pdf,alles-clinx-chimney-and-exhaust-degreaser-alkaline-technical-data-sheet-acx-1234-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-citric-bathroom-descaler-alkaline-technical-data-sheet-acx-1235-var.pdf,alles-clinx-citric-bathroom-descaler-alkaline-technical-data-sheet-acx-1235-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-concrete-floor-degreaser-heavy-duty-alkaline-technical-data-sheet-acx-concdeg-var.pdf,alles-clinx-concrete-floor-degreaser-heavy-duty-alkaline-technical-data-sheet-acx-concdeg-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-dish-concentrate-alkaline-technical-data-sheet-acx-1222-var.pdf,alles-clinx-dish-concentrate-alkaline-technical-data-sheet-acx-1222-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-dishwash-concentrate-ph-neutral-technical-data-sheet-acx-phdish-var.pdf,alles-clinx-dishwash-concentrate-ph-neutral-technical-data-sheet-acx-phdish-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-disinfectant-floor-cleaner-2-in-1-technical-data-sheet-acx-dfc2in1-var.pdf,alles-clinx-disinfectant-floor-cleaner-2-in-1-technical-data-sheet-acx-dfc2in1-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-fabric-deodorizer-lavender-technical-data-sheet-acx-1231-var.pdf,alles-clinx-fabric-deodorizer-lavender-technical-data-sheet-acx-1231-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-fabric-softener-concentrate-neutral-ph-technical-data-sheet-acx-1228-var.pdf,alles-clinx-fabric-softener-concentrate-neutral-ph-technical-data-sheet-acx-1228-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-floor-cleaner-concentrate-citrus-technical-data-sheet-acx-1238-var.pdf,alles-clinx-floor-cleaner-concentrate-citrus-technical-data-sheet-acx-1238-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-furniture-and-wood-polish-silicone-free-technical-data-sheet-acx-woodpol-var.pdf,alles-clinx-furniture-and-wood-polish-silicone-free-technical-data-sheet-acx-woodpol-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-glass-cleaner-concentrate-streak-free-technical-data-sheet-acx-1225-var.pdf,alles-clinx-glass-cleaner-concentrate-streak-free-technical-data-sheet-acx-1225-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-hand-sanitizer-gel-70-percent-alcohol-technical-data-sheet-acx-sangel70-var.pdf,alles-clinx-hand-sanitizer-gel-70-percent-alcohol-technical-data-sheet-acx-sangel70-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-handwash-liquid-lavender-technical-data-sheet-acx-1223-var.pdf,alles-clinx-handwash-liquid-lavender-technical-data-sheet-acx-1223-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-handwash-sandalwood-technical-data-sheet-acx-1242-var.pdf,alles-clinx-handwash-sandalwood-technical-data-sheet-acx-1242-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-instrument-pre-soak-concentrate-multi-enzyme-technical-data-sheet-acx-enzpresoak-var.pdf,alles-clinx-instrument-pre-soak-concentrate-multi-enzyme-technical-data-sheet-acx-enzpresoak-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-laundry-detergent-concentrate-enzyme-technical-data-sheet-acx-1227-var.pdf,alles-clinx-laundry-detergent-concentrate-enzyme-technical-data-sheet-acx-1227-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-multisurface-cleaner-lime-technical-data-sheet-acx-1224-var.pdf,alles-clinx-multisurface-cleaner-lime-technical-data-sheet-acx-1224-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-oxygen-bleach-concentrate-colour-safe-technical-data-sheet-acx-1229-var.pdf,alles-clinx-oxygen-bleach-concentrate-colour-safe-technical-data-sheet-acx-1229-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-passivation-metal-descaler-mild-acid-technical-data-sheet-acx-1232-var.pdf,alles-clinx-passivation-metal-descaler-mild-acid-technical-data-sheet-acx-1232-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-phenolic-disinfectant-concentrate-pine-technical-data-sheet-acx-1219-var.pdf,alles-clinx-phenolic-disinfectant-concentrate-pine-technical-data-sheet-acx-1219-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-phenolic-floor-disinfectant-classic-technical-data-sheet-acx-1236-var.pdf,alles-clinx-phenolic-floor-disinfectant-classic-technical-data-sheet-acx-1236-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-quaternary-disinfectant-concentrate-bkc-technical-data-sheet-acx-1220-var.pdf,alles-clinx-quaternary-disinfectant-concentrate-bkc-technical-data-sheet-acx-1220-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-sodium-hypochlorite-10-percent-bleach-concentrate-technical-data-sheet-acx-naocl10-var.pdf,alles-clinx-sodium-hypochlorite-10-percent-bleach-concentrate-technical-data-sheet-acx-naocl10-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-stainless-steel-and-chrome-polish-streak-free-technical-data-sheet-acx-sspolish-var.pdf,alles-clinx-stainless-steel-and-chrome-polish-streak-free-technical-data-sheet-acx-sspolish-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-stainless-steel-heavy-duty-cleaner-and-degreaser-technical-data-sheet-acx-sshdclean-var.pdf,alles-clinx-stainless-steel-heavy-duty-cleaner-and-degreaser-technical-data-sheet-acx-sshdclean-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-surface-disinfectant-refill-lime-technical-data-sheet-acx-1252-var.pdf,alles-clinx-surface-disinfectant-refill-lime-technical-data-sheet-acx-1252-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-toilet-bowl-cleaner-acid-gel-technical-data-sheet-acx-1239-var.pdf,alles-clinx-toilet-bowl-cleaner-acid-gel-technical-data-sheet-acx-1239-var.pdf,not-observed-by-crawler
+TDS,tds/alles-clinx-wool-and-delicate-fabric-wash-neutral-ph-technical-data-sheet-acx-1230-var.pdf,alles-clinx-wool-and-delicate-fabric-wash-neutral-ph-technical-data-sheet-acx-1230-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-air-freshener-usage-guide-acx-1226-var.pdf,alles-clinx-air-freshener-usage-guide-acx-1226-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-anionic-surfactant-concentrate-alkaline-usage-guide-acx-2539-var.pdf,alles-clinx-anionic-surfactant-concentrate-alkaline-usage-guide-acx-2539-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-antiseptic-handwash-chg-clinical-usage-guide-acx-2221-var.pdf,alles-clinx-antiseptic-handwash-chg-clinical-usage-guide-acx-2221-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-bathroom-and-tile-cleaner-lime-usage-guide-acx-1243-var.pdf,alles-clinx-bathroom-and-tile-cleaner-lime-usage-guide-acx-1243-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-calcite-and-limescale-remover-acidic-usage-guide-acx-1221-var.pdf,alles-clinx-calcite-and-limescale-remover-acidic-usage-guide-acx-1221-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-carbonised-grease-remover-caustic-gel-usage-guide-acx-2538-var.pdf,alles-clinx-carbonised-grease-remover-caustic-gel-usage-guide-acx-2538-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-carpet-and-upholstery-shampoo-concentrate-low-foam-usage-guide-acx-carpetsh-var.pdf,alles-clinx-carpet-and-upholstery-shampoo-concentrate-low-foam-usage-guide-acx-carpetsh-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-chimney-and-exhaust-degreaser-alkaline-usage-guide-acx-1234-var.pdf,alles-clinx-chimney-and-exhaust-degreaser-alkaline-usage-guide-acx-1234-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-citric-bathroom-descaler-alkaline-usage-guide-acx-1235-var.pdf,alles-clinx-citric-bathroom-descaler-alkaline-usage-guide-acx-1235-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-concrete-floor-degreaser-heavy-duty-alkaline-usage-guide-acx-concdeg-var.pdf,alles-clinx-concrete-floor-degreaser-heavy-duty-alkaline-usage-guide-acx-concdeg-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-dish-concentrate-alkaline-usage-guide-acx-1222-var.pdf,alles-clinx-dish-concentrate-alkaline-usage-guide-acx-1222-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-dishwash-concentrate-ph-neutral-usage-guide-acx-phdish-var.pdf,alles-clinx-dishwash-concentrate-ph-neutral-usage-guide-acx-phdish-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-disinfectant-floor-cleaner-2-in-1-usage-guide-acx-dfc2in1-var.pdf,alles-clinx-disinfectant-floor-cleaner-2-in-1-usage-guide-acx-dfc2in1-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-fabric-deodorizer-lavender-usage-guide-acx-1231-var.pdf,alles-clinx-fabric-deodorizer-lavender-usage-guide-acx-1231-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-fabric-softener-concentrate-neutral-ph-usage-guide-acx-1228-var.pdf,alles-clinx-fabric-softener-concentrate-neutral-ph-usage-guide-acx-1228-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-floor-cleaner-concentrate-citrus-usage-guide-acx-1238-var.pdf,alles-clinx-floor-cleaner-concentrate-citrus-usage-guide-acx-1238-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-furniture-and-wood-polish-silicone-free-usage-guide-acx-woodpol-var.pdf,alles-clinx-furniture-and-wood-polish-silicone-free-usage-guide-acx-woodpol-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-glass-cleaner-concentrate-streak-free-usage-guide-acx-1225-var.pdf,alles-clinx-glass-cleaner-concentrate-streak-free-usage-guide-acx-1225-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-hand-sanitizer-gel-70-percent-alcohol-usage-guide-acx-sangel70-var.pdf,alles-clinx-hand-sanitizer-gel-70-percent-alcohol-usage-guide-acx-sangel70-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-handwash-liquid-lavender-usage-guide-acx-1223-var.pdf,alles-clinx-handwash-liquid-lavender-usage-guide-acx-1223-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-handwash-sandalwood-usage-guide-acx-1242-var.pdf,alles-clinx-handwash-sandalwood-usage-guide-acx-1242-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-instrument-pre-soak-concentrate-multi-enzyme-usage-guide-acx-enzpresoak-var.pdf,alles-clinx-instrument-pre-soak-concentrate-multi-enzyme-usage-guide-acx-enzpresoak-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-laundry-detergent-concentrate-enzyme-usage-guide-acx-1227-var.pdf,alles-clinx-laundry-detergent-concentrate-enzyme-usage-guide-acx-1227-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-multisurface-cleaner-lime-usage-guide-acx-1224-var.pdf,alles-clinx-multisurface-cleaner-lime-usage-guide-acx-1224-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-oxygen-bleach-concentrate-colour-safe-usage-guide-acx-1229-var.pdf,alles-clinx-oxygen-bleach-concentrate-colour-safe-usage-guide-acx-1229-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-passivation-metal-descaler-mild-acid-usage-guide-acx-1232-var.pdf,alles-clinx-passivation-metal-descaler-mild-acid-usage-guide-acx-1232-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-phenolic-disinfectant-concentrate-pine-usage-guide-acx-1219-var.pdf,alles-clinx-phenolic-disinfectant-concentrate-pine-usage-guide-acx-1219-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-phenolic-floor-disinfectant-classic-usage-guide-acx-1236-var.pdf,alles-clinx-phenolic-floor-disinfectant-classic-usage-guide-acx-1236-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-quaternary-disinfectant-concentrate-bkc-usage-guide-acx-1220-var.pdf,alles-clinx-quaternary-disinfectant-concentrate-bkc-usage-guide-acx-1220-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-sodium-hypochlorite-10-percent-bleach-concentrate-usage-guide-acx-naocl10-var.pdf,alles-clinx-sodium-hypochlorite-10-percent-bleach-concentrate-usage-guide-acx-naocl10-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-stainless-steel-and-chrome-polish-streak-free-usage-guide-acx-sspolish-var.pdf,alles-clinx-stainless-steel-and-chrome-polish-streak-free-usage-guide-acx-sspolish-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-stainless-steel-heavy-duty-cleaner-and-degreaser-usage-guide-acx-sshdclean-var.pdf,alles-clinx-stainless-steel-heavy-duty-cleaner-and-degreaser-usage-guide-acx-sshdclean-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-surface-disinfectant-refill-lime-usage-guide-acx-1252-var.pdf,alles-clinx-surface-disinfectant-refill-lime-usage-guide-acx-1252-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-toilet-bowl-cleaner-acid-gel-usage-guide-acx-1239-var.pdf,alles-clinx-toilet-bowl-cleaner-acid-gel-usage-guide-acx-1239-var.pdf,not-observed-by-crawler
+Usage Guide,usage-guides/alles-clinx-wool-and-delicate-fabric-wash-neutral-ph-usage-guide-acx-1230-var.pdf,alles-clinx-wool-and-delicate-fabric-wash-neutral-ph-usage-guide-acx-1230-var.pdf,not-observed-by-crawler
