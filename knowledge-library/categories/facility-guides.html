@@ -1,0 +1,345 @@
+<!--
+Alle's ClinX Knowledge — WordPress-ready category page
+Canonical route: /library/facility-guides/
+Paste this entire block into a WordPress Custom HTML block.
+-->
+
+<style>
+#acx-category {
+  --bg:#fff;
+  --ink:#0b0b0b;
+  --text:#303030;
+  --muted:#707070;
+  --line:#e4e4e0;
+  --soft:#fafafa;
+  --radius:8px;
+  --max:1160px;
+
+  width:100%;
+  background:#fff;
+  color:var(--ink);
+  font-family:Inter,"Helvetica Neue",Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+
+#acx-category *,
+#acx-category *::before,
+#acx-category *::after { box-sizing:border-box; }
+
+#acx-category a { color:inherit; text-decoration:none; }
+
+#acx-category .wrap {
+  width:min(var(--max),calc(100% - 64px));
+  margin:0 auto;
+  padding:42px 0 96px;
+}
+
+#acx-category .crumbs {
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:8px;
+  margin-bottom:54px;
+  color:var(--muted);
+  font-size:12px;
+}
+
+#acx-category .crumbs a:hover { color:#111; }
+#acx-category .sep { color:#aaa; }
+
+#acx-category .hero { max-width:920px; }
+
+#acx-category h1 {
+  margin:0;
+  font-size:clamp(56px,7vw,92px);
+  line-height:.95;
+  letter-spacing:-.06em;
+  font-weight:500;
+}
+
+#acx-category .intro {
+  margin:26px 0 0;
+  max-width:780px;
+  color:var(--text);
+  font-size:19px;
+  line-height:1.55;
+}
+
+#acx-category .search {
+  position:relative;
+  margin-top:42px;
+  max-width:780px;
+}
+
+#acx-category .search input {
+  width:100%;
+  height:56px;
+  margin:0;
+  padding:0 72px 0 17px;
+  border:1px solid #cececa;
+  border-radius:8px;
+  outline:none;
+  background:#fff;
+  color:var(--ink);
+  font:inherit;
+  font-size:15px;
+  appearance:none;
+  transition:border-color .16s ease, box-shadow .16s ease;
+}
+
+#acx-category .search input:hover { border-color:#aaa; }
+#acx-category .search input:focus {
+  border-color:#787873;
+  box-shadow:0 0 0 3px rgba(0,0,0,.045);
+}
+
+#acx-category .command {
+  position:absolute;
+  right:12px;
+  top:50%;
+  transform:translateY(-50%);
+  min-width:42px;
+  height:28px;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  border:1px solid #d8d8d4;
+  border-radius:6px;
+  background:#fff;
+  color:#71716d;
+  font-size:11px;
+  line-height:1;
+  pointer-events:none;
+}
+
+#acx-category .empty {
+  display:none;
+  margin-top:18px;
+  color:var(--muted);
+  font-size:13px;
+}
+
+#acx-category .topics { margin-top:76px; }
+
+#acx-category .topic {
+  min-height:104px;
+  display:grid;
+  grid-template-columns:52px minmax(0,1fr);
+  gap:22px;
+  align-items:center;
+  padding:16px 12px 16px 0;
+  border-top:1px solid var(--line);
+  background:#fff;
+  transition:background-color .14s ease;
+}
+
+#acx-category .topic:last-child { border-bottom:1px solid var(--line); }
+
+#acx-category .num {
+  color:#777;
+  font-size:10px;
+  letter-spacing:.08em;
+}
+
+#acx-category .topic-title {
+  display:block;
+  font-size:25px;
+  line-height:1.1;
+  letter-spacing:-.035em;
+  font-weight:500;
+}
+
+#acx-category .topic-copy {
+  display:block;
+  margin-top:7px;
+  max-width:760px;
+  color:var(--muted);
+  font-size:12px;
+  line-height:1.5;
+}
+
+@media (hover:hover) {
+  #acx-category .topic:hover { background:var(--soft); }
+  #acx-category .topic:hover .num { color:#333; }
+}
+
+#acx-category .topic:focus-visible {
+  outline:1px solid #8e8e89;
+  outline-offset:3px;
+  border-radius:8px;
+}
+
+@media(max-width:780px) {
+  #acx-category .wrap {
+    width:min(100% - 34px,var(--max));
+    padding-top:30px;
+  }
+  #acx-category .crumbs { margin-bottom:40px; }
+  #acx-category h1 { font-size:56px; }
+  #acx-category .intro { font-size:17px; }
+  #acx-category .topics { margin-top:58px; }
+  #acx-category .topic {
+    grid-template-columns:36px minmax(0,1fr);
+    gap:14px;
+    min-height:90px;
+  }
+  #acx-category .topic-title { font-size:22px; }
+}
+
+@media(max-width:520px) {
+  #acx-category .wrap { width:min(100% - 28px,var(--max)); }
+  #acx-category h1 { font-size:44px; }
+  #acx-category .topic-copy { display:none; }
+}
+
+@media(prefers-reduced-motion:reduce) {
+  #acx-category *,
+  #acx-category *::before,
+  #acx-category *::after { transition:none !important; }
+}
+</style>
+
+
+<section id="acx-category" aria-labelledby="acx-category-heading">
+  <div class="wrap">
+
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/library/">Knowledge</a>
+      <span class="sep">›</span>
+      <span>Facility &amp; Sector Guides</span>
+    </nav>
+
+    <header class="hero">
+      <h1 id="acx-category-heading">Facility &amp; Sector Guides</h1>
+      <p class="intro">Operational hygiene guidance organized around healthcare, hospitality, education, industry and other facility types.</p>
+
+      <div class="search">
+        <label for="search-facility-guides" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;">
+          Search Facility &amp; Sector Guides
+        </label>
+        <input
+          id="search-facility-guides"
+          class="search-input"
+          type="search"
+          placeholder="Search topics"
+          autocomplete="off"
+          spellcheck="false"
+        >
+        <span class="command" aria-hidden="true">⌘K</span>
+      </div>
+
+      <div class="empty" role="status" aria-live="polite">No matching topic.</div>
+    </header>
+
+    <nav class="topics" aria-label="Facility &amp; Sector Guides topics">
+      
+      <a class="topic" href="/library/facility-guides/healthcare/" data-search="healthcare facilities healthcare hygiene-system guidance for hospitals, clinics and healthcare facilities.">
+        <span class="num">01</span>
+        <span>
+          <span class="topic-title">Healthcare Facilities</span>
+          <span class="topic-copy">Hygiene-system guidance for hospitals, clinics and healthcare facilities.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/facility-guides/hospitality/" data-search="hotels &amp; hospitality hospitality cleaning and hygiene guidance for hotels and hospitality environments.">
+        <span class="num">02</span>
+        <span>
+          <span class="topic-title">Hotels &amp; Hospitality</span>
+          <span class="topic-copy">Cleaning and hygiene guidance for hotels and hospitality environments.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/facility-guides/education/" data-search="schools &amp; education education cleaning and hygiene guidance for schools, colleges and campuses.">
+        <span class="num">03</span>
+        <span>
+          <span class="topic-title">Schools &amp; Education</span>
+          <span class="topic-copy">Cleaning and hygiene guidance for schools, colleges and campuses.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/facility-guides/industrial/" data-search="industrial facilities industrial cleaning and hygiene guidance for industrial facilities.">
+        <span class="num">04</span>
+        <span>
+          <span class="topic-title">Industrial Facilities</span>
+          <span class="topic-copy">Cleaning and hygiene guidance for industrial facilities.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/facility-guides/offices-commercial-buildings/" data-search="offices &amp; commercial buildings offices-commercial-buildings cleaning and hygiene guidance for offices and commercial buildings.">
+        <span class="num">05</span>
+        <span>
+          <span class="topic-title">Offices &amp; Commercial Buildings</span>
+          <span class="topic-copy">Cleaning and hygiene guidance for offices and commercial buildings.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/facility-guides/food-service/" data-search="food-service facilities food-service facility-level hygiene guidance for food-service operations.">
+        <span class="num">06</span>
+        <span>
+          <span class="topic-title">Food-Service Facilities</span>
+          <span class="topic-copy">Facility-level hygiene guidance for food-service operations.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/facility-guides/retail/" data-search="retail facilities retail cleaning and hygiene guidance for retail environments.">
+        <span class="num">07</span>
+        <span>
+          <span class="topic-title">Retail Facilities</span>
+          <span class="topic-copy">Cleaning and hygiene guidance for retail environments.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/facility-guides/long-term-care/" data-search="long-term care facilities long-term-care hygiene-system guidance for long-term-care environments.">
+        <span class="num">08</span>
+        <span>
+          <span class="topic-title">Long-Term Care Facilities</span>
+          <span class="topic-copy">Hygiene-system guidance for long-term-care environments.</span>
+        </span>
+      </a>
+    </nav>
+
+  </div>
+</section>
+
+
+<script>
+(function(){
+  const root = document.getElementById('acx-category');
+  if(!root) return;
+
+  const input = root.querySelector('.search-input');
+  const rows = Array.from(root.querySelectorAll('.topic'));
+  const empty = root.querySelector('.empty');
+
+  function filterRows(){
+    const query = input.value.toLowerCase().trim();
+    const terms = query ? query.split(/\s+/).filter(Boolean) : [];
+    let visible = 0;
+
+    rows.forEach(function(row){
+      const hay = ((row.dataset.search || '') + ' ' + row.textContent).toLowerCase();
+      const match = !terms.length || terms.every(function(term){ return hay.includes(term); });
+      row.style.display = match ? 'grid' : 'none';
+      if(match) visible++;
+    });
+
+    empty.style.display = visible ? 'none' : 'block';
+  }
+
+  input.addEventListener('input', filterRows);
+
+  document.addEventListener('keydown', function(event){
+    const active = document.activeElement;
+    const typing = active && (
+      active.tagName === 'INPUT' ||
+      active.tagName === 'TEXTAREA' ||
+      active.isContentEditable
+    );
+
+    if((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k'){
+      event.preventDefault();
+      input.focus();
+      input.select();
+    }
+
+    if(event.key === 'Escape' && active === input){
+      input.value = '';
+      filterRows();
+      input.blur();
+    }
+  });
+})();
+</script>
