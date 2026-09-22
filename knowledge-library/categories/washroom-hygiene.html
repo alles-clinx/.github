@@ -1,0 +1,338 @@
+<!--
+Alle's ClinX Knowledge — WordPress-ready category page
+Canonical route: /library/washroom-hygiene/
+Paste this entire block into a WordPress Custom HTML block.
+-->
+
+<style>
+#acx-category {
+  --bg:#fff;
+  --ink:#0b0b0b;
+  --text:#303030;
+  --muted:#707070;
+  --line:#e4e4e0;
+  --soft:#fafafa;
+  --radius:8px;
+  --max:1160px;
+
+  width:100%;
+  background:#fff;
+  color:var(--ink);
+  font-family:Inter,"Helvetica Neue",Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+
+#acx-category *,
+#acx-category *::before,
+#acx-category *::after { box-sizing:border-box; }
+
+#acx-category a { color:inherit; text-decoration:none; }
+
+#acx-category .wrap {
+  width:min(var(--max),calc(100% - 64px));
+  margin:0 auto;
+  padding:42px 0 96px;
+}
+
+#acx-category .crumbs {
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:8px;
+  margin-bottom:54px;
+  color:var(--muted);
+  font-size:12px;
+}
+
+#acx-category .crumbs a:hover { color:#111; }
+#acx-category .sep { color:#aaa; }
+
+#acx-category .hero { max-width:920px; }
+
+#acx-category h1 {
+  margin:0;
+  font-size:clamp(56px,7vw,92px);
+  line-height:.95;
+  letter-spacing:-.06em;
+  font-weight:500;
+}
+
+#acx-category .intro {
+  margin:26px 0 0;
+  max-width:780px;
+  color:var(--text);
+  font-size:19px;
+  line-height:1.55;
+}
+
+#acx-category .search {
+  position:relative;
+  margin-top:42px;
+  max-width:780px;
+}
+
+#acx-category .search input {
+  width:100%;
+  height:56px;
+  margin:0;
+  padding:0 72px 0 17px;
+  border:1px solid #cececa;
+  border-radius:8px;
+  outline:none;
+  background:#fff;
+  color:var(--ink);
+  font:inherit;
+  font-size:15px;
+  appearance:none;
+  transition:border-color .16s ease, box-shadow .16s ease;
+}
+
+#acx-category .search input:hover { border-color:#aaa; }
+#acx-category .search input:focus {
+  border-color:#787873;
+  box-shadow:0 0 0 3px rgba(0,0,0,.045);
+}
+
+#acx-category .command {
+  position:absolute;
+  right:12px;
+  top:50%;
+  transform:translateY(-50%);
+  min-width:42px;
+  height:28px;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  border:1px solid #d8d8d4;
+  border-radius:6px;
+  background:#fff;
+  color:#71716d;
+  font-size:11px;
+  line-height:1;
+  pointer-events:none;
+}
+
+#acx-category .empty {
+  display:none;
+  margin-top:18px;
+  color:var(--muted);
+  font-size:13px;
+}
+
+#acx-category .topics { margin-top:76px; }
+
+#acx-category .topic {
+  min-height:104px;
+  display:grid;
+  grid-template-columns:52px minmax(0,1fr);
+  gap:22px;
+  align-items:center;
+  padding:16px 12px 16px 0;
+  border-top:1px solid var(--line);
+  background:#fff;
+  transition:background-color .14s ease;
+}
+
+#acx-category .topic:last-child { border-bottom:1px solid var(--line); }
+
+#acx-category .num {
+  color:#777;
+  font-size:10px;
+  letter-spacing:.08em;
+}
+
+#acx-category .topic-title {
+  display:block;
+  font-size:25px;
+  line-height:1.1;
+  letter-spacing:-.035em;
+  font-weight:500;
+}
+
+#acx-category .topic-copy {
+  display:block;
+  margin-top:7px;
+  max-width:760px;
+  color:var(--muted);
+  font-size:12px;
+  line-height:1.5;
+}
+
+@media (hover:hover) {
+  #acx-category .topic:hover { background:var(--soft); }
+  #acx-category .topic:hover .num { color:#333; }
+}
+
+#acx-category .topic:focus-visible {
+  outline:1px solid #8e8e89;
+  outline-offset:3px;
+  border-radius:8px;
+}
+
+@media(max-width:780px) {
+  #acx-category .wrap {
+    width:min(100% - 34px,var(--max));
+    padding-top:30px;
+  }
+  #acx-category .crumbs { margin-bottom:40px; }
+  #acx-category h1 { font-size:56px; }
+  #acx-category .intro { font-size:17px; }
+  #acx-category .topics { margin-top:58px; }
+  #acx-category .topic {
+    grid-template-columns:36px minmax(0,1fr);
+    gap:14px;
+    min-height:90px;
+  }
+  #acx-category .topic-title { font-size:22px; }
+}
+
+@media(max-width:520px) {
+  #acx-category .wrap { width:min(100% - 28px,var(--max)); }
+  #acx-category h1 { font-size:44px; }
+  #acx-category .topic-copy { display:none; }
+}
+
+@media(prefers-reduced-motion:reduce) {
+  #acx-category *,
+  #acx-category *::before,
+  #acx-category *::after { transition:none !important; }
+}
+</style>
+
+
+<section id="acx-category" aria-labelledby="acx-category-heading">
+  <div class="wrap">
+
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/library/">Knowledge</a>
+      <span class="sep">›</span>
+      <span>Washroom Hygiene</span>
+    </nav>
+
+    <header class="hero">
+      <h1 id="acx-category-heading">Washroom Hygiene</h1>
+      <p class="intro">Routine washroom care, toilets, scale, grout, odour control, inspection and problem solving.</p>
+
+      <div class="search">
+        <label for="search-washroom-hygiene" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;">
+          Search Washroom Hygiene
+        </label>
+        <input
+          id="search-washroom-hygiene"
+          class="search-input"
+          type="search"
+          placeholder="Search topics"
+          autocomplete="off"
+          spellcheck="false"
+        >
+        <span class="command" aria-hidden="true">⌘K</span>
+      </div>
+
+      <div class="empty" role="status" aria-live="polite">No matching topic.</div>
+    </header>
+
+    <nav class="topics" aria-label="Washroom Hygiene topics">
+      
+      <a class="topic" href="/library/washroom-hygiene/routine-washroom-cleaning/" data-search="routine washroom cleaning routine-washroom-cleaning daily and scheduled cleaning tasks for washroom environments.">
+        <span class="num">01</span>
+        <span>
+          <span class="topic-title">Routine Washroom Cleaning</span>
+          <span class="topic-copy">Daily and scheduled cleaning tasks for washroom environments.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/washroom-hygiene/toilet-urinal-care/" data-search="toilet &amp; urinal care toilet-urinal-care routine care principles for toilets, urinals and related fixtures.">
+        <span class="num">02</span>
+        <span>
+          <span class="topic-title">Toilet &amp; Urinal Care</span>
+          <span class="topic-copy">Routine care principles for toilets, urinals and related fixtures.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/washroom-hygiene/limescale-mineral-deposits/" data-search="limescale &amp; mineral deposits limescale-mineral-deposits understanding scale, mineral deposits and their effect on washroom surfaces.">
+        <span class="num">03</span>
+        <span>
+          <span class="topic-title">Limescale &amp; Mineral Deposits</span>
+          <span class="topic-copy">Understanding scale, mineral deposits and their effect on washroom surfaces.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/washroom-hygiene/tiles-grout/" data-search="tiles &amp; grout tiles-grout cleaning considerations for tiled surfaces and grout lines.">
+        <span class="num">04</span>
+        <span>
+          <span class="topic-title">Tiles &amp; Grout</span>
+          <span class="topic-copy">Cleaning considerations for tiled surfaces and grout lines.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/washroom-hygiene/washroom-odour-control/" data-search="washroom odour control washroom-odour-control managing the cleaning and facility factors that contribute to odour.">
+        <span class="num">05</span>
+        <span>
+          <span class="topic-title">Washroom Odour Control</span>
+          <span class="topic-copy">Managing the cleaning and facility factors that contribute to odour.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/washroom-hygiene/washroom-inspection/" data-search="washroom inspection washroom-inspection what to check when reviewing washroom cleanliness and condition.">
+        <span class="num">06</span>
+        <span>
+          <span class="topic-title">Washroom Inspection</span>
+          <span class="topic-copy">What to check when reviewing washroom cleanliness and condition.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/washroom-hygiene/washroom-troubleshooting/" data-search="washroom troubleshooting washroom-troubleshooting common washroom cleaning problems and structured checks.">
+        <span class="num">07</span>
+        <span>
+          <span class="topic-title">Washroom Troubleshooting</span>
+          <span class="topic-copy">Common washroom cleaning problems and structured checks.</span>
+        </span>
+      </a>
+    </nav>
+
+  </div>
+</section>
+
+
+<script>
+(function(){
+  const root = document.getElementById('acx-category');
+  if(!root) return;
+
+  const input = root.querySelector('.search-input');
+  const rows = Array.from(root.querySelectorAll('.topic'));
+  const empty = root.querySelector('.empty');
+
+  function filterRows(){
+    const query = input.value.toLowerCase().trim();
+    const terms = query ? query.split(/\s+/).filter(Boolean) : [];
+    let visible = 0;
+
+    rows.forEach(function(row){
+      const hay = ((row.dataset.search || '') + ' ' + row.textContent).toLowerCase();
+      const match = !terms.length || terms.every(function(term){ return hay.includes(term); });
+      row.style.display = match ? 'grid' : 'none';
+      if(match) visible++;
+    });
+
+    empty.style.display = visible ? 'none' : 'block';
+  }
+
+  input.addEventListener('input', filterRows);
+
+  document.addEventListener('keydown', function(event){
+    const active = document.activeElement;
+    const typing = active && (
+      active.tagName === 'INPUT' ||
+      active.tagName === 'TEXTAREA' ||
+      active.isContentEditable
+    );
+
+    if((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k'){
+      event.preventDefault();
+      input.focus();
+      input.select();
+    }
+
+    if(event.key === 'Escape' && active === input){
+      input.value = '';
+      filterRows();
+      input.blur();
+    }
+  });
+})();
+</script>
