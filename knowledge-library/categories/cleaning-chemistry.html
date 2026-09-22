@@ -1,0 +1,359 @@
+<!--
+Alle's ClinX Knowledge — WordPress-ready category page
+Canonical route: /library/cleaning-chemistry/
+Paste this entire block into a WordPress Custom HTML block.
+-->
+
+<style>
+#acx-category {
+  --bg:#fff;
+  --ink:#0b0b0b;
+  --text:#303030;
+  --muted:#707070;
+  --line:#e4e4e0;
+  --soft:#fafafa;
+  --radius:8px;
+  --max:1160px;
+
+  width:100%;
+  background:#fff;
+  color:var(--ink);
+  font-family:Inter,"Helvetica Neue",Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+
+#acx-category *,
+#acx-category *::before,
+#acx-category *::after { box-sizing:border-box; }
+
+#acx-category a { color:inherit; text-decoration:none; }
+
+#acx-category .wrap {
+  width:min(var(--max),calc(100% - 64px));
+  margin:0 auto;
+  padding:42px 0 96px;
+}
+
+#acx-category .crumbs {
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:8px;
+  margin-bottom:54px;
+  color:var(--muted);
+  font-size:12px;
+}
+
+#acx-category .crumbs a:hover { color:#111; }
+#acx-category .sep { color:#aaa; }
+
+#acx-category .hero { max-width:920px; }
+
+#acx-category h1 {
+  margin:0;
+  font-size:clamp(56px,7vw,92px);
+  line-height:.95;
+  letter-spacing:-.06em;
+  font-weight:500;
+}
+
+#acx-category .intro {
+  margin:26px 0 0;
+  max-width:780px;
+  color:var(--text);
+  font-size:19px;
+  line-height:1.55;
+}
+
+#acx-category .search {
+  position:relative;
+  margin-top:42px;
+  max-width:780px;
+}
+
+#acx-category .search input {
+  width:100%;
+  height:56px;
+  margin:0;
+  padding:0 72px 0 17px;
+  border:1px solid #cececa;
+  border-radius:8px;
+  outline:none;
+  background:#fff;
+  color:var(--ink);
+  font:inherit;
+  font-size:15px;
+  appearance:none;
+  transition:border-color .16s ease, box-shadow .16s ease;
+}
+
+#acx-category .search input:hover { border-color:#aaa; }
+#acx-category .search input:focus {
+  border-color:#787873;
+  box-shadow:0 0 0 3px rgba(0,0,0,.045);
+}
+
+#acx-category .command {
+  position:absolute;
+  right:12px;
+  top:50%;
+  transform:translateY(-50%);
+  min-width:42px;
+  height:28px;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  border:1px solid #d8d8d4;
+  border-radius:6px;
+  background:#fff;
+  color:#71716d;
+  font-size:11px;
+  line-height:1;
+  pointer-events:none;
+}
+
+#acx-category .empty {
+  display:none;
+  margin-top:18px;
+  color:var(--muted);
+  font-size:13px;
+}
+
+#acx-category .topics { margin-top:76px; }
+
+#acx-category .topic {
+  min-height:104px;
+  display:grid;
+  grid-template-columns:52px minmax(0,1fr);
+  gap:22px;
+  align-items:center;
+  padding:16px 12px 16px 0;
+  border-top:1px solid var(--line);
+  background:#fff;
+  transition:background-color .14s ease;
+}
+
+#acx-category .topic:last-child { border-bottom:1px solid var(--line); }
+
+#acx-category .num {
+  color:#777;
+  font-size:10px;
+  letter-spacing:.08em;
+}
+
+#acx-category .topic-title {
+  display:block;
+  font-size:25px;
+  line-height:1.1;
+  letter-spacing:-.035em;
+  font-weight:500;
+}
+
+#acx-category .topic-copy {
+  display:block;
+  margin-top:7px;
+  max-width:760px;
+  color:var(--muted);
+  font-size:12px;
+  line-height:1.5;
+}
+
+@media (hover:hover) {
+  #acx-category .topic:hover { background:var(--soft); }
+  #acx-category .topic:hover .num { color:#333; }
+}
+
+#acx-category .topic:focus-visible {
+  outline:1px solid #8e8e89;
+  outline-offset:3px;
+  border-radius:8px;
+}
+
+@media(max-width:780px) {
+  #acx-category .wrap {
+    width:min(100% - 34px,var(--max));
+    padding-top:30px;
+  }
+  #acx-category .crumbs { margin-bottom:40px; }
+  #acx-category h1 { font-size:56px; }
+  #acx-category .intro { font-size:17px; }
+  #acx-category .topics { margin-top:58px; }
+  #acx-category .topic {
+    grid-template-columns:36px minmax(0,1fr);
+    gap:14px;
+    min-height:90px;
+  }
+  #acx-category .topic-title { font-size:22px; }
+}
+
+@media(max-width:520px) {
+  #acx-category .wrap { width:min(100% - 28px,var(--max)); }
+  #acx-category h1 { font-size:44px; }
+  #acx-category .topic-copy { display:none; }
+}
+
+@media(prefers-reduced-motion:reduce) {
+  #acx-category *,
+  #acx-category *::before,
+  #acx-category *::after { transition:none !important; }
+}
+</style>
+
+
+<section id="acx-category" aria-labelledby="acx-category-heading">
+  <div class="wrap">
+
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/library/">Knowledge</a>
+      <span class="sep">›</span>
+      <span>Cleaning Chemistry</span>
+    </nav>
+
+    <header class="hero">
+      <h1 id="acx-category-heading">Cleaning Chemistry</h1>
+      <p class="intro">pH, surfactants, actives, enzymes, oxidisers, water hardness, concentration and product compatibility.</p>
+
+      <div class="search">
+        <label for="search-cleaning-chemistry" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;">
+          Search Cleaning Chemistry
+        </label>
+        <input
+          id="search-cleaning-chemistry"
+          class="search-input"
+          type="search"
+          placeholder="Search topics"
+          autocomplete="off"
+          spellcheck="false"
+        >
+        <span class="command" aria-hidden="true">⌘K</span>
+      </div>
+
+      <div class="empty" role="status" aria-live="polite">No matching topic.</div>
+    </header>
+
+    <nav class="topics" aria-label="Cleaning Chemistry topics">
+      
+      <a class="topic" href="/library/cleaning-chemistry/chemistry-basics/" data-search="cleaning chemistry basics chemistry-basics foundational concepts behind professional cleaning formulations.">
+        <span class="num">01</span>
+        <span>
+          <span class="topic-title">Cleaning Chemistry Basics</span>
+          <span class="topic-copy">Foundational concepts behind professional cleaning formulations.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/cleaning-chemistry/ph-acid-alkaline/" data-search="ph, acids &amp; alkalis ph-acid-alkaline acidic, neutral and alkaline chemistry and how ph is interpreted.">
+        <span class="num">02</span>
+        <span>
+          <span class="topic-title">pH, Acids &amp; Alkalis</span>
+          <span class="topic-copy">Acidic, neutral and alkaline chemistry and how pH is interpreted.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/cleaning-chemistry/surfactants/" data-search="surfactants surfactants how surfactants support wetting, soil removal and emulsification.">
+        <span class="num">03</span>
+        <span>
+          <span class="topic-title">Surfactants</span>
+          <span class="topic-copy">How surfactants support wetting, soil removal and emulsification.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/cleaning-chemistry/disinfectant-actives/" data-search="disinfectant actives disinfectant-actives major disinfectant-active families and how they differ conceptually.">
+        <span class="num">04</span>
+        <span>
+          <span class="topic-title">Disinfectant Actives</span>
+          <span class="topic-copy">Major disinfectant-active families and how they differ conceptually.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/cleaning-chemistry/enzymes/" data-search="enzymes enzymes the role of enzymes in breaking down specific soil types.">
+        <span class="num">05</span>
+        <span>
+          <span class="topic-title">Enzymes</span>
+          <span class="topic-copy">The role of enzymes in breaking down specific soil types.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/cleaning-chemistry/bleaches-oxidisers/" data-search="bleaches &amp; oxidisers bleaches-oxidisers oxidising chemistry and the main classes of bleaching systems.">
+        <span class="num">06</span>
+        <span>
+          <span class="topic-title">Bleaches &amp; Oxidisers</span>
+          <span class="topic-copy">Oxidising chemistry and the main classes of bleaching systems.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/cleaning-chemistry/dilution-concentration/" data-search="dilution &amp; concentration dilution-concentration understanding concentrates, dilution ratios and controlled dosing.">
+        <span class="num">07</span>
+        <span>
+          <span class="topic-title">Dilution &amp; Concentration</span>
+          <span class="topic-copy">Understanding concentrates, dilution ratios and controlled dosing.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/cleaning-chemistry/water-hardness/" data-search="water hardness water-hardness how dissolved minerals influence cleaning and scale formation.">
+        <span class="num">08</span>
+        <span>
+          <span class="topic-title">Water Hardness</span>
+          <span class="topic-copy">How dissolved minerals influence cleaning and scale formation.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/cleaning-chemistry/product-selection/" data-search="product selection product-selection a structured way to match chemistry to soil, surface and application.">
+        <span class="num">09</span>
+        <span>
+          <span class="topic-title">Product Selection</span>
+          <span class="topic-copy">A structured way to match chemistry to soil, surface and application.</span>
+        </span>
+      </a>
+      <a class="topic" href="/library/cleaning-chemistry/product-compatibility/" data-search="product compatibility product-compatibility how complete formulations interact with different materials.">
+        <span class="num">10</span>
+        <span>
+          <span class="topic-title">Product Compatibility</span>
+          <span class="topic-copy">How complete formulations interact with different materials.</span>
+        </span>
+      </a>
+    </nav>
+
+  </div>
+</section>
+
+
+<script>
+(function(){
+  const root = document.getElementById('acx-category');
+  if(!root) return;
+
+  const input = root.querySelector('.search-input');
+  const rows = Array.from(root.querySelectorAll('.topic'));
+  const empty = root.querySelector('.empty');
+
+  function filterRows(){
+    const query = input.value.toLowerCase().trim();
+    const terms = query ? query.split(/\s+/).filter(Boolean) : [];
+    let visible = 0;
+
+    rows.forEach(function(row){
+      const hay = ((row.dataset.search || '') + ' ' + row.textContent).toLowerCase();
+      const match = !terms.length || terms.every(function(term){ return hay.includes(term); });
+      row.style.display = match ? 'grid' : 'none';
+      if(match) visible++;
+    });
+
+    empty.style.display = visible ? 'none' : 'block';
+  }
+
+  input.addEventListener('input', filterRows);
+
+  document.addEventListener('keydown', function(event){
+    const active = document.activeElement;
+    const typing = active && (
+      active.tagName === 'INPUT' ||
+      active.tagName === 'TEXTAREA' ||
+      active.isContentEditable
+    );
+
+    if((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k'){
+      event.preventDefault();
+      input.focus();
+      input.select();
+    }
+
+    if(event.key === 'Escape' && active === input){
+      input.value = '';
+      filterRows();
+      input.blur();
+    }
+  });
+})();
+</script>
