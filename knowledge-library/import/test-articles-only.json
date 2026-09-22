@@ -1,0 +1,214 @@
+{
+  "articles": [
+    {
+      "article_id": "ACX-KB-0001",
+      "title": "What Is Cleaning Chemistry?",
+      "slug": "what-is-cleaning-chemistry",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Cleaning Chemistry Basics",
+      "subcategory_slug": "chemistry-basics",
+      "excerpt": "An introduction to the main ideas behind professional cleaning formulations and how different ingredient groups contribute to cleaning performance.",
+      "content_html": "<p>Cleaning chemistry explains how a formulation interacts with soils, water and surfaces. Professional cleaners may contain several ingredient groups, each contributing a different function.</p><h2 id=\"why-cleaning-chemistry-matters\">Why cleaning chemistry matters</h2><p>Understanding basic chemistry helps users compare products by intended application rather than by appearance or a single property.</p><h2 id=\"main-formulation-components\">Main formulation components</h2><p>Depending on the product, a formulation may include surfactants, builders, solvents, enzymes, oxidising agents, disinfectant actives or other functional ingredients.</p><h2 id=\"product-selection\">Product selection</h2><p>The appropriate product depends on the soil, surface, process and controlled product information. No single chemical property describes overall cleaning performance.</p>",
+      "seo_title": "What Is Cleaning Chemistry? | Alle's ClinX",
+      "meta_description": "Learn the basic principles of cleaning chemistry, including how formulations interact with soils, surfaces, water and different ingredient groups.",
+      "canonical_url": "https://allesclinx.com/library/cleaning-chemistry/chemistry-basics/what-is-cleaning-chemistry/",
+      "related_article_ids": [
+        "ACX-KB-0002",
+        "ACX-KB-0003"
+      ],
+      "status": "draft",
+      "category_term_id": "ACX-TOPIC-068",
+      "subcategory_term_id": "ACX-TOPIC-069"
+    },
+    {
+      "article_id": "ACX-KB-0002",
+      "title": "How Cleaning Products Remove Soil",
+      "slug": "how-cleaning-products-remove-soil",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Cleaning Chemistry Basics",
+      "subcategory_slug": "chemistry-basics",
+      "excerpt": "A practical overview of the different mechanisms cleaning formulations use to loosen, suspend and remove soils from surfaces.",
+      "content_html": "<p>Cleaning products work by helping separate soil from a surface so it can be removed through the cleaning process.</p><h2 id=\"soil-and-surface-interactions\">Soil and surface interactions</h2><p>Different soils behave differently depending on their composition and the material they are attached to.</p><h2 id=\"role-of-formulation\">Role of formulation</h2><p>Surfactants, solvents, builders and other ingredients can support wetting, soil release, suspension and removal.</p><h2 id=\"why-one-cleaner-does-not-fit-all\">Why one cleaner does not fit all</h2><p>A formulation suited to one type of soil or surface may not be suitable for another, which is why intended use and compatibility information matter.</p>",
+      "seo_title": "How Cleaning Products Remove Soil | Alle's ClinX",
+      "meta_description": "Understand how cleaning products help loosen, suspend and remove soils and why different formulations suit different cleaning tasks.",
+      "canonical_url": "https://allesclinx.com/library/cleaning-chemistry/chemistry-basics/how-cleaning-products-remove-soil/",
+      "related_article_ids": [
+        "ACX-KB-0001",
+        "ACX-KB-0006"
+      ],
+      "status": "draft",
+      "category_term_id": "ACX-TOPIC-068",
+      "subcategory_term_id": "ACX-TOPIC-069"
+    },
+    {
+      "article_id": "ACX-KB-0003",
+      "title": "What Is pH in Cleaning Chemicals?",
+      "slug": "what-is-ph-in-cleaning-chemicals",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "pH, Acids & Alkalis",
+      "subcategory_slug": "ph-acid-alkaline",
+      "excerpt": "A clear explanation of pH in cleaning chemistry and why acidic, neutral and alkaline formulations behave differently.",
+      "content_html": "<p>pH describes whether a water-based solution is acidic, neutral or alkaline. In professional cleaning, it provides useful context about the general character of a formulation.</p><h2 id=\"ph-scale\">The pH scale</h2><p>A value around 7 is neutral, lower values are acidic and higher values are alkaline.</p><h2 id=\"why-ph-matters\">Why pH matters</h2><p>pH can influence how a cleaner interacts with certain soils and materials, but it does not describe the complete formulation.</p><h2 id=\"surface-compatibility\">Surface compatibility</h2><p>Surface compatibility depends on the full product formulation and the material being cleaned, not on pH alone.</p>",
+      "seo_title": "What Is pH in Cleaning Chemicals? | Alle's ClinX",
+      "meta_description": "Learn what pH means in cleaning chemicals and how acidic, neutral and alkaline formulations relate to soils and surface compatibility.",
+      "canonical_url": "https://allesclinx.com/library/cleaning-chemistry/ph-acid-alkaline/what-is-ph-in-cleaning-chemicals/",
+      "related_article_ids": [
+        "ACX-KB-0004",
+        "ACX-KB-0005"
+      ],
+      "status": "draft",
+      "category_term_id": "ACX-TOPIC-068",
+      "subcategory_term_id": "ACX-TOPIC-070"
+    },
+    {
+      "article_id": "ACX-KB-0004",
+      "title": "Acidic vs Alkaline Cleaners",
+      "slug": "acidic-vs-alkaline-cleaners",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "pH, Acids & Alkalis",
+      "subcategory_slug": "ph-acid-alkaline",
+      "excerpt": "A comparison of acidic and alkaline cleaning chemistry, including the broad types of soils each is commonly associated with.",
+      "content_html": "<p>Acidic and alkaline cleaners represent two broad chemistry families used for different cleaning challenges.</p><h2 id=\"acidic-cleaners\">Acidic cleaners</h2><p>Acidic formulations are commonly associated with mineral deposits, scale and some inorganic soils.</p><h2 id=\"alkaline-cleaners\">Alkaline cleaners</h2><p>Alkaline formulations are commonly associated with grease, oils and heavier organic soils.</p><h2 id=\"choosing-between-them\">Choosing between them</h2><p>The appropriate choice depends on the soil, material and intended application described in controlled product information.</p>",
+      "seo_title": "Acidic vs Alkaline Cleaners | Alle's ClinX",
+      "meta_description": "Compare acidic and alkaline cleaners, the soils they are commonly associated with, and why surface compatibility matters.",
+      "canonical_url": "https://allesclinx.com/library/cleaning-chemistry/ph-acid-alkaline/acidic-vs-alkaline-cleaners/",
+      "related_article_ids": [
+        "ACX-KB-0003",
+        "ACX-KB-0005"
+      ],
+      "status": "draft",
+      "category_term_id": "ACX-TOPIC-068",
+      "subcategory_term_id": "ACX-TOPIC-070"
+    },
+    {
+      "article_id": "ACX-KB-0005",
+      "title": "Does Higher pH Mean a Stronger Cleaner?",
+      "slug": "does-higher-ph-mean-stronger-cleaner",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "pH, Acids & Alkalis",
+      "subcategory_slug": "ph-acid-alkaline",
+      "excerpt": "Why pH alone does not measure cleaning strength, cleaning performance or overall formulation effectiveness.",
+      "content_html": "<p>A higher pH does not automatically mean a cleaner is more effective. pH describes acidity or alkalinity, not total cleaning performance.</p><h2 id=\"what-ph-tells-you\">What pH tells you</h2><p>pH gives information about the acid-base character of a water-based solution.</p><h2 id=\"what-ph-does-not-tell-you\">What pH does not tell you</h2><p>It does not describe surfactant system, solvent content, builders, enzymes or other formulation choices.</p><h2 id=\"better-product-comparison\">Better product comparison</h2><p>Products should be compared by intended application, soil type, material compatibility and technical documentation rather than pH alone.</p>",
+      "seo_title": "Does Higher pH Mean a Stronger Cleaner? | Alle's ClinX",
+      "meta_description": "Find out why higher pH does not necessarily mean stronger cleaning performance and what matters more when comparing cleaners.",
+      "canonical_url": "https://allesclinx.com/library/cleaning-chemistry/ph-acid-alkaline/does-higher-ph-mean-stronger-cleaner/",
+      "related_article_ids": [
+        "ACX-KB-0003",
+        "ACX-KB-0004"
+      ],
+      "status": "draft",
+      "category_term_id": "ACX-TOPIC-068",
+      "subcategory_term_id": "ACX-TOPIC-070"
+    },
+    {
+      "article_id": "ACX-KB-0006",
+      "title": "What Are Surfactants?",
+      "slug": "what-are-surfactants",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Surfactants",
+      "subcategory_slug": "surfactants",
+      "excerpt": "An introduction to surfactants and their role in wetting, soil removal, emulsification and cleaning formulations.",
+      "content_html": "<p>Surfactants are ingredients used in many cleaning formulations to change how water interacts with surfaces and soils.</p><h2 id=\"wetting\">Wetting</h2><p>Surfactants can help a cleaning solution spread across a surface more effectively.</p><h2 id=\"soil-removal\">Soil removal</h2><p>They can support the separation of certain soils from surfaces and help keep removed material suspended.</p><h2 id=\"different-surfactant-types\">Different surfactant types</h2><p>Different surfactant classes have different properties, so formulations are designed around the requirements of the intended application.</p>",
+      "seo_title": "What Are Surfactants? | Alle's ClinX",
+      "meta_description": "Learn what surfactants are and how they support wetting, soil removal and emulsification in professional cleaning formulations.",
+      "canonical_url": "https://allesclinx.com/library/cleaning-chemistry/surfactants/what-are-surfactants/",
+      "related_article_ids": [
+        "ACX-KB-0002",
+        "ACX-KB-0007"
+      ],
+      "status": "draft",
+      "category_term_id": "ACX-TOPIC-068",
+      "subcategory_term_id": "ACX-TOPIC-071"
+    },
+    {
+      "article_id": "ACX-KB-0007",
+      "title": "How Surfactants Help Water Spread",
+      "slug": "how-surfactants-help-water-spread",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Surfactants",
+      "subcategory_slug": "surfactants",
+      "excerpt": "A simple explanation of wetting and why surfactants can help cleaning solutions make better contact with surfaces.",
+      "content_html": "<p>Water does not always spread evenly across a surface. Surfactants can change that behaviour and improve wetting.</p><h2 id=\"surface-tension\">Surface tension</h2><p>Surface tension affects how water forms droplets and spreads across materials.</p><h2 id=\"wetting-action\">Wetting action</h2><p>Surfactants can reduce surface tension, allowing a solution to contact more of the surface.</p><h2 id=\"why-wetting-matters\">Why wetting matters</h2><p>Better contact can support the cleaning process, although overall performance still depends on the complete formulation and cleaning method.</p>",
+      "seo_title": "How Surfactants Help Water Spread | Alle's ClinX",
+      "meta_description": "Learn how surfactants affect surface tension and help cleaning solutions spread more effectively across surfaces.",
+      "canonical_url": "https://allesclinx.com/library/cleaning-chemistry/surfactants/how-surfactants-help-water-spread/",
+      "related_article_ids": [
+        "ACX-KB-0006",
+        "ACX-KB-0002"
+      ],
+      "status": "draft",
+      "category_term_id": "ACX-TOPIC-068",
+      "subcategory_term_id": "ACX-TOPIC-071"
+    },
+    {
+      "article_id": "ACX-KB-0008",
+      "title": "What Is Water Hardness?",
+      "slug": "what-is-water-hardness",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Water Hardness",
+      "subcategory_slug": "water-hardness",
+      "excerpt": "An introduction to water hardness and why dissolved minerals can influence cleaning, scale formation and product performance.",
+      "content_html": "<p>Water hardness refers mainly to dissolved minerals such as calcium and magnesium in water.</p><h2 id=\"why-water-hardness-matters\">Why water hardness matters</h2><p>Mineral content can influence scale formation, rinsing behaviour and the way some cleaning formulations perform.</p><h2 id=\"hard-water-and-scale\">Hard water and scale</h2><p>As water evaporates or conditions change, mineral deposits can accumulate on surfaces and equipment.</p><h2 id=\"product-formulation\">Product formulation</h2><p>Professional formulations may be designed with water conditions in mind, which is why technical product information is important.</p>",
+      "seo_title": "What Is Water Hardness? | Alle's ClinX",
+      "meta_description": "Learn what water hardness is and how dissolved minerals can affect cleaning performance, rinsing and scale formation.",
+      "canonical_url": "https://allesclinx.com/library/cleaning-chemistry/water-hardness/what-is-water-hardness/",
+      "related_article_ids": [
+        "ACX-KB-0009",
+        "ACX-KB-0010"
+      ],
+      "status": "draft",
+      "category_term_id": "ACX-TOPIC-068",
+      "subcategory_term_id": "ACX-TOPIC-076"
+    },
+    {
+      "article_id": "ACX-KB-0009",
+      "title": "How Hard Water Affects Cleaning",
+      "slug": "how-hard-water-affects-cleaning",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Water Hardness",
+      "subcategory_slug": "water-hardness",
+      "excerpt": "How mineral content in water can affect scale, residue, rinsing and the performance of some cleaning systems.",
+      "content_html": "<p>Hard water can affect cleaning because dissolved minerals interact with surfaces, residues and some formulation components.</p><h2 id=\"scale-and-deposits\">Scale and deposits</h2><p>Minerals can contribute to visible deposits on fixtures, equipment and other surfaces.</p><h2 id=\"cleaning-performance\">Cleaning performance</h2><p>The effect of hard water varies by formulation and process, so product documentation should be used when evaluating performance.</p><h2 id=\"system-level-considerations\">System-level considerations</h2><p>Water quality is one part of the wider cleaning system alongside product chemistry, equipment, method and surface condition.</p>",
+      "seo_title": "How Hard Water Affects Cleaning | Alle's ClinX",
+      "meta_description": "Understand how hard water can influence scale, residue, rinsing and the performance of professional cleaning systems.",
+      "canonical_url": "https://allesclinx.com/library/cleaning-chemistry/water-hardness/how-hard-water-affects-cleaning/",
+      "related_article_ids": [
+        "ACX-KB-0008",
+        "ACX-KB-0010"
+      ],
+      "status": "draft",
+      "category_term_id": "ACX-TOPIC-068",
+      "subcategory_term_id": "ACX-TOPIC-076"
+    },
+    {
+      "article_id": "ACX-KB-0010",
+      "title": "Why Scale Forms on Surfaces",
+      "slug": "why-scale-forms-on-surfaces",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Water Hardness",
+      "subcategory_slug": "water-hardness",
+      "excerpt": "A practical explanation of how dissolved minerals can leave deposits and why scale commonly appears around water-exposed surfaces.",
+      "content_html": "<p>Scale commonly forms when dissolved minerals in water become concentrated and remain on a surface after water evaporates or conditions change.</p><h2 id=\"where-scale-appears\">Where scale appears</h2><p>Deposits often become visible in areas repeatedly exposed to water, especially where evaporation is frequent.</p><h2 id=\"why-it-builds-up\">Why it builds up</h2><p>Repeated wetting and drying can gradually increase mineral deposits if they are not removed through appropriate maintenance.</p><h2 id=\"surface-considerations\">Surface considerations</h2><p>Different materials respond differently to cleaning chemistry, so scale-removal decisions should be based on surface compatibility and controlled product information.</p>",
+      "seo_title": "Why Scale Forms on Surfaces | Alle's ClinX",
+      "meta_description": "Learn why mineral scale forms on water-exposed surfaces and how water hardness contributes to visible deposits over time.",
+      "canonical_url": "https://allesclinx.com/library/cleaning-chemistry/water-hardness/why-scale-forms-on-surfaces/",
+      "related_article_ids": [
+        "ACX-KB-0008",
+        "ACX-KB-0009"
+      ],
+      "status": "draft",
+      "category_term_id": "ACX-TOPIC-068",
+      "subcategory_term_id": "ACX-TOPIC-076"
+    }
+  ]
+}
