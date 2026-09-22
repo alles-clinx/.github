@@ -42,6 +42,13 @@ The repository automatically validates document counts, index coverage, canonica
 - **PLUS+ tools:** [Supply Planner](https://allesclinx.com/plus/supply-planner/) · [Hygiene Passport](https://allesclinx.com/plus/hygiene-passport/) · [Facility Tools](https://allesclinx.com/plus/facility-tools/)
 - [Complete tools & systems index](./TOOLS.md) — public tools first, repository automation second.
 
+## Developer resources
+
+- [Public data access](./docs/DATA-ACCESS.md) — how to consume the public JSON and CSV datasets.
+- [Public data dictionary](./data/DATA-DICTIONARY.md) — role and authority of each machine-readable file.
+- [Repository architecture](./docs/REPOSITORY-ARCHITECTURE.md) — profile, document, data and automation boundaries.
+- [Automation scripts](./scripts/README.md) — validation and live-site discovery tooling.
+
 ## Public data and governance
 
 - [Machine-readable product and document data](./data/)
