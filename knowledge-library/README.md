@@ -23,13 +23,22 @@ Canonical route model:
 ## Repository layout
 
 - `main/` — WordPress-ready Knowledge root page
-- `categories/` — WordPress-ready category page controls
-- `templates/` — article layout control sample
+- `categories/` — all 13 WordPress-ready category page controls
+- `templates/` — article and subcategory layout control samples
 - `taxonomy/` — canonical taxonomy and URL routing
-- `registry/by-category/` — SEO-audited article registry split into 13 category files (317 records total)
+- `registry/` — SEO-audited 317-article master registry plus review and QA files
 - `import/` — WordPress importer test/bootstrap JSON
 - `seo/` — word-count and SEO audit
 - `plans/` — architecture and execution plans
+
+## Source of truth
+
+Use these files as the current planning controls:
+
+- `taxonomy/library-route-map.json`
+- `taxonomy/library-taxonomy-master.json`
+- `registry/article-registry-317-seo-audited-v2.json`
+- `seo/word-count-seo-audit.md`
 
 ## Design rules
 
