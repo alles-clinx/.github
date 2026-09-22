@@ -1,0 +1,511 @@
+<!--
+Alle's ClinX Knowledge — WordPress-ready page block
+Paste this entire block into a WordPress "Custom HTML" block.
+Public route intended: /library/
+-->
+
+<style>
+#acx-knowledge {
+  --acx-bg: #ffffff;
+  --acx-ink: #0a0a0a;
+  --acx-text: #303030;
+  --acx-muted: #6b6b6b;
+  --acx-line: #e3e3df;
+  --acx-soft: #f7f7f5;
+  --acx-radius: 8px;
+  --acx-max: 1160px;
+
+  width: 100%;
+  background: var(--acx-bg);
+  color: var(--acx-ink);
+  font-family: Inter, "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+#acx-knowledge *,
+#acx-knowledge *::before,
+#acx-knowledge *::after {
+  box-sizing: border-box;
+}
+
+#acx-knowledge a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#acx-knowledge .acx-k-wrap {
+  width: min(var(--acx-max), calc(100% - 64px));
+  margin: 0 auto;
+  padding: 72px 0 104px;
+}
+
+#acx-knowledge .acx-k-hero {
+  max-width: 920px;
+}
+
+#acx-knowledge .acx-k-title {
+  margin: 0;
+  color: var(--acx-ink);
+  font-size: clamp(64px, 8vw, 112px);
+  line-height: .92;
+  letter-spacing: -.065em;
+  font-weight: 500;
+}
+
+#acx-knowledge .acx-k-intro {
+  margin: 30px 0 0;
+  max-width: 780px;
+  color: var(--acx-text);
+  font-size: 20px;
+  line-height: 1.55;
+}
+
+#acx-knowledge .acx-k-search {
+  position: relative;
+  margin-top: 48px;
+  max-width: 780px;
+}
+
+#acx-knowledge .acx-k-search input {
+  width: 100%;
+  height: 58px;
+  margin: 0;
+  padding: 0 72px 0 18px;
+  border: 1px solid #cececa;
+  border-radius: var(--acx-radius);
+  outline: none;
+  background: #fff;
+  color: var(--acx-ink);
+  font: inherit;
+  font-size: 16px;
+  appearance: none;
+}
+
+#acx-knowledge .acx-k-search input::placeholder {
+  color: #80807c;
+}
+
+#acx-knowledge .acx-k-search input:hover {
+  border-color: #a8a8a3;
+}
+
+#acx-knowledge .acx-k-search input:focus {
+  border-color: #6f6f6a;
+  box-shadow: 0 0 0 3px rgba(0,0,0,.055);
+}
+
+
+#acx-knowledge .acx-k-command {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  min-width: 42px;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #d8d8d4;
+  border-radius: 6px;
+  background: #fff;
+  color: #6f6f6b;
+  font-size: 11px;
+  line-height: 1;
+  letter-spacing: -.01em;
+  pointer-events: none;
+}
+
+
+#acx-knowledge .acx-k-empty {
+  display: none;
+  margin-top: 20px;
+  color: var(--acx-muted);
+  font-size: 13px;
+}
+
+#acx-knowledge .acx-k-categories {
+  margin-top: 84px;
+}
+
+#acx-knowledge .acx-k-row {
+  position: relative;
+  min-height: 116px;
+  display: grid;
+  grid-template-columns: 54px minmax(0, 1fr) 90px;
+  gap: 24px;
+  align-items: center;
+  padding: 17px 12px 17px 0;
+  border-top: 1px solid var(--acx-line);
+  border-radius: 0;
+  transition: background-color .16s ease;
+}
+
+#acx-knowledge .acx-k-row:last-child {
+  border-bottom: 1px solid var(--acx-line);
+}
+
+
+#acx-knowledge .acx-k-num {
+  color: var(--acx-muted);
+  font-size: 10px;
+  letter-spacing: .08em;
+}
+
+#acx-knowledge .acx-k-main {
+  display: block;
+  min-width: 0;
+}
+
+#acx-knowledge .acx-k-row-title {
+  display: inline-block;
+  color: var(--acx-ink);
+  font-size: 27px;
+  line-height: 1.1;
+  letter-spacing: -.04em;
+  font-weight: 500;
+}
+
+#acx-knowledge .acx-k-row-copy {
+  display: block;
+  margin-top: 8px;
+  max-width: 760px;
+  color: var(--acx-muted);
+  font-size: 12px;
+  line-height: 1.5;
+  transition: color .22s ease;
+}
+
+#acx-knowledge .acx-k-count {
+  color: var(--acx-muted);
+  font-size: 11px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+
+/* Minimal interaction */
+@media (hover: hover) {
+  #acx-knowledge .acx-k-row:hover {
+    background: #fafafa;
+  }
+
+  #acx-knowledge .acx-k-row:hover .acx-k-row-title {
+    color: #000;
+  }
+
+  #acx-knowledge .acx-k-row:hover .acx-k-num,
+  #acx-knowledge .acx-k-row:hover .acx-k-count {
+    color: #3f3f3f;
+  }
+}
+
+#acx-knowledge .acx-k-row:focus-visible {
+  outline: 1px solid #8e8e89;
+  outline-offset: 3px;
+  border-radius: var(--acx-radius);
+}
+
+#acx-knowledge .acx-k-note {
+  margin-top: 42px;
+  color: var(--acx-muted);
+  font-size: 11px;
+}
+
+@media (max-width: 780px) {
+  #acx-knowledge .acx-k-wrap {
+    width: min(100% - 34px, var(--acx-max));
+    padding: 50px 0 82px;
+  }
+
+  #acx-knowledge .acx-k-title {
+    font-size: 62px;
+  }
+
+  #acx-knowledge .acx-k-intro {
+    font-size: 17px;
+  }
+
+  #acx-knowledge .acx-k-categories {
+    margin-top: 58px;
+  }
+
+  #acx-knowledge .acx-k-row {
+    min-height: 96px;
+    grid-template-columns: 36px minmax(0,1fr);
+    gap: 14px;
+    padding-right: 5px;
+  }
+
+  #acx-knowledge .acx-k-count {
+    display: none;
+  }
+
+  #acx-knowledge .acx-k-row-title {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 520px) {
+  #acx-knowledge .acx-k-wrap {
+    width: min(100% - 28px, var(--acx-max));
+  }
+
+  #acx-knowledge .acx-k-title {
+    font-size: 50px;
+  }
+
+  #acx-knowledge .acx-k-row-copy {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #acx-knowledge *,
+  #acx-knowledge *::before,
+  #acx-knowledge *::after {
+    scroll-behavior: auto !important;
+    transition: none !important;
+    animation: none !important;
+  }
+}
+</style>
+
+
+<style>
+#acx-knowledge {
+  --acx-bg: #ffffff;
+  --acx-ink: #0b0b0b;
+  --acx-text: #2d2d2d;
+  --acx-muted: #717171;
+  --acx-line: #e5e5e1;
+  font-family: Inter, "Helvetica Neue", Arial, sans-serif;
+}
+#acx-knowledge .acx-k-title {
+  font-weight: 500;
+  letter-spacing: -.06em;
+}
+#acx-knowledge .acx-k-row {
+  border-radius: 0;
+  background: #fff;
+  transition: background-color .16s ease;
+}
+#acx-knowledge .acx-k-row-title {
+  font-weight: 500;
+  letter-spacing: -.035em;
+}
+#acx-knowledge .acx-k-num,
+#acx-knowledge .acx-k-count {
+  color: #777;
+}
+@media (hover:hover) {
+  #acx-knowledge .acx-k-row:hover {
+    background: #fafafa;
+  }
+}
+</style>
+
+<section id="acx-knowledge" aria-labelledby="acx-k-heading">
+  <div class="acx-k-wrap">
+
+    <header class="acx-k-hero">
+      <h1 id="acx-k-heading" class="acx-k-title">Knowledge</h1>
+
+      <p class="acx-k-intro">
+        Practical knowledge for professional cleaning, hygiene, chemistry, safety and facility operations—organized by subject, then by specific questions.
+      </p>
+
+      <div class="acx-k-search">
+        <label for="acx-k-search-input" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;">
+          Search knowledge topics
+        </label>
+        <input
+          id="acx-k-search-input"
+          type="search"
+          placeholder="Search topics"
+          autocomplete="off"
+          spellcheck="false"
+        >
+        <span class="acx-k-command" aria-hidden="true">⌘K</span>
+      </div>
+
+      <div id="acx-k-empty" class="acx-k-empty" role="status" aria-live="polite">
+        No matching category.
+      </div>
+    </header>
+
+    <nav class="acx-k-categories" id="acx-k-categories" aria-label="Knowledge categories">
+
+      <a class="acx-k-row" href="/library/cleaning-housekeeping/" data-search="cleaning housekeeping cleaning basics daily cleaning deep cleaning high touch cleaning cleaning schedules housekeeping workflows cleaning troubleshooting">
+        <span class="acx-k-num">01</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Cleaning &amp; Housekeeping</span>
+          <span class="acx-k-row-copy">Core cleaning practice, routine work, deep cleaning, high-touch areas and housekeeping workflows.</span>
+        </span>
+        <span class="acx-k-count">7 topics</span>
+      </a>
+
+      <a class="acx-k-row" href="/library/floor-surface-care/" data-search="floor surface care hard floors natural stone glass mirrors stainless steel metal wood furniture carpet upholstery surface compatibility floor surface troubleshooting">
+        <span class="acx-k-num">02</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Floor &amp; Surface Care</span>
+          <span class="acx-k-row-copy">Care for floors, stone, glass, metals, furniture, carpet and other finished surfaces.</span>
+        </span>
+        <span class="acx-k-count">8 topics</span>
+      </a>
+
+      <a class="acx-k-row" href="/library/washroom-hygiene/" data-search="washroom hygiene routine washroom cleaning toilet urinal care limescale mineral deposits tiles grout washroom odour control washroom inspection washroom troubleshooting">
+        <span class="acx-k-num">03</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Washroom Hygiene</span>
+          <span class="acx-k-row-copy">Routine washroom care, toilets, scale, grout, odour control, inspection and problem solving.</span>
+        </span>
+        <span class="acx-k-count">7 topics</span>
+      </a>
+
+      <a class="acx-k-row" href="/library/kitchen-food-service/" data-search="kitchen food service hygiene kitchen cleaning manual dishwashing machine warewashing degreasing chimney exhaust cleaning food contact surfaces stainless steel equipment kitchen troubleshooting">
+        <span class="acx-k-num">04</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Kitchen &amp; Food-Service Hygiene</span>
+          <span class="acx-k-row-copy">Professional kitchen cleaning, warewashing, degreasing, food-contact areas and equipment care.</span>
+        </span>
+        <span class="acx-k-count">8 topics</span>
+      </a>
+
+      <a class="acx-k-row" href="/library/laundry-fabric-care/" data-search="laundry fabric care laundry basics laundry detergents bleaching stain removal fabric softening delicate fabrics linen hygiene fabric odour control laundry troubleshooting">
+        <span class="acx-k-num">05</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Laundry &amp; Fabric Care</span>
+          <span class="acx-k-row-copy">Laundry chemistry, detergents, stains, bleaching, softening, linen hygiene and fabric care.</span>
+        </span>
+        <span class="acx-k-count">8 topics</span>
+      </a>
+
+      <a class="acx-k-row" href="/library/disinfection-infection-prevention/" data-search="disinfection infection prevention disinfection basics cleaning vs disinfection surface disinfection floor disinfection disinfectant chemistry contact time high risk areas infection prevention workflows">
+        <span class="acx-k-num">06</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Disinfection &amp; Infection Prevention</span>
+          <span class="acx-k-row-copy">Cleaning versus disinfection, contact time, high-risk areas and infection-prevention workflows.</span>
+        </span>
+        <span class="acx-k-count">8 topics</span>
+      </a>
+
+      <a class="acx-k-row" href="/library/hand-hygiene/" data-search="hand hygiene handwashing hand sanitising clinical hand hygiene hand hygiene stations dispensers refills hand hygiene programs">
+        <span class="acx-k-num">07</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Hand Hygiene</span>
+          <span class="acx-k-row-copy">Handwashing, sanitising, clinical hand hygiene, stations, dispensers and hygiene programs.</span>
+        </span>
+        <span class="acx-k-count">6 topics</span>
+      </a>
+
+      <a class="acx-k-row" href="/library/cleaning-equipment-systems/" data-search="cleaning equipment systems mops cloths manual tools cleaning carts trolleys scrubber dryers vacuum extraction equipment dispensing dosing systems equipment maintenance equipment troubleshooting">
+        <span class="acx-k-num">08</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Cleaning Equipment &amp; Systems</span>
+          <span class="acx-k-row-copy">Manual tools, machines, carts, extraction equipment, dispensing systems and maintenance.</span>
+        </span>
+        <span class="acx-k-count">7 topics</span>
+      </a>
+
+      <a class="acx-k-row" href="/library/cleaning-chemistry/" data-search="cleaning chemistry chemistry basics ph acids alkalis surfactants disinfectant actives enzymes bleaches oxidisers dilution concentration water hardness product selection product compatibility">
+        <span class="acx-k-num">09</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Cleaning Chemistry</span>
+          <span class="acx-k-row-copy">pH, surfactants, actives, enzymes, oxidisers, water hardness, concentration and compatibility.</span>
+        </span>
+        <span class="acx-k-count">10 topics</span>
+      </a>
+
+      <a class="acx-k-row" href="/library/safety-compliance/" data-search="safety compliance documentation sds tds sops usage guides product labels ghs hazard communication ppe chemical storage spills exposure audit readiness records document control">
+        <span class="acx-k-num">10</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Safety, Compliance &amp; Documentation</span>
+          <span class="acx-k-row-copy">SDS, TDS, SOPs, labels, GHS, PPE, storage, exposure response, audits and document control.</span>
+        </span>
+        <span class="acx-k-count">11 topics</span>
+      </a>
+
+      <a class="acx-k-row" href="/library/facility-hygiene-management/" data-search="facility hygiene management cleaning plans schedules staff training competency assessment supervision inspections audits capa inventory stock control chemical consumption cost control procurement supplier management sustainability waste">
+        <span class="acx-k-num">11</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Facility Hygiene Management</span>
+          <span class="acx-k-row-copy">Planning, training, supervision, audits, inventory, procurement and consumption control.</span>
+        </span>
+        <span class="acx-k-count">10 topics</span>
+      </a>
+
+      <a class="acx-k-row" href="/library/facility-guides/" data-search="facility sector guides healthcare hospitality education industrial offices commercial buildings food service retail long term care">
+        <span class="acx-k-num">12</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Facility &amp; Sector Guides</span>
+          <span class="acx-k-row-copy">Operational hygiene guidance organized around healthcare, hospitality, education, industry and other facility types.</span>
+        </span>
+        <span class="acx-k-count">8 topics</span>
+      </a>
+
+      <a class="acx-k-row" href="/library/alles-clinx/" data-search="nova metricon product documents qr codes choosing alles clinx products ordering procurement delivery returns container recovery customer support">
+        <span class="acx-k-num">13</span>
+        <span class="acx-k-main">
+          <span class="acx-k-row-title">Alle's ClinX Tools &amp; Support</span>
+          <span class="acx-k-row-copy">Product documents, Nova, Metricon, QR tools, ordering, returns and customer support.</span>
+        </span>
+        <span class="acx-k-count">9 topics</span>
+      </a>
+
+    </nav>
+
+    <div class="acx-k-note">Category → Subcategory → Article → Section</div>
+  </div>
+</section>
+
+<script>
+(function () {
+  const root = document.getElementById('acx-knowledge');
+  if (!root) return;
+
+  const input = root.querySelector('#acx-k-search-input');
+  const rows = Array.from(root.querySelectorAll('.acx-k-row'));
+  const empty = root.querySelector('#acx-k-empty');
+
+  function filterRows() {
+    const query = input.value.toLowerCase().trim();
+    const terms = query ? query.split(/\s+/).filter(Boolean) : [];
+    let visible = 0;
+
+    rows.forEach(function (row) {
+      const haystack = ((row.dataset.search || '') + ' ' + row.textContent).toLowerCase();
+      const match = !terms.length || terms.every(function (term) {
+        return haystack.includes(term);
+      });
+
+      row.style.display = match ? 'grid' : 'none';
+      if (match) visible++;
+    });
+
+    empty.style.display = visible ? 'none' : 'block';
+  }
+
+  input.addEventListener('input', filterRows);
+
+  document.addEventListener('keydown', function (event) {
+    const active = document.activeElement;
+    const typing =
+      active &&
+      (active.tagName === 'INPUT' ||
+       active.tagName === 'TEXTAREA' ||
+       active.isContentEditable);
+
+    if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') {
+      event.preventDefault();
+      input.focus();
+      input.select();
+    }
+
+    if (event.key === 'Escape' && active === input) {
+      input.value = '';
+      filterRows();
+      input.blur();
+    }
+  });
+})();
+</script>
