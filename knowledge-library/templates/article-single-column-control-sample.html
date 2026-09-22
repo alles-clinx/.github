@@ -1,0 +1,525 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>What Is pH in Cleaning Chemicals? — Alle's ClinX</title>
+<style>
+:root{
+  --bg:#fff;
+  --ink:#0a0a0a;
+  --muted:#6a6a6a;
+  --line:#e2e2de;
+  --soft:#f7f7f5;
+  --radius:8px;
+  --max:1320px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+html,body{
+  margin:0;
+  min-height:100%;
+  background:var(--bg);
+  color:var(--ink);
+  font-family:Arial,Helvetica,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+body{font-size:15px;line-height:1.6}
+a{color:inherit;text-decoration:none}
+button,input{font:inherit}
+
+.wrap{
+  width:min(var(--max), calc(100% - 64px));
+  margin:0 auto;
+}
+
+/* MINIMAL TOP STRIP */
+.top{
+  min-height:64px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:24px;
+}
+.brand{
+  font-size:14px;
+  font-weight:700;
+}
+.top-meta{
+  font-size:11px;
+  color:var(--muted);
+}
+
+/* HERO */
+.hero{
+  padding:70px 0 44px;
+}
+.breadcrumb{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  align-items:center;
+  font-size:12px;
+  color:var(--muted);
+  margin-bottom:40px;
+}
+.breadcrumb a:hover{color:#000}
+.sep{color:#aaa}
+
+.type{
+  font-size:10px;
+  text-transform:uppercase;
+  letter-spacing:.12em;
+  color:var(--muted);
+  margin-bottom:14px;
+}
+
+h1{
+  margin:0;
+  max-width:1000px;
+  font-size:clamp(56px,7vw,98px);
+  line-height:.94;
+  letter-spacing:-.06em;
+  font-weight:500;
+}
+
+.deck{
+  margin:28px 0 0;
+  max-width:760px;
+  font-size:20px;
+  line-height:1.5;
+  color:#333;
+}
+
+
+/* SEARCH / ARTICLE TOOLS */
+.tools{
+  margin-top:48px;
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto;
+  gap:18px;
+  align-items:start;
+}
+.quick{
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  padding:20px 22px;
+}
+.quick-label{
+  font-size:10px;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  color:var(--muted);
+  margin-bottom:8px;
+}
+.quick p{
+  margin:0;
+  font-size:16px;
+  line-height:1.55;
+}
+.toc-trigger{
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  min-height:46px;
+  padding:0 14px;
+  background:#fff;
+  font-size:12px;
+  color:#333;
+}
+
+/* TOC */
+.toc{
+  margin-top:30px;
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+}
+.toc a{
+  min-height:32px;
+  display:inline-flex;
+  align-items:center;
+  padding:0 10px;
+  border-radius:var(--radius);
+  background:var(--soft);
+  font-size:11px;
+  color:#505050;
+}
+.toc a:hover{color:#000}
+
+/* TWO-COLUMN ARTICLE BODY */
+.article-body{
+  margin-top:72px;
+  max-width:780px;
+}
+
+.article-body section{
+  scroll-margin-top:28px;
+  min-width:0;
+  margin-top:64px;
+}
+.article-body section:first-child{
+  margin-top:0;
+}
+
+.article-body .wide{
+  max-width:780px;
+}
+
+.article-body h2{
+  margin:0 0 18px;
+  font-size:34px;
+  line-height:1.08;
+  letter-spacing:-.04em;
+  font-weight:500;
+}
+
+.article-body h3{
+  margin:30px 0 10px;
+  font-size:19px;
+  line-height:1.25;
+  letter-spacing:-.02em;
+}
+
+.article-body p{
+  margin:0 0 18px;
+  color:#292929;
+  font-size:16px;
+  line-height:1.72;
+}
+
+.article-body ul{
+  margin:8px 0 20px;
+  padding-left:20px;
+}
+.article-body li{
+  margin:7px 0;
+  color:#292929;
+}
+
+.note{
+  margin:26px 0;
+  padding:18px 20px;
+  border-radius:var(--radius);
+  background:var(--soft);
+}
+.note strong{
+  display:block;
+  margin-bottom:5px;
+  font-size:13px;
+}
+.note p{
+  margin:0;
+  font-size:14px;
+  color:#404040;
+}
+
+.mini-table{
+  width:100%;
+  border-collapse:collapse;
+  margin:22px 0 0;
+  font-size:14px;
+}
+.mini-table th,
+.mini-table td{
+  text-align:left;
+  vertical-align:top;
+  padding:13px 12px;
+  border-bottom:1px solid var(--line);
+}
+.mini-table th{
+  font-size:11px;
+  text-transform:uppercase;
+  letter-spacing:.06em;
+  color:var(--muted);
+  font-weight:600;
+}
+
+/* FAQ */
+.faq{
+  display:block;
+}
+.faq h2{
+  margin-bottom:24px;
+}
+.faq-item + .faq-item{
+  margin-top:24px;
+}
+.faq-item{
+  padding:0;
+}
+.faq-q{
+  font-size:17px;
+  font-weight:600;
+  margin-bottom:7px;
+}
+.faq-a{
+  color:#3d3d3d;
+}
+
+/* RELATED */
+.related{
+  margin:86px 0 100px;
+}
+.related-head{
+  display:flex;
+  justify-content:space-between;
+  gap:24px;
+  align-items:end;
+  margin-bottom:20px;
+}
+.related h2{
+  margin:0;
+  font-size:30px;
+  line-height:1.1;
+  letter-spacing:-.035em;
+  font-weight:500;
+}
+.related-note{
+  font-size:11px;
+  color:var(--muted);
+}
+.related-grid{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:6px;
+  max-width:780px;
+}
+.related a{
+  min-height:68px;
+  display:grid;
+  grid-template-columns:34px minmax(0,1fr) auto;
+  gap:12px;
+  align-items:center;
+  padding:0 12px;
+  border-radius:var(--radius);
+}
+.related a:hover{background:var(--soft)}
+.related .idx{font-size:10px;color:var(--muted)}
+.related .title{font-size:15px}
+.related .arrow{font-size:15px;color:var(--muted)}
+
+@media (max-width:920px){
+  .wrap{width:min(100% - 36px,var(--max))}
+  .hero{padding-top:48px}
+  h1{font-size:58px}
+  .deck{font-size:17px}
+}
+
+@media (max-width:560px){
+  .wrap{width:min(100% - 28px,var(--max))}
+  .top{min-height:56px}
+  .top-meta{display:none}
+  .hero{padding:34px 0 30px}
+  .breadcrumb{margin-bottom:32px}
+  h1{font-size:45px}
+  .deck{font-size:16px}
+  .tools{grid-template-columns:1fr}
+  .toc-trigger{display:none}
+  .article-body{margin-top:54px}
+  .article-body h2{font-size:29px}
+  .article-body p{font-size:15px}
+}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <div class="top">
+    <a class="brand" href="#">Alle's ClinX</a>
+    <div class="top-meta">Knowledge article</div>
+  </div>
+
+  <main>
+    <section class="hero">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="#">Cleaning Chemistry</a><span class="sep">/</span>
+        <a href="#">pH, Acids & Alkalis</a><span class="sep">/</span>
+        <span>What Is pH in Cleaning Chemicals?</span>
+      </nav>
+
+      <div class="type">Explainer</div>
+
+      <h1>What Is pH in Cleaning Chemicals?</h1>
+
+      <p class="deck">
+        pH is one of the basic ways cleaning chemicals are described. Understanding it helps explain why different products are suited to different soils and different materials.
+      </p>
+
+      <div class="tools">
+        <div class="quick">
+          <div class="quick-label">Quick answer</div>
+          <p>
+            pH indicates how acidic, neutral or alkaline a water-based solution is. In professional cleaning, pH can influence cleaning behaviour and material compatibility, but it is only one part of product selection.
+          </p>
+        </div>
+        <button class="toc-trigger" type="button" onclick="document.querySelector('.toc').scrollIntoView({behavior:'smooth'})">
+          On this page ↓
+        </button>
+      </div>
+
+      <nav class="toc" aria-label="On this page">
+        <a href="#what-is-ph">What is pH?</a>
+        <a href="#ph-scale">The pH scale</a>
+        <a href="#acidic-cleaners">Acidic cleaners</a>
+        <a href="#neutral-cleaners">Neutral cleaners</a>
+        <a href="#alkaline-cleaners">Alkaline cleaners</a>
+        <a href="#why-ph-matters">Why pH matters</a>
+        <a href="#surface-compatibility">Surface compatibility</a>
+        <a href="#frequently-asked-questions">FAQ</a>
+      </nav>
+    </section>
+
+    <div class="article-body">
+
+      <section id="what-is-ph">
+        <h2>What is pH?</h2>
+        <p>
+          pH is a scale used to describe whether a water-based solution is acidic, neutral or alkaline. It is commonly used in cleaning chemistry because different formulations are designed for different kinds of cleaning work.
+        </p>
+        <p>
+          pH should not be treated as a complete description of a product. Surfactants, solvents, builders, enzymes, disinfectant actives and other formulation components can also affect how a cleaner performs.
+        </p>
+      </section>
+
+      <section id="ph-scale">
+        <h2>The pH scale</h2>
+        <p>
+          The scale runs from acidic through neutral to alkaline. A value around 7 is neutral; lower values are acidic and higher values are alkaline.
+        </p>
+
+        <table class="mini-table">
+          <thead>
+            <tr>
+              <th>Range</th>
+              <th>General cleaning context</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Acidic</td>
+              <td>Often associated with mineral deposits and scale.</td>
+            </tr>
+            <tr>
+              <td>Neutral</td>
+              <td>Often used for routine cleaning where a milder chemistry profile is suitable.</td>
+            </tr>
+            <tr>
+              <td>Alkaline</td>
+              <td>Often associated with grease, oils and heavier organic soil.</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section id="acidic-cleaners">
+        <h2>Acidic cleaners</h2>
+        <p>
+          Acidic formulations are commonly associated with mineral deposits, scale and certain inorganic soils. They can be useful in the right application, but some materials are sensitive to acids.
+        </p>
+        <div class="note">
+          <strong>Material compatibility matters</strong>
+          <p>
+            Product labels, technical data and safety information should be checked for the intended surface and task.
+          </p>
+        </div>
+      </section>
+
+      <section id="neutral-cleaners">
+        <h2>Neutral cleaners</h2>
+        <p>
+          Neutral or near-neutral formulations are commonly used for routine cleaning where a milder chemistry profile is suitable. Neutral pH does not automatically make a formulation appropriate for every surface or every soil.
+        </p>
+      </section>
+
+      <section id="alkaline-cleaners">
+        <h2>Alkaline cleaners</h2>
+        <p>
+          Alkaline formulations are commonly associated with grease, oils and heavier organic soils. Stronger alkalinity can also increase the importance of surface compatibility and controlled-use information.
+        </p>
+      </section>
+
+      <section id="why-ph-matters">
+        <h2>Why pH matters</h2>
+        <p>
+          pH helps explain the broad chemistry of a cleaner, but good product selection still depends on the soil, surface, process and intended application.
+        </p>
+        <ul>
+          <li>Different soils respond differently to different chemistry.</li>
+          <li>Some materials are more sensitive to acidic or alkaline conditions.</li>
+          <li>Similar pH values do not mean two formulations will perform identically.</li>
+          <li>Controlled product information matters more than pH alone.</li>
+        </ul>
+      </section>
+
+      <section id="surface-compatibility" class="wide">
+        <h2>pH and surface compatibility</h2>
+        <p>
+          Surface compatibility is one of the most important reasons to understand pH. Natural stone, metals, coatings, fabrics and other materials can respond differently to cleaning chemistry.
+        </p>
+        <p>
+          Professional cleaning decisions should therefore be based on the intended application and controlled product information rather than assuming that stronger chemistry produces a better result.
+        </p>
+      </section>
+
+      <section class="faq wide" id="frequently-asked-questions">
+        <h2>Frequently asked questions</h2>
+
+        <div class="faq-item">
+          <div class="faq-q">Does a higher pH mean a cleaner is stronger?</div>
+          <div class="faq-a">Not necessarily. pH describes acidity or alkalinity; it does not measure overall cleaning performance.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-q">Is neutral pH safe for every surface?</div>
+          <div class="faq-a">No. Surface compatibility depends on the full formulation and the material, not pH alone.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-q">Should pH be the main way to choose a cleaning chemical?</div>
+          <div class="faq-a">It is useful context, but intended application, soil type, material and product documentation are more important.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-q">Can two cleaners with the same pH perform differently?</div>
+          <div class="faq-a">Yes. Other ingredients and formulation choices can substantially change cleaning behaviour.</div>
+        </div>
+      </section>
+
+    </div>
+
+    <section class="related">
+      <div class="related-head">
+        <h2>Related articles</h2>
+        <div class="related-note">Cleaning Chemistry</div>
+      </div>
+
+      <div class="related-grid">
+        <a href="#">
+          <span class="idx">01</span>
+          <span class="title">Acidic vs alkaline cleaners</span>
+          <span class="arrow">↗</span>
+        </a>
+        <a href="#">
+          <span class="idx">02</span>
+          <span class="title">What are surfactants?</span>
+          <span class="arrow">↗</span>
+        </a>
+        <a href="#">
+          <span class="idx">03</span>
+          <span class="title">How surface compatibility works</span>
+          <span class="arrow">↗</span>
+        </a>
+        <a href="#">
+          <span class="idx">04</span>
+          <span class="title">How to choose the right cleaning product</span>
+          <span class="arrow">↗</span>
+        </a>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+</body>
+</html>
