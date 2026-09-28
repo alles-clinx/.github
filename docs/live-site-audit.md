@@ -5,12 +5,12 @@ Newly found files are not imported automatically; they require controlled review
 
 ## Current discovery
 
-- Pages crawled: **5**
-- Live PDF/document links resolved: **0**
+- Pages crawled: **250**
+- Live PDF/document links resolved: **192**
 - Candidate PDFs needing repository review: **0**
 - Repository PDFs: **192**
-- Repository PDFs not observed by this crawl: **192**
-- Document Center SKUs observed: **0**
+- Repository PDFs not observed by this crawl: **0**
+- Document Center SKUs observed: **35**
 - Document Center 'coming soon' mentions observed: **0**
 
 ## Candidate documents
