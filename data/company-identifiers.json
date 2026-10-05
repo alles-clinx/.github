@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "entity": {
+    "legal_name": "Champaran Innovatives Private Limited",
+    "brand": "Alle's ClinX",
+    "country": "India",
+    "website": "https://allesclinx.com/"
+  },
+  "identifiers": [
+    {
+      "provider": "LSEG",
+      "type": "PermID",
+      "value": "6000375462"
+    },
+    {
+      "provider": "LSEG",
+      "type": "ORG ID",
+      "value": "128194246"
+    },
+    {
+      "provider": "S&P Capital IQ",
+      "type": "Company ID",
+      "value": "2018713108",
+      "reference_url": "https://www.capitaliq.com/CIQDotNet/company.aspx?companyId=2018713108"
+    },
+    {
+      "provider": "S&P Global",
+      "type": "Company Profile ID",
+      "value": "150390290",
+      "reference_url": "https://www.capitaliq.spglobal.com/apisv3/spg-webplatform-core/company/profile?id=150390290"
+    },
+    {
+      "provider": "Bloomberg",
+      "type": "Ticker",
+      "value": "2683625D:IN"
+    },
+    {
+      "provider": "Bloomberg",
+      "type": "Terminal Security",
+      "value": "2683625D IN Equity"
+    },
+    {
+      "provider": "Bloomberg",
+      "type": "Terminal DES Command",
+      "value": "2683625D IN Equity DES"
+    }
+  ]
+}
