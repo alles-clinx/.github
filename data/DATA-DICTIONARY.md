@@ -2,6 +2,16 @@
 
 This document describes the role of the machine-readable files published under `data/`.
 
+## Company identity data
+
+### `company-identifiers.json`
+
+Canonical machine-readable company identifier dataset for **Champaran Innovatives Private Limited**, including LSEG, S&P and Bloomberg identifiers used to resolve the legal entity across external data systems.
+
+### `company-identifiers.csv`
+
+Tabular representation of the company identifier dataset for imports, spreadsheets and simple entity-resolution workflows.
+
 ## Curated product data
 
 ### `products.json`
