@@ -47,6 +47,19 @@
       "sameAs": [
         "https://github.com/alles-clinx"
       ]
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://ai.allesclinx.com/#app",
+      "name": "Alle's ClinX AI Portal",
+      "url": "https://ai.allesclinx.com/",
+      "applicationCategory": "BusinessApplication",
+      "provider": {
+        "@id": "https://allesclinx.com/#champaran-innovatives"
+      },
+      "brand": {
+        "@id": "https://allesclinx.com/#alles-clinx"
+      }
     }
   ]
 }
