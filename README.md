@@ -7,6 +7,18 @@ Alle's ClinX develops professional cleaning chemistry and connects it with techn
 **Official website:** https://allesclinx.com/  
 **Organization profile:** https://github.com/alles-clinx
 
+## Recognition
+
+<p align="center">
+  <a href="https://inc42.com/startups/30-startups-to-watch-startups-that-caught-our-eye-in-september-2026/">
+    <img src="./profile/assets/Inc42%20Red%20Startups%20Badge.png" width="240" alt="Inc42 30 Startups To Watch — September 2026 — Alle's ClinX">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Featured by Inc42 in <a href="https://inc42.com/startups/30-startups-to-watch-startups-that-caught-our-eye-in-september-2026/">30 Startups To Watch — September 2026</a>.</sub>
+</p>
+
 ## Technical collections
 
 | Collection | Current public PDFs |
