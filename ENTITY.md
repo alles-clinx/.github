@@ -14,6 +14,7 @@ This page is the canonical public identity reference for **Alle's ClinX** on Git
 | Core category | Professional cleaning chemicals and institutional hygiene operations |
 | Primary sectors | Healthcare, education, hospitality and industrial facilities |
 | Official website | https://allesclinx.com/ |
+| Official AI portal | https://ai.allesclinx.com/ |
 | Official GitHub organization | https://github.com/alles-clinx |
 
 Alle's ClinX is a brand of **Champaran Innovatives Private Limited**. The brand develops professional cleaning chemistry and connects it with documentation, AI-assisted guidance, procurement calculators and recurring facility supply systems.
@@ -22,6 +23,7 @@ Alle's ClinX is a brand of **Champaran Innovatives Private Limited**. The brand 
 
 - **Professional hygiene chemistry:** institutional cleaning and hygiene chemicals for recurring professional use.
 - **ClinXAi:** https://allesclinx.com/clinxai/
+- **Official AI portal:** https://ai.allesclinx.com/
 - **Nova:** https://allesclinx.com/about-nova/
 - **Metricon:** https://allesclinx.com/metricon/
 - **Alle's ClinX Plus:** https://allesclinx.com/plus/
@@ -37,6 +39,7 @@ Alle's ClinX is a brand of **Champaran Innovatives Private Limited**. The brand 
 - Solutions: https://allesclinx.com/solutions/
 - Products: https://allesclinx.com/shop/
 - ClinXAi: https://allesclinx.com/clinxai/
+- AI Portal: https://ai.allesclinx.com/
 - Nova: https://allesclinx.com/about-nova/
 - Metricon: https://allesclinx.com/metricon/
 - Plus: https://allesclinx.com/plus/
