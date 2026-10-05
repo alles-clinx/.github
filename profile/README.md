@@ -16,8 +16,6 @@
   <a href="https://allesclinx.com/support/">Support</a>
 </p>
 
----
-
 ## Alle's ClinX at a glance
 
 <table>
@@ -37,7 +35,7 @@ The objective is straightforward: make institutional hygiene easier to specify, 
 
 <p align="center">
   <a href="https://inc42.com/startups/30-startups-to-watch-startups-that-caught-our-eye-in-september-2026/">
-    <img src="./assets/inc42-startups-to-watch-sep-2026-alles-clinx.jpg" width="240" alt="Inc42 30 Startups To Watch — September 2026 — Alle's ClinX">
+    <img src="./assets/Inc42%20Red%20Startups%20Badge.png" width="240" alt="Inc42 30 Startups To Watch — September 2026 — Alle's ClinX">
   </a>
 </p>
 
@@ -192,8 +190,6 @@ Procurement: [procurement@allesclinx.com](mailto:procurement@allesclinx.com)
 Official website: [allesclinx.com](https://allesclinx.com/)
 
 > Information published here supports professional decision-making but does not replace the current product label, Safety Data Sheet, Technical Data Sheet, applicable regulation or an institution's approved operating procedure. Never mix chemical products unless official documentation explicitly permits it.
-
----
 
 <p align="center">
   <strong>Alle's ClinX</strong><br>
