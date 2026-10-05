@@ -29,6 +29,16 @@
           "@type": "PropertyValue",
           "propertyID": "S&P Global company profile ID",
           "value": "150390290"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Bloomberg ticker",
+          "value": "2683625D:IN"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Bloomberg terminal security",
+          "value": "2683625D IN Equity"
         }
       ],
       "sameAs": [
