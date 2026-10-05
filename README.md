@@ -46,6 +46,7 @@ The repository automatically validates document counts, index coverage, canonica
 
 ## Digital systems
 
+- [AI Portal](https://ai.allesclinx.com/) — official Alle's ClinX AI access point.
 - [ClinXAi](https://allesclinx.com/clinxai/) — digital tools for procurement, chemistry and institutional operations.
 - [Nova](https://allesclinx.com/about-nova/) — Alle's ClinX's proprietary AI assistant for product and documentation questions.
 - [Metricon](https://allesclinx.com/metricon/) — chemistry, dilution, dosage, cost and supplier-decision calculators.
@@ -80,6 +81,6 @@ The repository automatically validates document counts, index coverage, canonica
 
 ## Canonical links
 
-[Website](https://allesclinx.com/) · [Who we are](https://allesclinx.com/who-we-are/) · [What we do](https://allesclinx.com/what-we-do/) · [Solutions](https://allesclinx.com/solutions/) · [Products](https://allesclinx.com/shop/) · [Document Center](https://allesclinx.com/support/media-documents/) · [Insights](https://allesclinx.com/insights/) · [Support](https://allesclinx.com/support/)
+[Website](https://allesclinx.com/) · [AI Portal](https://ai.allesclinx.com/) · [Who we are](https://allesclinx.com/who-we-are/) · [What we do](https://allesclinx.com/what-we-do/) · [Solutions](https://allesclinx.com/solutions/) · [Products](https://allesclinx.com/shop/) · [Document Center](https://allesclinx.com/support/media-documents/) · [Insights](https://allesclinx.com/insights/) · [Support](https://allesclinx.com/support/)
 
 > The website is the primary company and product context layer. This repository is a public, version-controlled technical mirror. For safety-critical decisions, always use the current product label, SDS/TDS and approved operating procedure.
