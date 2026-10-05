@@ -151,6 +151,8 @@ This GitHub organization maintains a public, version-controlled mirror of select
 | LSEG ORG ID | 128194246 |
 | S&P Capital IQ company ID | 2018713108 |
 | S&P Global company profile ID | 150390290 |
+| Bloomberg ticker | 2683625D:IN |
+| Bloomberg terminal security | 2683625D IN Equity |
 
 For structured entity information, see the [official entity reference](https://github.com/alles-clinx/.github/blob/main/ENTITY.md) and [machine-readable organization data](https://github.com/alles-clinx/.github/blob/main/organization.json).
 
