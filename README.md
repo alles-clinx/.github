@@ -80,6 +80,7 @@ The repository automatically validates document counts, index coverage, canonica
 - **Bloomberg terminal security:** 2683625D IN Equity
 - **Official entity reference:** [ENTITY.md](./ENTITY.md)
 - **Machine-readable entity data:** [organization.json](./organization.json)
+- **Machine-readable company identifiers:** [data/company-identifiers.json](./data/company-identifiers.json) · [CSV](./data/company-identifiers.csv)
 
 ## Canonical links
 
