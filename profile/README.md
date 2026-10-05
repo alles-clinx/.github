@@ -33,6 +33,18 @@
 
 The objective is straightforward: make institutional hygiene easier to specify, safer to use and more consistent to operate.
 
+## Recognition
+
+<p align="center">
+  <a href="https://inc42.com/startups/30-startups-to-watch-startups-that-caught-our-eye-in-september-2026/">
+    <img src="./assets/inc42-startups-to-watch-sep-2026-alles-clinx.jpg" width="240" alt="Inc42 30 Startups To Watch — September 2026 — Alle's ClinX">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Featured by Inc42 in <a href="https://inc42.com/startups/30-startups-to-watch-startups-that-caught-our-eye-in-september-2026/">30 Startups To Watch — September 2026</a>.</sub>
+</p>
+
 ## Core systems
 
 <table>
