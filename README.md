@@ -76,6 +76,8 @@ The repository automatically validates document counts, index coverage, canonica
 - **Brand:** Alle's ClinX
 - **Legal operator:** Champaran Innovatives Private Limited
 - **Country:** India
+- **Bloomberg ticker:** 2683625D:IN
+- **Bloomberg terminal security:** 2683625D IN Equity
 - **Official entity reference:** [ENTITY.md](./ENTITY.md)
 - **Machine-readable entity data:** [organization.json](./organization.json)
 
