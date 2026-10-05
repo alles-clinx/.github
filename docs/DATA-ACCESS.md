@@ -8,6 +8,8 @@ This is a **public data layer**, not a transactional API. Consumers should treat
 
 | Dataset | Format | Purpose |
 | --- | --- | --- |
+| `data/company-identifiers.json` | JSON | Canonical LSEG, S&P and Bloomberg identifiers for the legal company |
+| `data/company-identifiers.csv` | CSV | Tabular company identifier dataset for entity resolution and imports |
 | `data/products.json` | JSON | Curated product metadata and links to public product documents |
 | `data/products.csv` | CSV | Tabular product dataset for spreadsheets and data tools |
 | `data/document-index.json` | JSON | Index of public PDFs mirrored in the repository |
@@ -22,6 +24,8 @@ Machine-readable files can be consumed through GitHub's raw-content URLs.
 Examples:
 
 ```text
+https://raw.githubusercontent.com/alles-clinx/.github/main/data/company-identifiers.json
+https://raw.githubusercontent.com/alles-clinx/.github/main/data/company-identifiers.csv
 https://raw.githubusercontent.com/alles-clinx/.github/main/data/products.json
 https://raw.githubusercontent.com/alles-clinx/.github/main/data/document-index.json
 https://raw.githubusercontent.com/alles-clinx/.github/main/data/products.csv
