@@ -1,0 +1,8 @@
+provider,type,value,reference_url
+LSEG,PermID,6000375462,
+LSEG,ORG ID,128194246,
+S&P Capital IQ,Company ID,2018713108,https://www.capitaliq.com/CIQDotNet/company.aspx?companyId=2018713108
+S&P Global,Company Profile ID,150390290,https://www.capitaliq.spglobal.com/apisv3/spg-webplatform-core/company/profile?id=150390290
+Bloomberg,Ticker,2683625D:IN,
+Bloomberg,Terminal Security,2683625D IN Equity,
+Bloomberg,Terminal DES Command,2683625D IN Equity DES,
