@@ -8,10 +8,11 @@ The customer-facing tools come first. Repository maintenance automation is liste
 
 ### ClinXAi
 
-[ClinXAi](https://allesclinx.com/clinxai/) is the umbrella for Alle's ClinX digital intelligence tools.
+[ClinXAi](https://allesclinx.com/clinxai/) is the umbrella for Alle's ClinX digital intelligence tools. The official AI access point is [ai.allesclinx.com](https://ai.allesclinx.com/).
 
 | Tool | Status | Purpose |
 | --- | --- | --- |
+| [AI Portal](https://ai.allesclinx.com/) | Available | Official access point for Alle's ClinX AI services |
 | [Nova](https://allesclinx.com/about-nova/) | Available | AI assistant for Alle's ClinX product, documentation and policy questions |
 | [Metricon](https://allesclinx.com/metricon/) | Available | Browser-based procurement, application, chemistry and risk calculators |
 | [CheckMate](https://allesclinx.com/checkmate/) | Available | Product identity, document consistency, procurement evidence and delivery verification |
