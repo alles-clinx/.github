@@ -11,6 +11,8 @@
   &nbsp;·&nbsp;
   <a href="https://allesclinx.com/clinxai/">ClinXAi</a>
   &nbsp;·&nbsp;
+  <a href="https://ai.allesclinx.com/">AI Portal</a>
+  &nbsp;·&nbsp;
   <a href="https://allesclinx.com/support/media-documents/">Document Center</a>
   &nbsp;·&nbsp;
   <a href="https://allesclinx.com/support/">Support</a>
@@ -62,7 +64,7 @@ Institutional cleaning and hygiene formulations supported by dilution guidance, 
 
 The digital intelligence layer around the Alle's ClinX system, connecting product knowledge, procurement support and institutional operating tools.
 
-[Explore ClinXAi →](https://allesclinx.com/clinxai/)
+[Explore ClinXAi →](https://allesclinx.com/clinxai/) · [Open AI Portal →](https://ai.allesclinx.com/)
 
 </td>
 </tr>
@@ -158,6 +160,7 @@ For structured entity information, see the [official entity reference](https://g
 | --- | --- |
 | [Who we are](https://allesclinx.com/who-we-are/) | Company identity, operating model and background |
 | [What we do](https://allesclinx.com/what-we-do/) | Chemistry, data, AI and institutional supply systems |
+| [AI Portal](https://ai.allesclinx.com/) | Official Alle's ClinX AI access point |
 | [Solutions](https://allesclinx.com/solutions/) | Sector and facility use cases |
 | [Products](https://allesclinx.com/shop/) | Institutional cleaning and hygiene chemistry |
 | [Document Center](https://allesclinx.com/support/media-documents/) | Official technical and company documentation |
