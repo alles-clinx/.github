@@ -64,10 +64,13 @@ The official GitHub technical library contains public Safety Data Sheets, Standa
 - LSEG ORG ID: **128194246**
 - S&P Capital IQ company ID: **2018713108**
 - S&P Global company profile ID: **150390290**
+- Bloomberg ticker: **2683625D:IN**
+- Bloomberg terminal security: **2683625D IN Equity**
+- Bloomberg DES lookup: **2683625D IN Equity DES**
 - S&P Capital IQ profile: https://www.capitaliq.com/CIQDotNet/company.aspx?companyId=2018713108
 - S&P Global profile endpoint: https://www.capitaliq.spglobal.com/apisv3/spg-webplatform-core/company/profile?id=150390290
 
-These identifiers refer to the legal company operating the Alle's ClinX brand.
+These identifiers refer to the legal company operating the Alle's ClinX brand. On Bloomberg Terminal, the company security can be opened with `2683625D IN Equity` and the descriptive profile with `2683625D IN Equity DES`.
 
 ## Contact
 
