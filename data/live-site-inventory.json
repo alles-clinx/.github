@@ -30,42 +30,6 @@
       "skus": []
     },
     {
-      "url": "https://allesclinx.com/knowledge/about/",
-      "http_status": 200,
-      "title": "About Knowledge & Digital Tools | Alle's ClinX Knowledge",
-      "skus": []
-    },
-    {
-      "url": "https://allesclinx.com/knowledge/about/checkmate/",
-      "http_status": 200,
-      "title": "About CheckMate | Alle's ClinX Knowledge",
-      "skus": []
-    },
-    {
-      "url": "https://allesclinx.com/knowledge/about/knowledge/",
-      "http_status": 200,
-      "title": "About Alle's ClinX Knowledge | Alle's ClinX Knowledge",
-      "skus": []
-    },
-    {
-      "url": "https://allesclinx.com/knowledge/about/metricon/",
-      "http_status": 200,
-      "title": "About Metricon | Alle's ClinX Knowledge",
-      "skus": []
-    },
-    {
-      "url": "https://allesclinx.com/knowledge/about/nova/",
-      "http_status": 200,
-      "title": "About Nova | Alle's ClinX Knowledge",
-      "skus": []
-    },
-    {
-      "url": "https://allesclinx.com/knowledge/about/tools/",
-      "http_status": 200,
-      "title": "About Alle's ClinX Digital Tools | Alle's ClinX Knowledge",
-      "skus": []
-    },
-    {
       "url": "https://allesclinx.com/knowledge/library/alles-clinx/",
       "http_status": 200,
       "title": "Alle's ClinX Tools & Support | Alle's ClinX Knowledge",
@@ -1491,6 +1455,42 @@
       "url": "https://allesclinx.com/knowledge/library/disinfection-infection-prevention/disinfectant-chemistry/how-different-disinfectant-families-differ/",
       "http_status": 200,
       "title": "How Different Disinfectant Families Differ | Alle's ClinX",
+      "skus": []
+    },
+    {
+      "url": "https://allesclinx.com/knowledge/library/disinfection-infection-prevention/disinfectant-chemistry/how-different-disinfectant-families-differ/hi.html",
+      "http_status": 200,
+      "title": "Different Disinfectant Families | Alle's ClinX",
+      "skus": []
+    },
+    {
+      "url": "https://allesclinx.com/knowledge/library/disinfection-infection-prevention/disinfectant-chemistry/how-disinfectant-chemistry-relates-to-application/",
+      "http_status": 200,
+      "title": "How Disinfectant Chemistry Relates to Application | Alle's ClinX",
+      "skus": []
+    },
+    {
+      "url": "https://allesclinx.com/knowledge/library/disinfection-infection-prevention/disinfectant-chemistry/how-disinfectant-chemistry-relates-to-application/hi.html",
+      "http_status": 200,
+      "title": "Disinfectant Chemistry and Application | Alle's ClinX",
+      "skus": []
+    },
+    {
+      "url": "https://allesclinx.com/knowledge/library/disinfection-infection-prevention/disinfectant-chemistry/water-quality-materials-disinfectants/",
+      "http_status": 200,
+      "title": "How Water Quality and Materials Affect Some Disinfectants | Alle's ClinX",
+      "skus": []
+    },
+    {
+      "url": "https://allesclinx.com/knowledge/library/disinfection-infection-prevention/disinfectant-chemistry/water-quality-materials-disinfectants/hi.html",
+      "http_status": 200,
+      "title": "Water Quality, Materials and Disinfectants | Alle's ClinX",
+      "skus": []
+    },
+    {
+      "url": "https://allesclinx.com/knowledge/library/disinfection-infection-prevention/disinfectant-chemistry/why-product-claims-matter/",
+      "http_status": 200,
+      "title": "Why Product Claims Matter More Than Ingredient Names | Alle's ClinX",
       "skus": []
     },
     {
